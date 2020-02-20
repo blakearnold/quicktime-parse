@@ -1,2 +1,42 @@
 parses quicktime files according to 
 https://developer.apple.com/library/mac/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html#//apple_ref/doc/uid/TP40000939-CH202-TPXREF101
+
+
+steps:
+- DONE - Find where the files starts (mov_recovery/extract_TLT & mov_recovery/recover.py) - notes/corrupt_files_exploration.txt
+- Done - cut/concat all files together into one file (extract.py and cat) - /Volumes/Samsung_T5/hope4.mov
+- Done - Modify mdat length data in place (quicktime-parse/parse.py) -
+python3 parse.py /Volumes/Samsung_T5/hope4.mov --mdat_length=34280046624
+
+- Done - create stsz and co64 tables with the mdat data (mov_recovery/recover_chunk_table.py), output each to new files
+/Samsung_T5/chunk_table_hope4.c064 && chunk_table_hope4.stsz
+- output modified moov data to a new file, modifying the information below, incorporating the stsz and co64 table (quicktime-parse/parse.py)
+- append the output moov data in place in the file
+
+mdat data length - 8+8+size of data
+duration - 1001 * number of samples in tables below
+
+
+moov -> trak -> mdia -> minf -> stbl -> stsz
+	number of entries
+	sample size table
+
+moov -> trak -> mdia -> minf -> stbl -> co64
+	number of entries
+	chunk offset table - sample to file offset
+
+	Using recover_chunk_table.py to build sts and co64
+
+
+moov -> trak -> mdia -> minf -> stbl -> stts
+	time-to-sample table
+	number of samples : 1001
+
+moov -> trak -> mdia -> minf -> stbl -> stsc
+	sample-to-chunk table
+
+	Each table entry corresponds to a set of consecutive chunks, each of which contains the same number of samples. Furthermore, each of the samples in these chunks must use the same sample description. Whenever the number of samples per chunk or the sample description changes, you must create a new table entry. If all the chunks have the same number of samples per chunk and use the same sample description, this table has one entry.
+
+	1 : 1 - 1
+	number of entries - 1 : 1 - 1
+
