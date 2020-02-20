@@ -1,0 +1,8291 @@
+File: /Volumes/Samsung_T5/COPY_OF_OVERWRITTEN_CARD/A064R5GE/A064C001_190523_R5GE.mov (10181672960 bytes, 9710.0 MB)
+reading 8
+- Atom: ftyp (32 bytes)
+reading 8
+  | Brand: qt  , version: 537199360
+reading 16
+reading 8
+- Atom: wide (2097088 bytes)
+unhandled thingie 2097088 wide
+seeking 2097080
+reading 8
+- Atom: mdat (1 bytes)
+unhandled thingie 1 mdat
+64 bit header!
+reading 8
+seeking 10175381520
+reading 8
+  - - 0: 1806267 - b'\x00\x00\x00\x00'
+reading 8
+  - - 1: 2027934462 - b'Waz"'
+reading 12
+  - - raw: b'\xc7=N\xbf\x9f\xbep\xb7s\xbe\x17\xf0'
+reading 8
+- Atom: moov (463868 bytes)
+reading 8
+  - Atom: mvhd (108 bytes)
+reading 100
+    | Creation time: 2019-05-23 19:38:37 (3641485117)
+    | Modification time: 2019-05-23 19:39:57 (3641485197)
+    | Time Scale: 24000
+    | Duration: 1911910
+    | Preferred rate: 65536
+    | Preferred volume: 256
+    | preview time: 0
+    | preview duration: 0
+    | poster time: 0
+    | selection time: 0
+    | selection duration: 0
+    | current time: 0
+    | next track id: 4
+reading 8
+  - Atom: trak (25192 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 19:38:37 (3641485117)
+      | Modification time: 2019-05-23 19:39:57 (3641485197)
+reading 8
+    - Atom: tapt (68 bytes)
+unhandled thingie 68 tapt
+seeking 60
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (24988 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 19:38:37 (3641485117)
+        | Modification time: 2019-05-23 19:39:57 (3641485197)
+        | Time Scale: 24000
+        | Duration: 1911910
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1986618469
+        | component manufacturer: 1634758764
+        | component flags: 268435456
+        | component flags mask: 66003
+        | component name: b'\x19Apple Video Media Handler\x00\x00'
+reading 8
+      - Atom: minf (24888 bytes)
+reading 8
+        - Atom: vmhd (20 bytes)
+reading 12
+          | graphics mode: 64
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Alias Data Handler\x00\x00\x00'
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00\x00\x01'
+reading 8
+        - Atom: stbl (24764 bytes)
+reading 8
+          - Atom: stsd (1736 bytes)
+reading 1728
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x06\xb8ap4h\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00appl\x00\x00\x00\x00\x00\x00\x02\x00\x0f\x00\x08p\x00H\x00\x00\x00H\x00\x00\x00\x00\x00\x00\x00\x01\x11Apple ProRes 4444\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18\xff\xff\x00\x00\x00\nfiel\x01\x00\x00\x00\x00\x12'...1620 more bytes
+reading 8
+          - Atom: stts (24 bytes)
+reading 8
+            | number of entries : 1
+            | time-to-sample table:
+reading 8
+            | 1910: 1001
+reading 8
+          - Atom: stsc (40 bytes)
+reading 8
+            | number of entries : 2
+            | sample-to-chunk table:
+reading 12
+            | 1: 1 - 1
+reading 12
+            | 1909: 1 - 1
+reading 8
+          - Atom: stsz (7660 bytes)
+reading 12
+            | sample size : 0
+            | number of entries : 1910
+            | sample size table:
+reading 4
+            | 0 - 5545984
+reading 4
+            | 1 - 5548032
+reading 4
+            | 2 - 5552128
+reading 4
+            | 3 - 5564416
+reading 4
+            | 4 - 5576704
+reading 4
+            | 5 - 5582848
+reading 4
+            | 6 - 5578752
+reading 4
+            | 7 - 5574656
+reading 4
+            | 8 - 5568512
+reading 4
+            | 9 - 5568512
+reading 4
+            | 10 - 5570560
+reading 4
+            | 11 - 5574656
+reading 4
+            | 12 - 5580800
+reading 4
+            | 13 - 5570560
+reading 4
+            | 14 - 5578752
+reading 4
+            | 15 - 5588992
+reading 4
+            | 16 - 5615616
+reading 4
+            | 17 - 5646336
+reading 4
+            | 18 - 5693440
+reading 4
+            | 19 - 5703680
+reading 4
+            | 20 - 5711872
+reading 4
+            | 21 - 5687296
+reading 4
+            | 22 - 5677056
+reading 4
+            | 23 - 5679104
+reading 4
+            | 24 - 5679104
+reading 4
+            | 25 - 5695488
+reading 4
+            | 26 - 5683200
+reading 4
+            | 27 - 5695488
+reading 4
+            | 28 - 5709824
+reading 4
+            | 29 - 5709824
+reading 4
+            | 30 - 5687296
+reading 4
+            | 31 - 5648384
+reading 4
+            | 32 - 5619712
+reading 4
+            | 33 - 5613568
+reading 4
+            | 34 - 5603328
+reading 4
+            | 35 - 5593088
+reading 4
+            | 36 - 5601280
+reading 4
+            | 37 - 5621760
+reading 4
+            | 38 - 5664768
+reading 4
+            | 39 - 5709824
+reading 4
+            | 40 - 5693440
+reading 4
+            | 41 - 5679104
+reading 4
+            | 42 - 5675008
+reading 4
+            | 43 - 5691392
+reading 4
+            | 44 - 5732352
+reading 4
+            | 45 - 5744640
+reading 4
+            | 46 - 5742592
+reading 4
+            | 47 - 5709824
+reading 4
+            | 48 - 5683200
+reading 4
+            | 49 - 5668864
+reading 4
+            | 50 - 5648384
+reading 4
+            | 51 - 5644288
+reading 4
+            | 52 - 5658624
+reading 4
+            | 53 - 5662720
+reading 4
+            | 54 - 5670912
+reading 4
+            | 55 - 5683200
+reading 4
+            | 56 - 5689344
+reading 4
+            | 57 - 5679104
+reading 4
+            | 58 - 5675008
+reading 4
+            | 59 - 5668864
+reading 4
+            | 60 - 5648384
+reading 4
+            | 61 - 5595136
+reading 4
+            | 62 - 5576704
+reading 4
+            | 63 - 5558272
+reading 4
+            | 64 - 5531648
+reading 4
+            | 65 - 5535744
+reading 4
+            | 66 - 5529600
+reading 4
+            | 67 - 5490688
+reading 4
+            | 68 - 5406720
+reading 4
+            | 69 - 5347328
+reading 4
+            | 70 - 5341184
+reading 4
+            | 71 - 5306368
+reading 4
+            | 72 - 5269504
+reading 4
+            | 73 - 5226496
+reading 4
+            | 74 - 5183488
+reading 4
+            | 75 - 5152768
+reading 4
+            | 76 - 5144576
+reading 4
+            | 77 - 5146624
+reading 4
+            | 78 - 5146624
+reading 4
+            | 79 - 5152768
+reading 4
+            | 80 - 5165056
+reading 4
+            | 81 - 5175296
+reading 4
+            | 82 - 5183488
+reading 4
+            | 83 - 5195776
+reading 4
+            | 84 - 5201920
+reading 4
+            | 85 - 5206016
+reading 4
+            | 86 - 5218304
+reading 4
+            | 87 - 5226496
+reading 4
+            | 88 - 5238784
+reading 4
+            | 89 - 5255168
+reading 4
+            | 90 - 5267456
+reading 4
+            | 91 - 5277696
+reading 4
+            | 92 - 5283840
+reading 4
+            | 93 - 5292032
+reading 4
+            | 94 - 5296128
+reading 4
+            | 95 - 5304320
+reading 4
+            | 96 - 5300224
+reading 4
+            | 97 - 5302272
+reading 4
+            | 98 - 5306368
+reading 4
+            | 99 - 5306368
+reading 4
+            | 100 - 5318656
+reading 4
+            | 101 - 5328896
+reading 4
+            | 102 - 5337088
+reading 4
+            | 103 - 5357568
+reading 4
+            | 104 - 5380096
+reading 4
+            | 105 - 5406720
+reading 4
+            | 106 - 5433344
+reading 4
+            | 107 - 5459968
+reading 4
+            | 108 - 5482496
+reading 4
+            | 109 - 5496832
+reading 4
+            | 110 - 5519360
+reading 4
+            | 111 - 5541888
+reading 4
+            | 112 - 5550080
+reading 4
+            | 113 - 5558272
+reading 4
+            | 114 - 5564416
+reading 4
+            | 115 - 5578752
+reading 4
+            | 116 - 5593088
+reading 4
+            | 117 - 5615616
+reading 4
+            | 118 - 5632000
+reading 4
+            | 119 - 5629952
+reading 4
+            | 120 - 5609472
+reading 4
+            | 121 - 5609472
+reading 4
+            | 122 - 5611520
+reading 4
+            | 123 - 5605376
+reading 4
+            | 124 - 5603328
+reading 4
+            | 125 - 5599232
+reading 4
+            | 126 - 5584896
+reading 4
+            | 127 - 5586944
+reading 4
+            | 128 - 5580800
+reading 4
+            | 129 - 5574656
+reading 4
+            | 130 - 5578752
+reading 4
+            | 131 - 5578752
+reading 4
+            | 132 - 5570560
+reading 4
+            | 133 - 5572608
+reading 4
+            | 134 - 5568512
+reading 4
+            | 135 - 5560320
+reading 4
+            | 136 - 5560320
+reading 4
+            | 137 - 5556224
+reading 4
+            | 138 - 5554176
+reading 4
+            | 139 - 5548032
+reading 4
+            | 140 - 5543936
+reading 4
+            | 141 - 5552128
+reading 4
+            | 142 - 5548032
+reading 4
+            | 143 - 5556224
+reading 4
+            | 144 - 5558272
+reading 4
+            | 145 - 5568512
+reading 4
+            | 146 - 5570560
+reading 4
+            | 147 - 5568512
+reading 4
+            | 148 - 5566464
+reading 4
+            | 149 - 5568512
+reading 4
+            | 150 - 5574656
+reading 4
+            | 151 - 5593088
+reading 4
+            | 152 - 5597184
+reading 4
+            | 153 - 5603328
+reading 4
+            | 154 - 5599232
+reading 4
+            | 155 - 5599232
+reading 4
+            | 156 - 5601280
+reading 4
+            | 157 - 5601280
+reading 4
+            | 158 - 5603328
+reading 4
+            | 159 - 5601280
+reading 4
+            | 160 - 5603328
+reading 4
+            | 161 - 5601280
+reading 4
+            | 162 - 5603328
+reading 4
+            | 163 - 5601280
+reading 4
+            | 164 - 5603328
+reading 4
+            | 165 - 5605376
+reading 4
+            | 166 - 5599232
+reading 4
+            | 167 - 5595136
+reading 4
+            | 168 - 5595136
+reading 4
+            | 169 - 5599232
+reading 4
+            | 170 - 5601280
+reading 4
+            | 171 - 5603328
+reading 4
+            | 172 - 5601280
+reading 4
+            | 173 - 5603328
+reading 4
+            | 174 - 5603328
+reading 4
+            | 175 - 5607424
+reading 4
+            | 176 - 5615616
+reading 4
+            | 177 - 5615616
+reading 4
+            | 178 - 5619712
+reading 4
+            | 179 - 5625856
+reading 4
+            | 180 - 5632000
+reading 4
+            | 181 - 5638144
+reading 4
+            | 182 - 5640192
+reading 4
+            | 183 - 5642240
+reading 4
+            | 184 - 5642240
+reading 4
+            | 185 - 5642240
+reading 4
+            | 186 - 5640192
+reading 4
+            | 187 - 5638144
+reading 4
+            | 188 - 5642240
+reading 4
+            | 189 - 5646336
+reading 4
+            | 190 - 5650432
+reading 4
+            | 191 - 5650432
+reading 4
+            | 192 - 5650432
+reading 4
+            | 193 - 5648384
+reading 4
+            | 194 - 5652480
+reading 4
+            | 195 - 5658624
+reading 4
+            | 196 - 5679104
+reading 4
+            | 197 - 5699584
+reading 4
+            | 198 - 5720064
+reading 4
+            | 199 - 5744640
+reading 4
+            | 200 - 5754880
+reading 4
+            | 201 - 5765120
+reading 4
+            | 202 - 5765120
+reading 4
+            | 203 - 5767168
+reading 4
+            | 204 - 5767168
+reading 4
+            | 205 - 5765120
+reading 4
+            | 206 - 5771264
+reading 4
+            | 207 - 5773312
+reading 4
+            | 208 - 5773312
+reading 4
+            | 209 - 5773312
+reading 4
+            | 210 - 5777408
+reading 4
+            | 211 - 5777408
+reading 4
+            | 212 - 5775360
+reading 4
+            | 213 - 5773312
+reading 4
+            | 214 - 5775360
+reading 4
+            | 215 - 5775360
+reading 4
+            | 216 - 5775360
+reading 4
+            | 217 - 5773312
+reading 4
+            | 218 - 5765120
+reading 4
+            | 219 - 5752832
+reading 4
+            | 220 - 5734400
+reading 4
+            | 221 - 5722112
+reading 4
+            | 222 - 5711872
+reading 4
+            | 223 - 5705728
+reading 4
+            | 224 - 5699584
+reading 4
+            | 225 - 5699584
+reading 4
+            | 226 - 5701632
+reading 4
+            | 227 - 5701632
+reading 4
+            | 228 - 5699584
+reading 4
+            | 229 - 5699584
+reading 4
+            | 230 - 5697536
+reading 4
+            | 231 - 5693440
+reading 4
+            | 232 - 5695488
+reading 4
+            | 233 - 5691392
+reading 4
+            | 234 - 5687296
+reading 4
+            | 235 - 5691392
+reading 4
+            | 236 - 5689344
+reading 4
+            | 237 - 5685248
+reading 4
+            | 238 - 5683200
+reading 4
+            | 239 - 5685248
+reading 4
+            | 240 - 5681152
+reading 4
+            | 241 - 5679104
+reading 4
+            | 242 - 5681152
+reading 4
+            | 243 - 5683200
+reading 4
+            | 244 - 5685248
+reading 4
+            | 245 - 5687296
+reading 4
+            | 246 - 5689344
+reading 4
+            | 247 - 5689344
+reading 4
+            | 248 - 5691392
+reading 4
+            | 249 - 5689344
+reading 4
+            | 250 - 5687296
+reading 4
+            | 251 - 5691392
+reading 4
+            | 252 - 5695488
+reading 4
+            | 253 - 5693440
+reading 4
+            | 254 - 5691392
+reading 4
+            | 255 - 5691392
+reading 4
+            | 256 - 5693440
+reading 4
+            | 257 - 5689344
+reading 4
+            | 258 - 5691392
+reading 4
+            | 259 - 5689344
+reading 4
+            | 260 - 5689344
+reading 4
+            | 261 - 5687296
+reading 4
+            | 262 - 5691392
+reading 4
+            | 263 - 5691392
+reading 4
+            | 264 - 5691392
+reading 4
+            | 265 - 5691392
+reading 4
+            | 266 - 5693440
+reading 4
+            | 267 - 5693440
+reading 4
+            | 268 - 5695488
+reading 4
+            | 269 - 5695488
+reading 4
+            | 270 - 5695488
+reading 4
+            | 271 - 5691392
+reading 4
+            | 272 - 5695488
+reading 4
+            | 273 - 5693440
+reading 4
+            | 274 - 5689344
+reading 4
+            | 275 - 5689344
+reading 4
+            | 276 - 5687296
+reading 4
+            | 277 - 5679104
+reading 4
+            | 278 - 5681152
+reading 4
+            | 279 - 5681152
+reading 4
+            | 280 - 5675008
+reading 4
+            | 281 - 5672960
+reading 4
+            | 282 - 5675008
+reading 4
+            | 283 - 5670912
+reading 4
+            | 284 - 5668864
+reading 4
+            | 285 - 5666816
+reading 4
+            | 286 - 5668864
+reading 4
+            | 287 - 5668864
+reading 4
+            | 288 - 5668864
+reading 4
+            | 289 - 5672960
+reading 4
+            | 290 - 5675008
+reading 4
+            | 291 - 5670912
+reading 4
+            | 292 - 5672960
+reading 4
+            | 293 - 5668864
+reading 4
+            | 294 - 5654528
+reading 4
+            | 295 - 5646336
+reading 4
+            | 296 - 5646336
+reading 4
+            | 297 - 5648384
+reading 4
+            | 298 - 5642240
+reading 4
+            | 299 - 5640192
+reading 4
+            | 300 - 5623808
+reading 4
+            | 301 - 5619712
+reading 4
+            | 302 - 5623808
+reading 4
+            | 303 - 5632000
+reading 4
+            | 304 - 5629952
+reading 4
+            | 305 - 5638144
+reading 4
+            | 306 - 5658624
+reading 4
+            | 307 - 5672960
+reading 4
+            | 308 - 5670912
+reading 4
+            | 309 - 5668864
+reading 4
+            | 310 - 5664768
+reading 4
+            | 311 - 5666816
+reading 4
+            | 312 - 5652480
+reading 4
+            | 313 - 5670912
+reading 4
+            | 314 - 5658624
+reading 4
+            | 315 - 5662720
+reading 4
+            | 316 - 5691392
+reading 4
+            | 317 - 5685248
+reading 4
+            | 318 - 5701632
+reading 4
+            | 319 - 5718016
+reading 4
+            | 320 - 5738496
+reading 4
+            | 321 - 5752832
+reading 4
+            | 322 - 5765120
+reading 4
+            | 323 - 5769216
+reading 4
+            | 324 - 5785600
+reading 4
+            | 325 - 5781504
+reading 4
+            | 326 - 5775360
+reading 4
+            | 327 - 5771264
+reading 4
+            | 328 - 5769216
+reading 4
+            | 329 - 5777408
+reading 4
+            | 330 - 5783552
+reading 4
+            | 331 - 5812224
+reading 4
+            | 332 - 5842944
+reading 4
+            | 333 - 5871616
+reading 4
+            | 334 - 5900288
+reading 4
+            | 335 - 5914624
+reading 4
+            | 336 - 5922816
+reading 4
+            | 337 - 5949440
+reading 4
+            | 338 - 5949440
+reading 4
+            | 339 - 5943296
+reading 4
+            | 340 - 5939200
+reading 4
+            | 341 - 5922816
+reading 4
+            | 342 - 5912576
+reading 4
+            | 343 - 5898240
+reading 4
+            | 344 - 5894144
+reading 4
+            | 345 - 5888000
+reading 4
+            | 346 - 5873664
+reading 4
+            | 347 - 5865472
+reading 4
+            | 348 - 5863424
+reading 4
+            | 349 - 5849088
+reading 4
+            | 350 - 5832704
+reading 4
+            | 351 - 5830656
+reading 4
+            | 352 - 5838848
+reading 4
+            | 353 - 5828608
+reading 4
+            | 354 - 5820416
+reading 4
+            | 355 - 5810176
+reading 4
+            | 356 - 5804032
+reading 4
+            | 357 - 5783552
+reading 4
+            | 358 - 5763072
+reading 4
+            | 359 - 5752832
+reading 4
+            | 360 - 5738496
+reading 4
+            | 361 - 5720064
+reading 4
+            | 362 - 5699584
+reading 4
+            | 363 - 5679104
+reading 4
+            | 364 - 5662720
+reading 4
+            | 365 - 5634048
+reading 4
+            | 366 - 5611520
+reading 4
+            | 367 - 5593088
+reading 4
+            | 368 - 5572608
+reading 4
+            | 369 - 5558272
+reading 4
+            | 370 - 5550080
+reading 4
+            | 371 - 5539840
+reading 4
+            | 372 - 5531648
+reading 4
+            | 373 - 5525504
+reading 4
+            | 374 - 5531648
+reading 4
+            | 375 - 5548032
+reading 4
+            | 376 - 5568512
+reading 4
+            | 377 - 5558272
+reading 4
+            | 378 - 5564416
+reading 4
+            | 379 - 5545984
+reading 4
+            | 380 - 5533696
+reading 4
+            | 381 - 5517312
+reading 4
+            | 382 - 5490688
+reading 4
+            | 383 - 5464064
+reading 4
+            | 384 - 5441536
+reading 4
+            | 385 - 5427200
+reading 4
+            | 386 - 5419008
+reading 4
+            | 387 - 5404672
+reading 4
+            | 388 - 5406720
+reading 4
+            | 389 - 5412864
+reading 4
+            | 390 - 5402624
+reading 4
+            | 391 - 5400576
+reading 4
+            | 392 - 5402624
+reading 4
+            | 393 - 5402624
+reading 4
+            | 394 - 5394432
+reading 4
+            | 395 - 5388288
+reading 4
+            | 396 - 5378048
+reading 4
+            | 397 - 5363712
+reading 4
+            | 398 - 5353472
+reading 4
+            | 399 - 5343232
+reading 4
+            | 400 - 5337088
+reading 4
+            | 401 - 5335040
+reading 4
+            | 402 - 5339136
+reading 4
+            | 403 - 5339136
+reading 4
+            | 404 - 5341184
+reading 4
+            | 405 - 5343232
+reading 4
+            | 406 - 5345280
+reading 4
+            | 407 - 5345280
+reading 4
+            | 408 - 5349376
+reading 4
+            | 409 - 5353472
+reading 4
+            | 410 - 5349376
+reading 4
+            | 411 - 5351424
+reading 4
+            | 412 - 5355520
+reading 4
+            | 413 - 5353472
+reading 4
+            | 414 - 5361664
+reading 4
+            | 415 - 5369856
+reading 4
+            | 416 - 5371904
+reading 4
+            | 417 - 5376000
+reading 4
+            | 418 - 5376000
+reading 4
+            | 419 - 5378048
+reading 4
+            | 420 - 5373952
+reading 4
+            | 421 - 5365760
+reading 4
+            | 422 - 5357568
+reading 4
+            | 423 - 5349376
+reading 4
+            | 424 - 5343232
+reading 4
+            | 425 - 5335040
+reading 4
+            | 426 - 5322752
+reading 4
+            | 427 - 5310464
+reading 4
+            | 428 - 5312512
+reading 4
+            | 429 - 5314560
+reading 4
+            | 430 - 5324800
+reading 4
+            | 431 - 5322752
+reading 4
+            | 432 - 5328896
+reading 4
+            | 433 - 5330944
+reading 4
+            | 434 - 5332992
+reading 4
+            | 435 - 5332992
+reading 4
+            | 436 - 5330944
+reading 4
+            | 437 - 5332992
+reading 4
+            | 438 - 5339136
+reading 4
+            | 439 - 5351424
+reading 4
+            | 440 - 5367808
+reading 4
+            | 441 - 5384192
+reading 4
+            | 442 - 5400576
+reading 4
+            | 443 - 5421056
+reading 4
+            | 444 - 5431296
+reading 4
+            | 445 - 5433344
+reading 4
+            | 446 - 5441536
+reading 4
+            | 447 - 5462016
+reading 4
+            | 448 - 5484544
+reading 4
+            | 449 - 5505024
+reading 4
+            | 450 - 5527552
+reading 4
+            | 451 - 5521408
+reading 4
+            | 452 - 5539840
+reading 4
+            | 453 - 5550080
+reading 4
+            | 454 - 5554176
+reading 4
+            | 455 - 5541888
+reading 4
+            | 456 - 5548032
+reading 4
+            | 457 - 5568512
+reading 4
+            | 458 - 5582848
+reading 4
+            | 459 - 5595136
+reading 4
+            | 460 - 5605376
+reading 4
+            | 461 - 5611520
+reading 4
+            | 462 - 5634048
+reading 4
+            | 463 - 5656576
+reading 4
+            | 464 - 5675008
+reading 4
+            | 465 - 5697536
+reading 4
+            | 466 - 5715968
+reading 4
+            | 467 - 5726208
+reading 4
+            | 468 - 5742592
+reading 4
+            | 469 - 5771264
+reading 4
+            | 470 - 5791744
+reading 4
+            | 471 - 5814272
+reading 4
+            | 472 - 5834752
+reading 4
+            | 473 - 5832704
+reading 4
+            | 474 - 5836800
+reading 4
+            | 475 - 5832704
+reading 4
+            | 476 - 5840896
+reading 4
+            | 477 - 5851136
+reading 4
+            | 478 - 5879808
+reading 4
+            | 479 - 5902336
+reading 4
+            | 480 - 5922816
+reading 4
+            | 481 - 5924864
+reading 4
+            | 482 - 5922816
+reading 4
+            | 483 - 5918720
+reading 4
+            | 484 - 5910528
+reading 4
+            | 485 - 5902336
+reading 4
+            | 486 - 5888000
+reading 4
+            | 487 - 5879808
+reading 4
+            | 488 - 5830656
+reading 4
+            | 489 - 5801984
+reading 4
+            | 490 - 5799936
+reading 4
+            | 491 - 5775360
+reading 4
+            | 492 - 5763072
+reading 4
+            | 493 - 5783552
+reading 4
+            | 494 - 5771264
+reading 4
+            | 495 - 5750784
+reading 4
+            | 496 - 5742592
+reading 4
+            | 497 - 5732352
+reading 4
+            | 498 - 5709824
+reading 4
+            | 499 - 5707776
+reading 4
+            | 500 - 5699584
+reading 4
+            | 501 - 5697536
+reading 4
+            | 502 - 5687296
+reading 4
+            | 503 - 5687296
+reading 4
+            | 504 - 5689344
+reading 4
+            | 505 - 5693440
+reading 4
+            | 506 - 5685248
+reading 4
+            | 507 - 5687296
+reading 4
+            | 508 - 5691392
+reading 4
+            | 509 - 5689344
+reading 4
+            | 510 - 5693440
+reading 4
+            | 511 - 5695488
+reading 4
+            | 512 - 5689344
+reading 4
+            | 513 - 5691392
+reading 4
+            | 514 - 5691392
+reading 4
+            | 515 - 5691392
+reading 4
+            | 516 - 5691392
+reading 4
+            | 517 - 5685248
+reading 4
+            | 518 - 5687296
+reading 4
+            | 519 - 5685248
+reading 4
+            | 520 - 5675008
+reading 4
+            | 521 - 5672960
+reading 4
+            | 522 - 5681152
+reading 4
+            | 523 - 5689344
+reading 4
+            | 524 - 5693440
+reading 4
+            | 525 - 5701632
+reading 4
+            | 526 - 5709824
+reading 4
+            | 527 - 5713920
+reading 4
+            | 528 - 5724160
+reading 4
+            | 529 - 5732352
+reading 4
+            | 530 - 5734400
+reading 4
+            | 531 - 5742592
+reading 4
+            | 532 - 5744640
+reading 4
+            | 533 - 5748736
+reading 4
+            | 534 - 5746688
+reading 4
+            | 535 - 5742592
+reading 4
+            | 536 - 5740544
+reading 4
+            | 537 - 5738496
+reading 4
+            | 538 - 5736448
+reading 4
+            | 539 - 5740544
+reading 4
+            | 540 - 5738496
+reading 4
+            | 541 - 5742592
+reading 4
+            | 542 - 5742592
+reading 4
+            | 543 - 5754880
+reading 4
+            | 544 - 5756928
+reading 4
+            | 545 - 5761024
+reading 4
+            | 546 - 5765120
+reading 4
+            | 547 - 5775360
+reading 4
+            | 548 - 5791744
+reading 4
+            | 549 - 5799936
+reading 4
+            | 550 - 5797888
+reading 4
+            | 551 - 5795840
+reading 4
+            | 552 - 5791744
+reading 4
+            | 553 - 5791744
+reading 4
+            | 554 - 5793792
+reading 4
+            | 555 - 5797888
+reading 4
+            | 556 - 5806080
+reading 4
+            | 557 - 5812224
+reading 4
+            | 558 - 5816320
+reading 4
+            | 559 - 5818368
+reading 4
+            | 560 - 5816320
+reading 4
+            | 561 - 5814272
+reading 4
+            | 562 - 5816320
+reading 4
+            | 563 - 5818368
+reading 4
+            | 564 - 5816320
+reading 4
+            | 565 - 5818368
+reading 4
+            | 566 - 5814272
+reading 4
+            | 567 - 5812224
+reading 4
+            | 568 - 5812224
+reading 4
+            | 569 - 5812224
+reading 4
+            | 570 - 5810176
+reading 4
+            | 571 - 5810176
+reading 4
+            | 572 - 5812224
+reading 4
+            | 573 - 5812224
+reading 4
+            | 574 - 5814272
+reading 4
+            | 575 - 5812224
+reading 4
+            | 576 - 5812224
+reading 4
+            | 577 - 5814272
+reading 4
+            | 578 - 5812224
+reading 4
+            | 579 - 5814272
+reading 4
+            | 580 - 5812224
+reading 4
+            | 581 - 5812224
+reading 4
+            | 582 - 5810176
+reading 4
+            | 583 - 5808128
+reading 4
+            | 584 - 5808128
+reading 4
+            | 585 - 5812224
+reading 4
+            | 586 - 5814272
+reading 4
+            | 587 - 5812224
+reading 4
+            | 588 - 5814272
+reading 4
+            | 589 - 5810176
+reading 4
+            | 590 - 5812224
+reading 4
+            | 591 - 5812224
+reading 4
+            | 592 - 5812224
+reading 4
+            | 593 - 5810176
+reading 4
+            | 594 - 5806080
+reading 4
+            | 595 - 5812224
+reading 4
+            | 596 - 5812224
+reading 4
+            | 597 - 5801984
+reading 4
+            | 598 - 5789696
+reading 4
+            | 599 - 5783552
+reading 4
+            | 600 - 5779456
+reading 4
+            | 601 - 5775360
+reading 4
+            | 602 - 5773312
+reading 4
+            | 603 - 5775360
+reading 4
+            | 604 - 5775360
+reading 4
+            | 605 - 5775360
+reading 4
+            | 606 - 5771264
+reading 4
+            | 607 - 5767168
+reading 4
+            | 608 - 5767168
+reading 4
+            | 609 - 5756928
+reading 4
+            | 610 - 5750784
+reading 4
+            | 611 - 5742592
+reading 4
+            | 612 - 5740544
+reading 4
+            | 613 - 5732352
+reading 4
+            | 614 - 5728256
+reading 4
+            | 615 - 5722112
+reading 4
+            | 616 - 5720064
+reading 4
+            | 617 - 5718016
+reading 4
+            | 618 - 5720064
+reading 4
+            | 619 - 5715968
+reading 4
+            | 620 - 5713920
+reading 4
+            | 621 - 5713920
+reading 4
+            | 622 - 5707776
+reading 4
+            | 623 - 5705728
+reading 4
+            | 624 - 5707776
+reading 4
+            | 625 - 5701632
+reading 4
+            | 626 - 5705728
+reading 4
+            | 627 - 5707776
+reading 4
+            | 628 - 5709824
+reading 4
+            | 629 - 5705728
+reading 4
+            | 630 - 5707776
+reading 4
+            | 631 - 5705728
+reading 4
+            | 632 - 5713920
+reading 4
+            | 633 - 5705728
+reading 4
+            | 634 - 5705728
+reading 4
+            | 635 - 5703680
+reading 4
+            | 636 - 5703680
+reading 4
+            | 637 - 5701632
+reading 4
+            | 638 - 5701632
+reading 4
+            | 639 - 5701632
+reading 4
+            | 640 - 5699584
+reading 4
+            | 641 - 5701632
+reading 4
+            | 642 - 5701632
+reading 4
+            | 643 - 5705728
+reading 4
+            | 644 - 5709824
+reading 4
+            | 645 - 5713920
+reading 4
+            | 646 - 5718016
+reading 4
+            | 647 - 5718016
+reading 4
+            | 648 - 5718016
+reading 4
+            | 649 - 5720064
+reading 4
+            | 650 - 5715968
+reading 4
+            | 651 - 5715968
+reading 4
+            | 652 - 5720064
+reading 4
+            | 653 - 5718016
+reading 4
+            | 654 - 5718016
+reading 4
+            | 655 - 5718016
+reading 4
+            | 656 - 5715968
+reading 4
+            | 657 - 5720064
+reading 4
+            | 658 - 5718016
+reading 4
+            | 659 - 5720064
+reading 4
+            | 660 - 5722112
+reading 4
+            | 661 - 5722112
+reading 4
+            | 662 - 5724160
+reading 4
+            | 663 - 5728256
+reading 4
+            | 664 - 5726208
+reading 4
+            | 665 - 5722112
+reading 4
+            | 666 - 5722112
+reading 4
+            | 667 - 5722112
+reading 4
+            | 668 - 5720064
+reading 4
+            | 669 - 5720064
+reading 4
+            | 670 - 5722112
+reading 4
+            | 671 - 5718016
+reading 4
+            | 672 - 5720064
+reading 4
+            | 673 - 5718016
+reading 4
+            | 674 - 5718016
+reading 4
+            | 675 - 5722112
+reading 4
+            | 676 - 5722112
+reading 4
+            | 677 - 5720064
+reading 4
+            | 678 - 5720064
+reading 4
+            | 679 - 5722112
+reading 4
+            | 680 - 5722112
+reading 4
+            | 681 - 5724160
+reading 4
+            | 682 - 5728256
+reading 4
+            | 683 - 5720064
+reading 4
+            | 684 - 5722112
+reading 4
+            | 685 - 5720064
+reading 4
+            | 686 - 5718016
+reading 4
+            | 687 - 5713920
+reading 4
+            | 688 - 5701632
+reading 4
+            | 689 - 5695488
+reading 4
+            | 690 - 5693440
+reading 4
+            | 691 - 5693440
+reading 4
+            | 692 - 5675008
+reading 4
+            | 693 - 5656576
+reading 4
+            | 694 - 5644288
+reading 4
+            | 695 - 5619712
+reading 4
+            | 696 - 5588992
+reading 4
+            | 697 - 5607424
+reading 4
+            | 698 - 5627904
+reading 4
+            | 699 - 5625856
+reading 4
+            | 700 - 5582848
+reading 4
+            | 701 - 5552128
+reading 4
+            | 702 - 5570560
+reading 4
+            | 703 - 5582848
+reading 4
+            | 704 - 5580800
+reading 4
+            | 705 - 5638144
+reading 4
+            | 706 - 5691392
+reading 4
+            | 707 - 5701632
+reading 4
+            | 708 - 5718016
+reading 4
+            | 709 - 5736448
+reading 4
+            | 710 - 5748736
+reading 4
+            | 711 - 5765120
+reading 4
+            | 712 - 5769216
+reading 4
+            | 713 - 5783552
+reading 4
+            | 714 - 5781504
+reading 4
+            | 715 - 5785600
+reading 4
+            | 716 - 5789696
+reading 4
+            | 717 - 5787648
+reading 4
+            | 718 - 5804032
+reading 4
+            | 719 - 5818368
+reading 4
+            | 720 - 5834752
+reading 4
+            | 721 - 5847040
+reading 4
+            | 722 - 5855232
+reading 4
+            | 723 - 5859328
+reading 4
+            | 724 - 5867520
+reading 4
+            | 725 - 5877760
+reading 4
+            | 726 - 5877760
+reading 4
+            | 727 - 5865472
+reading 4
+            | 728 - 5863424
+reading 4
+            | 729 - 5855232
+reading 4
+            | 730 - 5840896
+reading 4
+            | 731 - 5828608
+reading 4
+            | 732 - 5804032
+reading 4
+            | 733 - 5783552
+reading 4
+            | 734 - 5769216
+reading 4
+            | 735 - 5756928
+reading 4
+            | 736 - 5750784
+reading 4
+            | 737 - 5746688
+reading 4
+            | 738 - 5738496
+reading 4
+            | 739 - 5742592
+reading 4
+            | 740 - 5740544
+reading 4
+            | 741 - 5734400
+reading 4
+            | 742 - 5720064
+reading 4
+            | 743 - 5701632
+reading 4
+            | 744 - 5685248
+reading 4
+            | 745 - 5664768
+reading 4
+            | 746 - 5636096
+reading 4
+            | 747 - 5617664
+reading 4
+            | 748 - 5584896
+reading 4
+            | 749 - 5552128
+reading 4
+            | 750 - 5519360
+reading 4
+            | 751 - 5492736
+reading 4
+            | 752 - 5486592
+reading 4
+            | 753 - 5472256
+reading 4
+            | 754 - 5466112
+reading 4
+            | 755 - 5484544
+reading 4
+            | 756 - 5488640
+reading 4
+            | 757 - 5496832
+reading 4
+            | 758 - 5513216
+reading 4
+            | 759 - 5515264
+reading 4
+            | 760 - 5505024
+reading 4
+            | 761 - 5492736
+reading 4
+            | 762 - 5474304
+reading 4
+            | 763 - 5455872
+reading 4
+            | 764 - 5439488
+reading 4
+            | 765 - 5416960
+reading 4
+            | 766 - 5398528
+reading 4
+            | 767 - 5363712
+reading 4
+            | 768 - 5337088
+reading 4
+            | 769 - 5310464
+reading 4
+            | 770 - 5289984
+reading 4
+            | 771 - 5273600
+reading 4
+            | 772 - 5255168
+reading 4
+            | 773 - 5232640
+reading 4
+            | 774 - 5220352
+reading 4
+            | 775 - 5212160
+reading 4
+            | 776 - 5206016
+reading 4
+            | 777 - 5197824
+reading 4
+            | 778 - 5193728
+reading 4
+            | 779 - 5185536
+reading 4
+            | 780 - 5181440
+reading 4
+            | 781 - 5175296
+reading 4
+            | 782 - 5169152
+reading 4
+            | 783 - 5154816
+reading 4
+            | 784 - 5144576
+reading 4
+            | 785 - 5126144
+reading 4
+            | 786 - 5109760
+reading 4
+            | 787 - 5107712
+reading 4
+            | 788 - 5105664
+reading 4
+            | 789 - 5101568
+reading 4
+            | 790 - 5091328
+reading 4
+            | 791 - 5091328
+reading 4
+            | 792 - 5091328
+reading 4
+            | 793 - 5079040
+reading 4
+            | 794 - 5066752
+reading 4
+            | 795 - 5066752
+reading 4
+            | 796 - 5064704
+reading 4
+            | 797 - 5070848
+reading 4
+            | 798 - 5072896
+reading 4
+            | 799 - 5072896
+reading 4
+            | 800 - 5068800
+reading 4
+            | 801 - 5064704
+reading 4
+            | 802 - 5062656
+reading 4
+            | 803 - 5064704
+reading 4
+            | 804 - 5068800
+reading 4
+            | 805 - 5072896
+reading 4
+            | 806 - 5076992
+reading 4
+            | 807 - 5085184
+reading 4
+            | 808 - 5083136
+reading 4
+            | 809 - 5079040
+reading 4
+            | 810 - 5062656
+reading 4
+            | 811 - 5050368
+reading 4
+            | 812 - 5040128
+reading 4
+            | 813 - 5036032
+reading 4
+            | 814 - 5029888
+reading 4
+            | 815 - 5029888
+reading 4
+            | 816 - 5027840
+reading 4
+            | 817 - 5023744
+reading 4
+            | 818 - 5023744
+reading 4
+            | 819 - 5027840
+reading 4
+            | 820 - 5033984
+reading 4
+            | 821 - 5033984
+reading 4
+            | 822 - 5031936
+reading 4
+            | 823 - 5019648
+reading 4
+            | 824 - 5011456
+reading 4
+            | 825 - 5007360
+reading 4
+            | 826 - 5001216
+reading 4
+            | 827 - 4997120
+reading 4
+            | 828 - 4995072
+reading 4
+            | 829 - 4995072
+reading 4
+            | 830 - 5003264
+reading 4
+            | 831 - 5017600
+reading 4
+            | 832 - 5031936
+reading 4
+            | 833 - 5042176
+reading 4
+            | 834 - 5052416
+reading 4
+            | 835 - 5068800
+reading 4
+            | 836 - 5076992
+reading 4
+            | 837 - 5089280
+reading 4
+            | 838 - 5101568
+reading 4
+            | 839 - 5113856
+reading 4
+            | 840 - 5126144
+reading 4
+            | 841 - 5134336
+reading 4
+            | 842 - 5150720
+reading 4
+            | 843 - 5148672
+reading 4
+            | 844 - 5158912
+reading 4
+            | 845 - 5160960
+reading 4
+            | 846 - 5160960
+reading 4
+            | 847 - 5160960
+reading 4
+            | 848 - 5163008
+reading 4
+            | 849 - 5167104
+reading 4
+            | 850 - 5163008
+reading 4
+            | 851 - 5169152
+reading 4
+            | 852 - 5165056
+reading 4
+            | 853 - 5167104
+reading 4
+            | 854 - 5165056
+reading 4
+            | 855 - 5163008
+reading 4
+            | 856 - 5134336
+reading 4
+            | 857 - 5150720
+reading 4
+            | 858 - 5156864
+reading 4
+            | 859 - 5134336
+reading 4
+            | 860 - 5136384
+reading 4
+            | 861 - 5134336
+reading 4
+            | 862 - 5134336
+reading 4
+            | 863 - 5128192
+reading 4
+            | 864 - 5122048
+reading 4
+            | 865 - 5113856
+reading 4
+            | 866 - 5105664
+reading 4
+            | 867 - 5097472
+reading 4
+            | 868 - 5091328
+reading 4
+            | 869 - 5089280
+reading 4
+            | 870 - 5083136
+reading 4
+            | 871 - 5081088
+reading 4
+            | 872 - 5076992
+reading 4
+            | 873 - 5081088
+reading 4
+            | 874 - 5074944
+reading 4
+            | 875 - 5070848
+reading 4
+            | 876 - 5064704
+reading 4
+            | 877 - 5054464
+reading 4
+            | 878 - 5040128
+reading 4
+            | 879 - 5017600
+reading 4
+            | 880 - 4986880
+reading 4
+            | 881 - 4968448
+reading 4
+            | 882 - 4952064
+reading 4
+            | 883 - 4937728
+reading 4
+            | 884 - 4931584
+reading 4
+            | 885 - 4943872
+reading 4
+            | 886 - 4956160
+reading 4
+            | 887 - 4972544
+reading 4
+            | 888 - 5001216
+reading 4
+            | 889 - 5023744
+reading 4
+            | 890 - 5038080
+reading 4
+            | 891 - 5052416
+reading 4
+            | 892 - 5081088
+reading 4
+            | 893 - 5103616
+reading 4
+            | 894 - 5107712
+reading 4
+            | 895 - 5101568
+reading 4
+            | 896 - 5124096
+reading 4
+            | 897 - 5144576
+reading 4
+            | 898 - 5163008
+reading 4
+            | 899 - 5171200
+reading 4
+            | 900 - 5171200
+reading 4
+            | 901 - 5167104
+reading 4
+            | 902 - 5154816
+reading 4
+            | 903 - 5132288
+reading 4
+            | 904 - 5113856
+reading 4
+            | 905 - 5091328
+reading 4
+            | 906 - 5076992
+reading 4
+            | 907 - 5064704
+reading 4
+            | 908 - 5052416
+reading 4
+            | 909 - 5038080
+reading 4
+            | 910 - 5031936
+reading 4
+            | 911 - 5054464
+reading 4
+            | 912 - 5068800
+reading 4
+            | 913 - 5076992
+reading 4
+            | 914 - 5083136
+reading 4
+            | 915 - 5089280
+reading 4
+            | 916 - 5087232
+reading 4
+            | 917 - 5091328
+reading 4
+            | 918 - 5095424
+reading 4
+            | 919 - 5099520
+reading 4
+            | 920 - 5097472
+reading 4
+            | 921 - 5097472
+reading 4
+            | 922 - 5089280
+reading 4
+            | 923 - 5081088
+reading 4
+            | 924 - 5072896
+reading 4
+            | 925 - 5058560
+reading 4
+            | 926 - 5031936
+reading 4
+            | 927 - 5023744
+reading 4
+            | 928 - 5021696
+reading 4
+            | 929 - 5013504
+reading 4
+            | 930 - 5005312
+reading 4
+            | 931 - 5001216
+reading 4
+            | 932 - 4990976
+reading 4
+            | 933 - 4972544
+reading 4
+            | 934 - 4962304
+reading 4
+            | 935 - 4954112
+reading 4
+            | 936 - 4943872
+reading 4
+            | 937 - 4929536
+reading 4
+            | 938 - 4919296
+reading 4
+            | 939 - 4909056
+reading 4
+            | 940 - 4900864
+reading 4
+            | 941 - 4884480
+reading 4
+            | 942 - 4878336
+reading 4
+            | 943 - 4864000
+reading 4
+            | 944 - 4855808
+reading 4
+            | 945 - 4845568
+reading 4
+            | 946 - 4839424
+reading 4
+            | 947 - 4831232
+reading 4
+            | 948 - 4827136
+reading 4
+            | 949 - 4820992
+reading 4
+            | 950 - 4814848
+reading 4
+            | 951 - 4810752
+reading 4
+            | 952 - 4806656
+reading 4
+            | 953 - 4804608
+reading 4
+            | 954 - 4802560
+reading 4
+            | 955 - 4802560
+reading 4
+            | 956 - 4796416
+reading 4
+            | 957 - 4794368
+reading 4
+            | 958 - 4794368
+reading 4
+            | 959 - 4792320
+reading 4
+            | 960 - 4792320
+reading 4
+            | 961 - 4794368
+reading 4
+            | 962 - 4792320
+reading 4
+            | 963 - 4782080
+reading 4
+            | 964 - 4771840
+reading 4
+            | 965 - 4765696
+reading 4
+            | 966 - 4761600
+reading 4
+            | 967 - 4755456
+reading 4
+            | 968 - 4753408
+reading 4
+            | 969 - 4751360
+reading 4
+            | 970 - 4753408
+reading 4
+            | 971 - 4757504
+reading 4
+            | 972 - 4753408
+reading 4
+            | 973 - 4755456
+reading 4
+            | 974 - 4753408
+reading 4
+            | 975 - 4751360
+reading 4
+            | 976 - 4749312
+reading 4
+            | 977 - 4749312
+reading 4
+            | 978 - 4745216
+reading 4
+            | 979 - 4745216
+reading 4
+            | 980 - 4747264
+reading 4
+            | 981 - 4745216
+reading 4
+            | 982 - 4747264
+reading 4
+            | 983 - 4745216
+reading 4
+            | 984 - 4739072
+reading 4
+            | 985 - 4741120
+reading 4
+            | 986 - 4737024
+reading 4
+            | 987 - 4734976
+reading 4
+            | 988 - 4734976
+reading 4
+            | 989 - 4737024
+reading 4
+            | 990 - 4737024
+reading 4
+            | 991 - 4739072
+reading 4
+            | 992 - 4739072
+reading 4
+            | 993 - 4741120
+reading 4
+            | 994 - 4745216
+reading 4
+            | 995 - 4749312
+reading 4
+            | 996 - 4751360
+reading 4
+            | 997 - 4757504
+reading 4
+            | 998 - 4761600
+reading 4
+            | 999 - 4765696
+reading 4
+            | 1000 - 4767744
+reading 4
+            | 1001 - 4769792
+reading 4
+            | 1002 - 4769792
+reading 4
+            | 1003 - 4769792
+reading 4
+            | 1004 - 4773888
+reading 4
+            | 1005 - 4773888
+reading 4
+            | 1006 - 4771840
+reading 4
+            | 1007 - 4775936
+reading 4
+            | 1008 - 4777984
+reading 4
+            | 1009 - 4784128
+reading 4
+            | 1010 - 4784128
+reading 4
+            | 1011 - 4788224
+reading 4
+            | 1012 - 4788224
+reading 4
+            | 1013 - 4794368
+reading 4
+            | 1014 - 4798464
+reading 4
+            | 1015 - 4796416
+reading 4
+            | 1016 - 4800512
+reading 4
+            | 1017 - 4802560
+reading 4
+            | 1018 - 4804608
+reading 4
+            | 1019 - 4808704
+reading 4
+            | 1020 - 4812800
+reading 4
+            | 1021 - 4816896
+reading 4
+            | 1022 - 4816896
+reading 4
+            | 1023 - 4814848
+reading 4
+            | 1024 - 4810752
+reading 4
+            | 1025 - 4808704
+reading 4
+            | 1026 - 4802560
+reading 4
+            | 1027 - 4802560
+reading 4
+            | 1028 - 4802560
+reading 4
+            | 1029 - 4802560
+reading 4
+            | 1030 - 4802560
+reading 4
+            | 1031 - 4802560
+reading 4
+            | 1032 - 4802560
+reading 4
+            | 1033 - 4800512
+reading 4
+            | 1034 - 4802560
+reading 4
+            | 1035 - 4806656
+reading 4
+            | 1036 - 4806656
+reading 4
+            | 1037 - 4806656
+reading 4
+            | 1038 - 4810752
+reading 4
+            | 1039 - 4814848
+reading 4
+            | 1040 - 4814848
+reading 4
+            | 1041 - 4818944
+reading 4
+            | 1042 - 4825088
+reading 4
+            | 1043 - 4827136
+reading 4
+            | 1044 - 4833280
+reading 4
+            | 1045 - 4837376
+reading 4
+            | 1046 - 4841472
+reading 4
+            | 1047 - 4843520
+reading 4
+            | 1048 - 4851712
+reading 4
+            | 1049 - 4857856
+reading 4
+            | 1050 - 4864000
+reading 4
+            | 1051 - 4874240
+reading 4
+            | 1052 - 4880384
+reading 4
+            | 1053 - 4884480
+reading 4
+            | 1054 - 4888576
+reading 4
+            | 1055 - 4894720
+reading 4
+            | 1056 - 4896768
+reading 4
+            | 1057 - 4894720
+reading 4
+            | 1058 - 4894720
+reading 4
+            | 1059 - 4896768
+reading 4
+            | 1060 - 4896768
+reading 4
+            | 1061 - 4900864
+reading 4
+            | 1062 - 4902912
+reading 4
+            | 1063 - 4900864
+reading 4
+            | 1064 - 4904960
+reading 4
+            | 1065 - 4904960
+reading 4
+            | 1066 - 4904960
+reading 4
+            | 1067 - 4904960
+reading 4
+            | 1068 - 4904960
+reading 4
+            | 1069 - 4902912
+reading 4
+            | 1070 - 4904960
+reading 4
+            | 1071 - 4907008
+reading 4
+            | 1072 - 4904960
+reading 4
+            | 1073 - 4907008
+reading 4
+            | 1074 - 4904960
+reading 4
+            | 1075 - 4900864
+reading 4
+            | 1076 - 4900864
+reading 4
+            | 1077 - 4894720
+reading 4
+            | 1078 - 4896768
+reading 4
+            | 1079 - 4896768
+reading 4
+            | 1080 - 4898816
+reading 4
+            | 1081 - 4902912
+reading 4
+            | 1082 - 4900864
+reading 4
+            | 1083 - 4900864
+reading 4
+            | 1084 - 4900864
+reading 4
+            | 1085 - 4898816
+reading 4
+            | 1086 - 4896768
+reading 4
+            | 1087 - 4894720
+reading 4
+            | 1088 - 4890624
+reading 4
+            | 1089 - 4892672
+reading 4
+            | 1090 - 4890624
+reading 4
+            | 1091 - 4888576
+reading 4
+            | 1092 - 4890624
+reading 4
+            | 1093 - 4884480
+reading 4
+            | 1094 - 4882432
+reading 4
+            | 1095 - 4878336
+reading 4
+            | 1096 - 4876288
+reading 4
+            | 1097 - 4874240
+reading 4
+            | 1098 - 4870144
+reading 4
+            | 1099 - 4864000
+reading 4
+            | 1100 - 4864000
+reading 4
+            | 1101 - 4859904
+reading 4
+            | 1102 - 4859904
+reading 4
+            | 1103 - 4857856
+reading 4
+            | 1104 - 4857856
+reading 4
+            | 1105 - 4859904
+reading 4
+            | 1106 - 4857856
+reading 4
+            | 1107 - 4851712
+reading 4
+            | 1108 - 4849664
+reading 4
+            | 1109 - 4845568
+reading 4
+            | 1110 - 4843520
+reading 4
+            | 1111 - 4843520
+reading 4
+            | 1112 - 4845568
+reading 4
+            | 1113 - 4849664
+reading 4
+            | 1114 - 4849664
+reading 4
+            | 1115 - 4849664
+reading 4
+            | 1116 - 4847616
+reading 4
+            | 1117 - 4849664
+reading 4
+            | 1118 - 4845568
+reading 4
+            | 1119 - 4849664
+reading 4
+            | 1120 - 4849664
+reading 4
+            | 1121 - 4853760
+reading 4
+            | 1122 - 4853760
+reading 4
+            | 1123 - 4851712
+reading 4
+            | 1124 - 4853760
+reading 4
+            | 1125 - 4853760
+reading 4
+            | 1126 - 4853760
+reading 4
+            | 1127 - 4853760
+reading 4
+            | 1128 - 4857856
+reading 4
+            | 1129 - 4859904
+reading 4
+            | 1130 - 4859904
+reading 4
+            | 1131 - 4859904
+reading 4
+            | 1132 - 4864000
+reading 4
+            | 1133 - 4868096
+reading 4
+            | 1134 - 4870144
+reading 4
+            | 1135 - 4872192
+reading 4
+            | 1136 - 4874240
+reading 4
+            | 1137 - 4874240
+reading 4
+            | 1138 - 4880384
+reading 4
+            | 1139 - 4884480
+reading 4
+            | 1140 - 4882432
+reading 4
+            | 1141 - 4884480
+reading 4
+            | 1142 - 4884480
+reading 4
+            | 1143 - 4888576
+reading 4
+            | 1144 - 4892672
+reading 4
+            | 1145 - 4892672
+reading 4
+            | 1146 - 4890624
+reading 4
+            | 1147 - 4894720
+reading 4
+            | 1148 - 4896768
+reading 4
+            | 1149 - 4902912
+reading 4
+            | 1150 - 4904960
+reading 4
+            | 1151 - 4907008
+reading 4
+            | 1152 - 4911104
+reading 4
+            | 1153 - 4913152
+reading 4
+            | 1154 - 4913152
+reading 4
+            | 1155 - 4915200
+reading 4
+            | 1156 - 4917248
+reading 4
+            | 1157 - 4915200
+reading 4
+            | 1158 - 4917248
+reading 4
+            | 1159 - 4919296
+reading 4
+            | 1160 - 4919296
+reading 4
+            | 1161 - 4921344
+reading 4
+            | 1162 - 4919296
+reading 4
+            | 1163 - 4919296
+reading 4
+            | 1164 - 4921344
+reading 4
+            | 1165 - 4917248
+reading 4
+            | 1166 - 4917248
+reading 4
+            | 1167 - 4915200
+reading 4
+            | 1168 - 4915200
+reading 4
+            | 1169 - 4911104
+reading 4
+            | 1170 - 4909056
+reading 4
+            | 1171 - 4907008
+reading 4
+            | 1172 - 4904960
+reading 4
+            | 1173 - 4898816
+reading 4
+            | 1174 - 4894720
+reading 4
+            | 1175 - 4896768
+reading 4
+            | 1176 - 4890624
+reading 4
+            | 1177 - 4888576
+reading 4
+            | 1178 - 4888576
+reading 4
+            | 1179 - 4886528
+reading 4
+            | 1180 - 4882432
+reading 4
+            | 1181 - 4880384
+reading 4
+            | 1182 - 4880384
+reading 4
+            | 1183 - 4878336
+reading 4
+            | 1184 - 4876288
+reading 4
+            | 1185 - 4876288
+reading 4
+            | 1186 - 4878336
+reading 4
+            | 1187 - 4874240
+reading 4
+            | 1188 - 4870144
+reading 4
+            | 1189 - 4870144
+reading 4
+            | 1190 - 4870144
+reading 4
+            | 1191 - 4870144
+reading 4
+            | 1192 - 4866048
+reading 4
+            | 1193 - 4870144
+reading 4
+            | 1194 - 4866048
+reading 4
+            | 1195 - 4866048
+reading 4
+            | 1196 - 4866048
+reading 4
+            | 1197 - 4861952
+reading 4
+            | 1198 - 4861952
+reading 4
+            | 1199 - 4864000
+reading 4
+            | 1200 - 4866048
+reading 4
+            | 1201 - 4870144
+reading 4
+            | 1202 - 4872192
+reading 4
+            | 1203 - 4874240
+reading 4
+            | 1204 - 4876288
+reading 4
+            | 1205 - 4874240
+reading 4
+            | 1206 - 4876288
+reading 4
+            | 1207 - 4882432
+reading 4
+            | 1208 - 4884480
+reading 4
+            | 1209 - 4884480
+reading 4
+            | 1210 - 4880384
+reading 4
+            | 1211 - 4874240
+reading 4
+            | 1212 - 4872192
+reading 4
+            | 1213 - 4876288
+reading 4
+            | 1214 - 4874240
+reading 4
+            | 1215 - 4878336
+reading 4
+            | 1216 - 4888576
+reading 4
+            | 1217 - 4896768
+reading 4
+            | 1218 - 4902912
+reading 4
+            | 1219 - 4898816
+reading 4
+            | 1220 - 4898816
+reading 4
+            | 1221 - 4900864
+reading 4
+            | 1222 - 4902912
+reading 4
+            | 1223 - 4907008
+reading 4
+            | 1224 - 4907008
+reading 4
+            | 1225 - 4907008
+reading 4
+            | 1226 - 4909056
+reading 4
+            | 1227 - 4911104
+reading 4
+            | 1228 - 4911104
+reading 4
+            | 1229 - 4913152
+reading 4
+            | 1230 - 4911104
+reading 4
+            | 1231 - 4913152
+reading 4
+            | 1232 - 4911104
+reading 4
+            | 1233 - 4902912
+reading 4
+            | 1234 - 4902912
+reading 4
+            | 1235 - 4896768
+reading 4
+            | 1236 - 4888576
+reading 4
+            | 1237 - 4888576
+reading 4
+            | 1238 - 4884480
+reading 4
+            | 1239 - 4888576
+reading 4
+            | 1240 - 4890624
+reading 4
+            | 1241 - 4894720
+reading 4
+            | 1242 - 4898816
+reading 4
+            | 1243 - 4900864
+reading 4
+            | 1244 - 4907008
+reading 4
+            | 1245 - 4911104
+reading 4
+            | 1246 - 4917248
+reading 4
+            | 1247 - 4921344
+reading 4
+            | 1248 - 4925440
+reading 4
+            | 1249 - 4927488
+reading 4
+            | 1250 - 4927488
+reading 4
+            | 1251 - 4933632
+reading 4
+            | 1252 - 4941824
+reading 4
+            | 1253 - 4947968
+reading 4
+            | 1254 - 4952064
+reading 4
+            | 1255 - 4960256
+reading 4
+            | 1256 - 4966400
+reading 4
+            | 1257 - 4976640
+reading 4
+            | 1258 - 4984832
+reading 4
+            | 1259 - 4995072
+reading 4
+            | 1260 - 5009408
+reading 4
+            | 1261 - 5019648
+reading 4
+            | 1262 - 5029888
+reading 4
+            | 1263 - 5033984
+reading 4
+            | 1264 - 5040128
+reading 4
+            | 1265 - 5042176
+reading 4
+            | 1266 - 5046272
+reading 4
+            | 1267 - 5048320
+reading 4
+            | 1268 - 5048320
+reading 4
+            | 1269 - 5050368
+reading 4
+            | 1270 - 5054464
+reading 4
+            | 1271 - 5062656
+reading 4
+            | 1272 - 5070848
+reading 4
+            | 1273 - 5072896
+reading 4
+            | 1274 - 5085184
+reading 4
+            | 1275 - 5089280
+reading 4
+            | 1276 - 5091328
+reading 4
+            | 1277 - 5093376
+reading 4
+            | 1278 - 5099520
+reading 4
+            | 1279 - 5103616
+reading 4
+            | 1280 - 5105664
+reading 4
+            | 1281 - 5111808
+reading 4
+            | 1282 - 5111808
+reading 4
+            | 1283 - 5107712
+reading 4
+            | 1284 - 5103616
+reading 4
+            | 1285 - 5103616
+reading 4
+            | 1286 - 5099520
+reading 4
+            | 1287 - 5099520
+reading 4
+            | 1288 - 5099520
+reading 4
+            | 1289 - 5097472
+reading 4
+            | 1290 - 5095424
+reading 4
+            | 1291 - 5093376
+reading 4
+            | 1292 - 5087232
+reading 4
+            | 1293 - 5087232
+reading 4
+            | 1294 - 5091328
+reading 4
+            | 1295 - 5089280
+reading 4
+            | 1296 - 5093376
+reading 4
+            | 1297 - 5087232
+reading 4
+            | 1298 - 5079040
+reading 4
+            | 1299 - 5074944
+reading 4
+            | 1300 - 5068800
+reading 4
+            | 1301 - 5062656
+reading 4
+            | 1302 - 5062656
+reading 4
+            | 1303 - 5070848
+reading 4
+            | 1304 - 5076992
+reading 4
+            | 1305 - 5083136
+reading 4
+            | 1306 - 5087232
+reading 4
+            | 1307 - 5097472
+reading 4
+            | 1308 - 5101568
+reading 4
+            | 1309 - 5101568
+reading 4
+            | 1310 - 5099520
+reading 4
+            | 1311 - 5101568
+reading 4
+            | 1312 - 5097472
+reading 4
+            | 1313 - 5093376
+reading 4
+            | 1314 - 5095424
+reading 4
+            | 1315 - 5089280
+reading 4
+            | 1316 - 5087232
+reading 4
+            | 1317 - 5089280
+reading 4
+            | 1318 - 5089280
+reading 4
+            | 1319 - 5085184
+reading 4
+            | 1320 - 5081088
+reading 4
+            | 1321 - 5079040
+reading 4
+            | 1322 - 5068800
+reading 4
+            | 1323 - 5064704
+reading 4
+            | 1324 - 5062656
+reading 4
+            | 1325 - 5066752
+reading 4
+            | 1326 - 5068800
+reading 4
+            | 1327 - 5072896
+reading 4
+            | 1328 - 5081088
+reading 4
+            | 1329 - 5083136
+reading 4
+            | 1330 - 5087232
+reading 4
+            | 1331 - 5085184
+reading 4
+            | 1332 - 5083136
+reading 4
+            | 1333 - 5085184
+reading 4
+            | 1334 - 5081088
+reading 4
+            | 1335 - 5074944
+reading 4
+            | 1336 - 5068800
+reading 4
+            | 1337 - 5068800
+reading 4
+            | 1338 - 5074944
+reading 4
+            | 1339 - 5083136
+reading 4
+            | 1340 - 5089280
+reading 4
+            | 1341 - 5105664
+reading 4
+            | 1342 - 5101568
+reading 4
+            | 1343 - 5109760
+reading 4
+            | 1344 - 5128192
+reading 4
+            | 1345 - 5134336
+reading 4
+            | 1346 - 5124096
+reading 4
+            | 1347 - 5115904
+reading 4
+            | 1348 - 5113856
+reading 4
+            | 1349 - 5107712
+reading 4
+            | 1350 - 5103616
+reading 4
+            | 1351 - 5099520
+reading 4
+            | 1352 - 5097472
+reading 4
+            | 1353 - 5103616
+reading 4
+            | 1354 - 5097472
+reading 4
+            | 1355 - 5107712
+reading 4
+            | 1356 - 5126144
+reading 4
+            | 1357 - 5144576
+reading 4
+            | 1358 - 5156864
+reading 4
+            | 1359 - 5156864
+reading 4
+            | 1360 - 5165056
+reading 4
+            | 1361 - 5156864
+reading 4
+            | 1362 - 5130240
+reading 4
+            | 1363 - 5120000
+reading 4
+            | 1364 - 5115904
+reading 4
+            | 1365 - 5109760
+reading 4
+            | 1366 - 5103616
+reading 4
+            | 1367 - 5095424
+reading 4
+            | 1368 - 5087232
+reading 4
+            | 1369 - 5079040
+reading 4
+            | 1370 - 5076992
+reading 4
+            | 1371 - 5074944
+reading 4
+            | 1372 - 5074944
+reading 4
+            | 1373 - 5076992
+reading 4
+            | 1374 - 5076992
+reading 4
+            | 1375 - 5079040
+reading 4
+            | 1376 - 5093376
+reading 4
+            | 1377 - 5105664
+reading 4
+            | 1378 - 5101568
+reading 4
+            | 1379 - 5093376
+reading 4
+            | 1380 - 5085184
+reading 4
+            | 1381 - 5079040
+reading 4
+            | 1382 - 5076992
+reading 4
+            | 1383 - 5076992
+reading 4
+            | 1384 - 5076992
+reading 4
+            | 1385 - 5072896
+reading 4
+            | 1386 - 5076992
+reading 4
+            | 1387 - 5081088
+reading 4
+            | 1388 - 5087232
+reading 4
+            | 1389 - 5079040
+reading 4
+            | 1390 - 5089280
+reading 4
+            | 1391 - 5113856
+reading 4
+            | 1392 - 5126144
+reading 4
+            | 1393 - 5126144
+reading 4
+            | 1394 - 5122048
+reading 4
+            | 1395 - 5126144
+reading 4
+            | 1396 - 5122048
+reading 4
+            | 1397 - 5107712
+reading 4
+            | 1398 - 5095424
+reading 4
+            | 1399 - 5093376
+reading 4
+            | 1400 - 5089280
+reading 4
+            | 1401 - 5085184
+reading 4
+            | 1402 - 5076992
+reading 4
+            | 1403 - 5064704
+reading 4
+            | 1404 - 5062656
+reading 4
+            | 1405 - 5070848
+reading 4
+            | 1406 - 5074944
+reading 4
+            | 1407 - 5095424
+reading 4
+            | 1408 - 5107712
+reading 4
+            | 1409 - 5099520
+reading 4
+            | 1410 - 5083136
+reading 4
+            | 1411 - 5079040
+reading 4
+            | 1412 - 5074944
+reading 4
+            | 1413 - 5068800
+reading 4
+            | 1414 - 5066752
+reading 4
+            | 1415 - 5072896
+reading 4
+            | 1416 - 5076992
+reading 4
+            | 1417 - 5085184
+reading 4
+            | 1418 - 5081088
+reading 4
+            | 1419 - 5074944
+reading 4
+            | 1420 - 5072896
+reading 4
+            | 1421 - 5079040
+reading 4
+            | 1422 - 5095424
+reading 4
+            | 1423 - 5111808
+reading 4
+            | 1424 - 5122048
+reading 4
+            | 1425 - 5124096
+reading 4
+            | 1426 - 5122048
+reading 4
+            | 1427 - 5120000
+reading 4
+            | 1428 - 5128192
+reading 4
+            | 1429 - 5150720
+reading 4
+            | 1430 - 5140480
+reading 4
+            | 1431 - 5122048
+reading 4
+            | 1432 - 5124096
+reading 4
+            | 1433 - 5117952
+reading 4
+            | 1434 - 5105664
+reading 4
+            | 1435 - 5095424
+reading 4
+            | 1436 - 5079040
+reading 4
+            | 1437 - 5074944
+reading 4
+            | 1438 - 5072896
+reading 4
+            | 1439 - 5066752
+reading 4
+            | 1440 - 5066752
+reading 4
+            | 1441 - 5064704
+reading 4
+            | 1442 - 5089280
+reading 4
+            | 1443 - 5115904
+reading 4
+            | 1444 - 5148672
+reading 4
+            | 1445 - 5173248
+reading 4
+            | 1446 - 5165056
+reading 4
+            | 1447 - 5146624
+reading 4
+            | 1448 - 5144576
+reading 4
+            | 1449 - 5160960
+reading 4
+            | 1450 - 5171200
+reading 4
+            | 1451 - 5177344
+reading 4
+            | 1452 - 5181440
+reading 4
+            | 1453 - 5189632
+reading 4
+            | 1454 - 5195776
+reading 4
+            | 1455 - 5212160
+reading 4
+            | 1456 - 5246976
+reading 4
+            | 1457 - 5265408
+reading 4
+            | 1458 - 5267456
+reading 4
+            | 1459 - 5255168
+reading 4
+            | 1460 - 5238784
+reading 4
+            | 1461 - 5214208
+reading 4
+            | 1462 - 5197824
+reading 4
+            | 1463 - 5189632
+reading 4
+            | 1464 - 5181440
+reading 4
+            | 1465 - 5179392
+reading 4
+            | 1466 - 5197824
+reading 4
+            | 1467 - 5228544
+reading 4
+            | 1468 - 5251072
+reading 4
+            | 1469 - 5279744
+reading 4
+            | 1470 - 5314560
+reading 4
+            | 1471 - 5345280
+reading 4
+            | 1472 - 5361664
+reading 4
+            | 1473 - 5378048
+reading 4
+            | 1474 - 5394432
+reading 4
+            | 1475 - 5400576
+reading 4
+            | 1476 - 5396480
+reading 4
+            | 1477 - 5390336
+reading 4
+            | 1478 - 5390336
+reading 4
+            | 1479 - 5388288
+reading 4
+            | 1480 - 5384192
+reading 4
+            | 1481 - 5384192
+reading 4
+            | 1482 - 5382144
+reading 4
+            | 1483 - 5382144
+reading 4
+            | 1484 - 5384192
+reading 4
+            | 1485 - 5394432
+reading 4
+            | 1486 - 5419008
+reading 4
+            | 1487 - 5439488
+reading 4
+            | 1488 - 5445632
+reading 4
+            | 1489 - 5445632
+reading 4
+            | 1490 - 5445632
+reading 4
+            | 1491 - 5453824
+reading 4
+            | 1492 - 5453824
+reading 4
+            | 1493 - 5451776
+reading 4
+            | 1494 - 5451776
+reading 4
+            | 1495 - 5451776
+reading 4
+            | 1496 - 5462016
+reading 4
+            | 1497 - 5472256
+reading 4
+            | 1498 - 5482496
+reading 4
+            | 1499 - 5496832
+reading 4
+            | 1500 - 5511168
+reading 4
+            | 1501 - 5521408
+reading 4
+            | 1502 - 5515264
+reading 4
+            | 1503 - 5505024
+reading 4
+            | 1504 - 5494784
+reading 4
+            | 1505 - 5484544
+reading 4
+            | 1506 - 5480448
+reading 4
+            | 1507 - 5492736
+reading 4
+            | 1508 - 5500928
+reading 4
+            | 1509 - 5496832
+reading 4
+            | 1510 - 5480448
+reading 4
+            | 1511 - 5466112
+reading 4
+            | 1512 - 5466112
+reading 4
+            | 1513 - 5480448
+reading 4
+            | 1514 - 5509120
+reading 4
+            | 1515 - 5519360
+reading 4
+            | 1516 - 5492736
+reading 4
+            | 1517 - 5470208
+reading 4
+            | 1518 - 5459968
+reading 4
+            | 1519 - 5451776
+reading 4
+            | 1520 - 5439488
+reading 4
+            | 1521 - 5423104
+reading 4
+            | 1522 - 5414912
+reading 4
+            | 1523 - 5427200
+reading 4
+            | 1524 - 5453824
+reading 4
+            | 1525 - 5466112
+reading 4
+            | 1526 - 5468160
+reading 4
+            | 1527 - 5445632
+reading 4
+            | 1528 - 5439488
+reading 4
+            | 1529 - 5435392
+reading 4
+            | 1530 - 5419008
+reading 4
+            | 1531 - 5410816
+reading 4
+            | 1532 - 5400576
+reading 4
+            | 1533 - 5396480
+reading 4
+            | 1534 - 5386240
+reading 4
+            | 1535 - 5382144
+reading 4
+            | 1536 - 5380096
+reading 4
+            | 1537 - 5382144
+reading 4
+            | 1538 - 5390336
+reading 4
+            | 1539 - 5400576
+reading 4
+            | 1540 - 5416960
+reading 4
+            | 1541 - 5414912
+reading 4
+            | 1542 - 5421056
+reading 4
+            | 1543 - 5431296
+reading 4
+            | 1544 - 5441536
+reading 4
+            | 1545 - 5447680
+reading 4
+            | 1546 - 5459968
+reading 4
+            | 1547 - 5470208
+reading 4
+            | 1548 - 5474304
+reading 4
+            | 1549 - 5449728
+reading 4
+            | 1550 - 5431296
+reading 4
+            | 1551 - 5429248
+reading 4
+            | 1552 - 5427200
+reading 4
+            | 1553 - 5425152
+reading 4
+            | 1554 - 5433344
+reading 4
+            | 1555 - 5437440
+reading 4
+            | 1556 - 5441536
+reading 4
+            | 1557 - 5445632
+reading 4
+            | 1558 - 5474304
+reading 4
+            | 1559 - 5476352
+reading 4
+            | 1560 - 5468160
+reading 4
+            | 1561 - 5451776
+reading 4
+            | 1562 - 5451776
+reading 4
+            | 1563 - 5453824
+reading 4
+            | 1564 - 5435392
+reading 4
+            | 1565 - 5423104
+reading 4
+            | 1566 - 5419008
+reading 4
+            | 1567 - 5416960
+reading 4
+            | 1568 - 5414912
+reading 4
+            | 1569 - 5412864
+reading 4
+            | 1570 - 5408768
+reading 4
+            | 1571 - 5398528
+reading 4
+            | 1572 - 5400576
+reading 4
+            | 1573 - 5408768
+reading 4
+            | 1574 - 5429248
+reading 4
+            | 1575 - 5447680
+reading 4
+            | 1576 - 5453824
+reading 4
+            | 1577 - 5453824
+reading 4
+            | 1578 - 5455872
+reading 4
+            | 1579 - 5455872
+reading 4
+            | 1580 - 5488640
+reading 4
+            | 1581 - 5494784
+reading 4
+            | 1582 - 5498880
+reading 4
+            | 1583 - 5513216
+reading 4
+            | 1584 - 5525504
+reading 4
+            | 1585 - 5519360
+reading 4
+            | 1586 - 5498880
+reading 4
+            | 1587 - 5484544
+reading 4
+            | 1588 - 5468160
+reading 4
+            | 1589 - 5453824
+reading 4
+            | 1590 - 5439488
+reading 4
+            | 1591 - 5416960
+reading 4
+            | 1592 - 5412864
+reading 4
+            | 1593 - 5421056
+reading 4
+            | 1594 - 5419008
+reading 4
+            | 1595 - 5416960
+reading 4
+            | 1596 - 5412864
+reading 4
+            | 1597 - 5414912
+reading 4
+            | 1598 - 5416960
+reading 4
+            | 1599 - 5419008
+reading 4
+            | 1600 - 5416960
+reading 4
+            | 1601 - 5414912
+reading 4
+            | 1602 - 5410816
+reading 4
+            | 1603 - 5406720
+reading 4
+            | 1604 - 5394432
+reading 4
+            | 1605 - 5386240
+reading 4
+            | 1606 - 5384192
+reading 4
+            | 1607 - 5390336
+reading 4
+            | 1608 - 5392384
+reading 4
+            | 1609 - 5394432
+reading 4
+            | 1610 - 5388288
+reading 4
+            | 1611 - 5382144
+reading 4
+            | 1612 - 5361664
+reading 4
+            | 1613 - 5351424
+reading 4
+            | 1614 - 5351424
+reading 4
+            | 1615 - 5351424
+reading 4
+            | 1616 - 5341184
+reading 4
+            | 1617 - 5306368
+reading 4
+            | 1618 - 5279744
+reading 4
+            | 1619 - 5267456
+reading 4
+            | 1620 - 5263360
+reading 4
+            | 1621 - 5267456
+reading 4
+            | 1622 - 5279744
+reading 4
+            | 1623 - 5285888
+reading 4
+            | 1624 - 5269504
+reading 4
+            | 1625 - 5259264
+reading 4
+            | 1626 - 5249024
+reading 4
+            | 1627 - 5249024
+reading 4
+            | 1628 - 5249024
+reading 4
+            | 1629 - 5246976
+reading 4
+            | 1630 - 5249024
+reading 4
+            | 1631 - 5257216
+reading 4
+            | 1632 - 5263360
+reading 4
+            | 1633 - 5263360
+reading 4
+            | 1634 - 5267456
+reading 4
+            | 1635 - 5259264
+reading 4
+            | 1636 - 5255168
+reading 4
+            | 1637 - 5275648
+reading 4
+            | 1638 - 5279744
+reading 4
+            | 1639 - 5292032
+reading 4
+            | 1640 - 5304320
+reading 4
+            | 1641 - 5300224
+reading 4
+            | 1642 - 5296128
+reading 4
+            | 1643 - 5300224
+reading 4
+            | 1644 - 5306368
+reading 4
+            | 1645 - 5304320
+reading 4
+            | 1646 - 5304320
+reading 4
+            | 1647 - 5304320
+reading 4
+            | 1648 - 5300224
+reading 4
+            | 1649 - 5294080
+reading 4
+            | 1650 - 5300224
+reading 4
+            | 1651 - 5300224
+reading 4
+            | 1652 - 5296128
+reading 4
+            | 1653 - 5287936
+reading 4
+            | 1654 - 5289984
+reading 4
+            | 1655 - 5298176
+reading 4
+            | 1656 - 5281792
+reading 4
+            | 1657 - 5271552
+reading 4
+            | 1658 - 5279744
+reading 4
+            | 1659 - 5289984
+reading 4
+            | 1660 - 5289984
+reading 4
+            | 1661 - 5294080
+reading 4
+            | 1662 - 5281792
+reading 4
+            | 1663 - 5281792
+reading 4
+            | 1664 - 5277696
+reading 4
+            | 1665 - 5283840
+reading 4
+            | 1666 - 5283840
+reading 4
+            | 1667 - 5279744
+reading 4
+            | 1668 - 5285888
+reading 4
+            | 1669 - 5285888
+reading 4
+            | 1670 - 5283840
+reading 4
+            | 1671 - 5279744
+reading 4
+            | 1672 - 5275648
+reading 4
+            | 1673 - 5269504
+reading 4
+            | 1674 - 5269504
+reading 4
+            | 1675 - 5267456
+reading 4
+            | 1676 - 5269504
+reading 4
+            | 1677 - 5279744
+reading 4
+            | 1678 - 5281792
+reading 4
+            | 1679 - 5277696
+reading 4
+            | 1680 - 5285888
+reading 4
+            | 1681 - 5292032
+reading 4
+            | 1682 - 5302272
+reading 4
+            | 1683 - 5316608
+reading 4
+            | 1684 - 5306368
+reading 4
+            | 1685 - 5298176
+reading 4
+            | 1686 - 5292032
+reading 4
+            | 1687 - 5279744
+reading 4
+            | 1688 - 5273600
+reading 4
+            | 1689 - 5271552
+reading 4
+            | 1690 - 5273600
+reading 4
+            | 1691 - 5277696
+reading 4
+            | 1692 - 5294080
+reading 4
+            | 1693 - 5304320
+reading 4
+            | 1694 - 5302272
+reading 4
+            | 1695 - 5300224
+reading 4
+            | 1696 - 5302272
+reading 4
+            | 1697 - 5308416
+reading 4
+            | 1698 - 5314560
+reading 4
+            | 1699 - 5312512
+reading 4
+            | 1700 - 5306368
+reading 4
+            | 1701 - 5289984
+reading 4
+            | 1702 - 5271552
+reading 4
+            | 1703 - 5275648
+reading 4
+            | 1704 - 5308416
+reading 4
+            | 1705 - 5326848
+reading 4
+            | 1706 - 5322752
+reading 4
+            | 1707 - 5308416
+reading 4
+            | 1708 - 5287936
+reading 4
+            | 1709 - 5277696
+reading 4
+            | 1710 - 5257216
+reading 4
+            | 1711 - 5234688
+reading 4
+            | 1712 - 5240832
+reading 4
+            | 1713 - 5242880
+reading 4
+            | 1714 - 5236736
+reading 4
+            | 1715 - 5230592
+reading 4
+            | 1716 - 5230592
+reading 4
+            | 1717 - 5230592
+reading 4
+            | 1718 - 5236736
+reading 4
+            | 1719 - 5246976
+reading 4
+            | 1720 - 5253120
+reading 4
+            | 1721 - 5261312
+reading 4
+            | 1722 - 5253120
+reading 4
+            | 1723 - 5253120
+reading 4
+            | 1724 - 5255168
+reading 4
+            | 1725 - 5257216
+reading 4
+            | 1726 - 5259264
+reading 4
+            | 1727 - 5271552
+reading 4
+            | 1728 - 5283840
+reading 4
+            | 1729 - 5292032
+reading 4
+            | 1730 - 5296128
+reading 4
+            | 1731 - 5294080
+reading 4
+            | 1732 - 5283840
+reading 4
+            | 1733 - 5279744
+reading 4
+            | 1734 - 5283840
+reading 4
+            | 1735 - 5281792
+reading 4
+            | 1736 - 5269504
+reading 4
+            | 1737 - 5257216
+reading 4
+            | 1738 - 5244928
+reading 4
+            | 1739 - 5238784
+reading 4
+            | 1740 - 5226496
+reading 4
+            | 1741 - 5222400
+reading 4
+            | 1742 - 5216256
+reading 4
+            | 1743 - 5220352
+reading 4
+            | 1744 - 5228544
+reading 4
+            | 1745 - 5236736
+reading 4
+            | 1746 - 5249024
+reading 4
+            | 1747 - 5261312
+reading 4
+            | 1748 - 5281792
+reading 4
+            | 1749 - 5304320
+reading 4
+            | 1750 - 5298176
+reading 4
+            | 1751 - 5285888
+reading 4
+            | 1752 - 5267456
+reading 4
+            | 1753 - 5222400
+reading 4
+            | 1754 - 5150720
+reading 4
+            | 1755 - 5111808
+reading 4
+            | 1756 - 5109760
+reading 4
+            | 1757 - 5099520
+reading 4
+            | 1758 - 5097472
+reading 4
+            | 1759 - 5095424
+reading 4
+            | 1760 - 5089280
+reading 4
+            | 1761 - 5087232
+reading 4
+            | 1762 - 5089280
+reading 4
+            | 1763 - 5087232
+reading 4
+            | 1764 - 5085184
+reading 4
+            | 1765 - 5087232
+reading 4
+            | 1766 - 5087232
+reading 4
+            | 1767 - 5085184
+reading 4
+            | 1768 - 5087232
+reading 4
+            | 1769 - 5091328
+reading 4
+            | 1770 - 5089280
+reading 4
+            | 1771 - 5091328
+reading 4
+            | 1772 - 5093376
+reading 4
+            | 1773 - 5091328
+reading 4
+            | 1774 - 5097472
+reading 4
+            | 1775 - 5097472
+reading 4
+            | 1776 - 5097472
+reading 4
+            | 1777 - 5097472
+reading 4
+            | 1778 - 5093376
+reading 4
+            | 1779 - 5095424
+reading 4
+            | 1780 - 5095424
+reading 4
+            | 1781 - 5093376
+reading 4
+            | 1782 - 5091328
+reading 4
+            | 1783 - 5091328
+reading 4
+            | 1784 - 5091328
+reading 4
+            | 1785 - 5091328
+reading 4
+            | 1786 - 5089280
+reading 4
+            | 1787 - 5089280
+reading 4
+            | 1788 - 5087232
+reading 4
+            | 1789 - 5085184
+reading 4
+            | 1790 - 5083136
+reading 4
+            | 1791 - 5081088
+reading 4
+            | 1792 - 5079040
+reading 4
+            | 1793 - 5076992
+reading 4
+            | 1794 - 5076992
+reading 4
+            | 1795 - 5072896
+reading 4
+            | 1796 - 5074944
+reading 4
+            | 1797 - 5070848
+reading 4
+            | 1798 - 5072896
+reading 4
+            | 1799 - 5072896
+reading 4
+            | 1800 - 5072896
+reading 4
+            | 1801 - 5076992
+reading 4
+            | 1802 - 5079040
+reading 4
+            | 1803 - 5076992
+reading 4
+            | 1804 - 5079040
+reading 4
+            | 1805 - 5074944
+reading 4
+            | 1806 - 5072896
+reading 4
+            | 1807 - 5072896
+reading 4
+            | 1808 - 5070848
+reading 4
+            | 1809 - 5066752
+reading 4
+            | 1810 - 5064704
+reading 4
+            | 1811 - 5062656
+reading 4
+            | 1812 - 5060608
+reading 4
+            | 1813 - 5052416
+reading 4
+            | 1814 - 5052416
+reading 4
+            | 1815 - 5052416
+reading 4
+            | 1816 - 5050368
+reading 4
+            | 1817 - 5046272
+reading 4
+            | 1818 - 5040128
+reading 4
+            | 1819 - 5042176
+reading 4
+            | 1820 - 5038080
+reading 4
+            | 1821 - 5036032
+reading 4
+            | 1822 - 5031936
+reading 4
+            | 1823 - 5029888
+reading 4
+            | 1824 - 5025792
+reading 4
+            | 1825 - 5023744
+reading 4
+            | 1826 - 5019648
+reading 4
+            | 1827 - 5017600
+reading 4
+            | 1828 - 5015552
+reading 4
+            | 1829 - 5011456
+reading 4
+            | 1830 - 5007360
+reading 4
+            | 1831 - 5005312
+reading 4
+            | 1832 - 5005312
+reading 4
+            | 1833 - 5001216
+reading 4
+            | 1834 - 4999168
+reading 4
+            | 1835 - 5001216
+reading 4
+            | 1836 - 4999168
+reading 4
+            | 1837 - 4999168
+reading 4
+            | 1838 - 5001216
+reading 4
+            | 1839 - 4999168
+reading 4
+            | 1840 - 4997120
+reading 4
+            | 1841 - 5001216
+reading 4
+            | 1842 - 4999168
+reading 4
+            | 1843 - 4999168
+reading 4
+            | 1844 - 4999168
+reading 4
+            | 1845 - 4999168
+reading 4
+            | 1846 - 5001216
+reading 4
+            | 1847 - 5003264
+reading 4
+            | 1848 - 5003264
+reading 4
+            | 1849 - 5003264
+reading 4
+            | 1850 - 5009408
+reading 4
+            | 1851 - 5007360
+reading 4
+            | 1852 - 5009408
+reading 4
+            | 1853 - 5011456
+reading 4
+            | 1854 - 5013504
+reading 4
+            | 1855 - 5011456
+reading 4
+            | 1856 - 5009408
+reading 4
+            | 1857 - 5007360
+reading 4
+            | 1858 - 5003264
+reading 4
+            | 1859 - 4995072
+reading 4
+            | 1860 - 4978688
+reading 4
+            | 1861 - 4964352
+reading 4
+            | 1862 - 4939776
+reading 4
+            | 1863 - 4913152
+reading 4
+            | 1864 - 4880384
+reading 4
+            | 1865 - 4847616
+reading 4
+            | 1866 - 4829184
+reading 4
+            | 1867 - 4816896
+reading 4
+            | 1868 - 4827136
+reading 4
+            | 1869 - 4835328
+reading 4
+            | 1870 - 4870144
+reading 4
+            | 1871 - 4972544
+reading 4
+            | 1872 - 5076992
+reading 4
+            | 1873 - 5115904
+reading 4
+            | 1874 - 5120000
+reading 4
+            | 1875 - 5111808
+reading 4
+            | 1876 - 5115904
+reading 4
+            | 1877 - 5107712
+reading 4
+            | 1878 - 5081088
+reading 4
+            | 1879 - 5079040
+reading 4
+            | 1880 - 5081088
+reading 4
+            | 1881 - 5122048
+reading 4
+            | 1882 - 5138432
+reading 4
+            | 1883 - 5187584
+reading 4
+            | 1884 - 5173248
+reading 4
+            | 1885 - 5111808
+reading 4
+            | 1886 - 5021696
+reading 4
+            | 1887 - 4913152
+reading 4
+            | 1888 - 4749312
+reading 4
+            | 1889 - 4583424
+reading 4
+            | 1890 - 4415488
+reading 4
+            | 1891 - 4206592
+reading 4
+            | 1892 - 4671488
+reading 4
+            | 1893 - 4411392
+reading 4
+            | 1894 - 4141056
+reading 4
+            | 1895 - 3903488
+reading 4
+            | 1896 - 3762176
+reading 4
+            | 1897 - 3622912
+reading 4
+            | 1898 - 3500032
+reading 4
+            | 1899 - 3416064
+reading 4
+            | 1900 - 3342336
+reading 4
+            | 1901 - 3289088
+reading 4
+            | 1902 - 3268608
+reading 4
+            | 1903 - 3397632
+reading 4
+            | 1904 - 3608576
+reading 4
+            | 1905 - 3698688
+reading 4
+            | 1906 - 3665920
+reading 4
+            | 1907 - 3633152
+reading 4
+            | 1908 - 3559424
+reading 4
+            | 1909 - 3530752
+seeking 0
+reading 8
+          - Atom: co64 (15296 bytes)
+reading 8
+            | number of entries : 1910
+            | chunk offset table:
+reading 8
+            | 0: 2097152
+reading 8
+            | 1: 7643136
+reading 8
+            | 2: 13191168
+reading 8
+            | 3: 18743296
+reading 8
+            | 4: 24307712
+reading 8
+            | 5: 29884416
+reading 8
+            | 6: 35467264
+reading 8
+            | 7: 41046016
+reading 8
+            | 8: 46620672
+reading 8
+            | 9: 52189184
+reading 8
+            | 10: 57757696
+reading 8
+            | 11: 63328256
+reading 8
+            | 12: 69263360
+reading 8
+            | 13: 74844160
+reading 8
+            | 14: 80414720
+reading 8
+            | 15: 85993472
+reading 8
+            | 16: 91582464
+reading 8
+            | 17: 97198080
+reading 8
+            | 18: 102844416
+reading 8
+            | 19: 108537856
+reading 8
+            | 20: 114241536
+reading 8
+            | 21: 119953408
+reading 8
+            | 22: 125640704
+reading 8
+            | 23: 131317760
+reading 8
+            | 24: 137357312
+reading 8
+            | 25: 143036416
+reading 8
+            | 26: 148731904
+reading 8
+            | 27: 154415104
+reading 8
+            | 28: 160110592
+reading 8
+            | 29: 165820416
+reading 8
+            | 30: 171530240
+reading 8
+            | 31: 177217536
+reading 8
+            | 32: 182865920
+reading 8
+            | 33: 188485632
+reading 8
+            | 34: 194099200
+reading 8
+            | 35: 199702528
+reading 8
+            | 36: 205656064
+reading 8
+            | 37: 211257344
+reading 8
+            | 38: 216879104
+reading 8
+            | 39: 222543872
+reading 8
+            | 40: 228253696
+reading 8
+            | 41: 233947136
+reading 8
+            | 42: 239626240
+reading 8
+            | 43: 245301248
+reading 8
+            | 44: 250992640
+reading 8
+            | 45: 256724992
+reading 8
+            | 46: 262469632
+reading 8
+            | 47: 268212224
+reading 8
+            | 48: 274282496
+reading 8
+            | 49: 279965696
+reading 8
+            | 50: 285634560
+reading 8
+            | 51: 291282944
+reading 8
+            | 52: 296927232
+reading 8
+            | 53: 302585856
+reading 8
+            | 54: 308248576
+reading 8
+            | 55: 313919488
+reading 8
+            | 56: 319602688
+reading 8
+            | 57: 325292032
+reading 8
+            | 58: 330971136
+reading 8
+            | 59: 336646144
+reading 8
+            | 60: 342675456
+reading 8
+            | 61: 348323840
+reading 8
+            | 62: 353918976
+reading 8
+            | 63: 359495680
+reading 8
+            | 64: 365053952
+reading 8
+            | 65: 370585600
+reading 8
+            | 66: 376121344
+reading 8
+            | 67: 381650944
+reading 8
+            | 68: 387141632
+reading 8
+            | 69: 392548352
+reading 8
+            | 70: 397895680
+reading 8
+            | 71: 403236864
+reading 8
+            | 72: 408903680
+reading 8
+            | 73: 414173184
+reading 8
+            | 74: 419399680
+reading 8
+            | 75: 424583168
+reading 8
+            | 76: 429735936
+reading 8
+            | 77: 434880512
+reading 8
+            | 78: 440027136
+reading 8
+            | 79: 445173760
+reading 8
+            | 80: 450326528
+reading 8
+            | 81: 455491584
+reading 8
+            | 82: 460666880
+reading 8
+            | 83: 465850368
+reading 8
+            | 84: 471406592
+reading 8
+            | 85: 476608512
+reading 8
+            | 86: 481814528
+reading 8
+            | 87: 487032832
+reading 8
+            | 88: 492259328
+reading 8
+            | 89: 497498112
+reading 8
+            | 90: 502753280
+reading 8
+            | 91: 508020736
+reading 8
+            | 92: 513298432
+reading 8
+            | 93: 518582272
+reading 8
+            | 94: 523874304
+reading 8
+            | 95: 529170432
+reading 8
+            | 96: 534835200
+reading 8
+            | 97: 540135424
+reading 8
+            | 98: 545437696
+reading 8
+            | 99: 550744064
+reading 8
+            | 100: 556050432
+reading 8
+            | 101: 561369088
+reading 8
+            | 102: 566697984
+reading 8
+            | 103: 572035072
+reading 8
+            | 104: 577392640
+reading 8
+            | 105: 582772736
+reading 8
+            | 106: 588179456
+reading 8
+            | 107: 593612800
+reading 8
+            | 108: 599433216
+reading 8
+            | 109: 604915712
+reading 8
+            | 110: 610412544
+reading 8
+            | 111: 615931904
+reading 8
+            | 112: 621473792
+reading 8
+            | 113: 627023872
+reading 8
+            | 114: 632582144
+reading 8
+            | 115: 638146560
+reading 8
+            | 116: 643725312
+reading 8
+            | 117: 649318400
+reading 8
+            | 118: 654934016
+reading 8
+            | 119: 660566016
+reading 8
+            | 120: 666556416
+reading 8
+            | 121: 672165888
+reading 8
+            | 122: 677775360
+reading 8
+            | 123: 683386880
+reading 8
+            | 124: 688992256
+reading 8
+            | 125: 694595584
+reading 8
+            | 126: 700194816
+reading 8
+            | 127: 705779712
+reading 8
+            | 128: 711366656
+reading 8
+            | 129: 716947456
+reading 8
+            | 130: 722522112
+reading 8
+            | 131: 728100864
+reading 8
+            | 132: 734040064
+reading 8
+            | 133: 739610624
+reading 8
+            | 134: 745183232
+reading 8
+            | 135: 750751744
+reading 8
+            | 136: 756312064
+reading 8
+            | 137: 761872384
+reading 8
+            | 138: 767428608
+reading 8
+            | 139: 772982784
+reading 8
+            | 140: 778530816
+reading 8
+            | 141: 784074752
+reading 8
+            | 142: 789626880
+reading 8
+            | 143: 795174912
+reading 8
+            | 144: 801091584
+reading 8
+            | 145: 806649856
+reading 8
+            | 146: 812218368
+reading 8
+            | 147: 817788928
+reading 8
+            | 148: 823357440
+reading 8
+            | 149: 828923904
+reading 8
+            | 150: 834492416
+reading 8
+            | 151: 840067072
+reading 8
+            | 152: 845660160
+reading 8
+            | 153: 851257344
+reading 8
+            | 154: 856860672
+reading 8
+            | 155: 862459904
+reading 8
+            | 156: 868419584
+reading 8
+            | 157: 874020864
+reading 8
+            | 158: 879622144
+reading 8
+            | 159: 885225472
+reading 8
+            | 160: 890826752
+reading 8
+            | 161: 896430080
+reading 8
+            | 162: 902031360
+reading 8
+            | 163: 907634688
+reading 8
+            | 164: 913235968
+reading 8
+            | 165: 918839296
+reading 8
+            | 166: 924444672
+reading 8
+            | 167: 930043904
+reading 8
+            | 168: 935999488
+reading 8
+            | 169: 941594624
+reading 8
+            | 170: 947193856
+reading 8
+            | 171: 952795136
+reading 8
+            | 172: 958398464
+reading 8
+            | 173: 963999744
+reading 8
+            | 174: 969603072
+reading 8
+            | 175: 975206400
+reading 8
+            | 176: 980813824
+reading 8
+            | 177: 986429440
+reading 8
+            | 178: 992045056
+reading 8
+            | 179: 997664768
+reading 8
+            | 180: 1003651072
+reading 8
+            | 181: 1009283072
+reading 8
+            | 182: 1014921216
+reading 8
+            | 183: 1020561408
+reading 8
+            | 184: 1026203648
+reading 8
+            | 185: 1031845888
+reading 8
+            | 186: 1037488128
+reading 8
+            | 187: 1043128320
+reading 8
+            | 188: 1048766464
+reading 8
+            | 189: 1054408704
+reading 8
+            | 190: 1060055040
+reading 8
+            | 191: 1065705472
+reading 8
+            | 192: 1071716352
+reading 8
+            | 193: 1077366784
+reading 8
+            | 194: 1083015168
+reading 8
+            | 195: 1088667648
+reading 8
+            | 196: 1094326272
+reading 8
+            | 197: 1100005376
+reading 8
+            | 198: 1105704960
+reading 8
+            | 199: 1111425024
+reading 8
+            | 200: 1117169664
+reading 8
+            | 201: 1122924544
+reading 8
+            | 202: 1128689664
+reading 8
+            | 203: 1134454784
+reading 8
+            | 204: 1140582400
+reading 8
+            | 205: 1146349568
+reading 8
+            | 206: 1152114688
+reading 8
+            | 207: 1157885952
+reading 8
+            | 208: 1163659264
+reading 8
+            | 209: 1169432576
+reading 8
+            | 210: 1175205888
+reading 8
+            | 211: 1180983296
+reading 8
+            | 212: 1186760704
+reading 8
+            | 213: 1192536064
+reading 8
+            | 214: 1198309376
+reading 8
+            | 215: 1204084736
+reading 8
+            | 216: 1210220544
+reading 8
+            | 217: 1215995904
+reading 8
+            | 218: 1221769216
+reading 8
+            | 219: 1227534336
+reading 8
+            | 220: 1233287168
+reading 8
+            | 221: 1239021568
+reading 8
+            | 222: 1244743680
+reading 8
+            | 223: 1250455552
+reading 8
+            | 224: 1256161280
+reading 8
+            | 225: 1261860864
+reading 8
+            | 226: 1267560448
+reading 8
+            | 227: 1273262080
+reading 8
+            | 228: 1279324160
+reading 8
+            | 229: 1285023744
+reading 8
+            | 230: 1290723328
+reading 8
+            | 231: 1296420864
+reading 8
+            | 232: 1302114304
+reading 8
+            | 233: 1307809792
+reading 8
+            | 234: 1313501184
+reading 8
+            | 235: 1319188480
+reading 8
+            | 236: 1324879872
+reading 8
+            | 237: 1330569216
+reading 8
+            | 238: 1336254464
+reading 8
+            | 239: 1341937664
+reading 8
+            | 240: 1347983360
+reading 8
+            | 241: 1353664512
+reading 8
+            | 242: 1359343616
+reading 8
+            | 243: 1365024768
+reading 8
+            | 244: 1370707968
+reading 8
+            | 245: 1376393216
+reading 8
+            | 246: 1382080512
+reading 8
+            | 247: 1387769856
+reading 8
+            | 248: 1393459200
+reading 8
+            | 249: 1399150592
+reading 8
+            | 250: 1404839936
+reading 8
+            | 251: 1410527232
+reading 8
+            | 252: 1416579072
+reading 8
+            | 253: 1422274560
+reading 8
+            | 254: 1427968000
+reading 8
+            | 255: 1433659392
+reading 8
+            | 256: 1439350784
+reading 8
+            | 257: 1445044224
+reading 8
+            | 258: 1450733568
+reading 8
+            | 259: 1456424960
+reading 8
+            | 260: 1462114304
+reading 8
+            | 261: 1467803648
+reading 8
+            | 262: 1473490944
+reading 8
+            | 263: 1479182336
+reading 8
+            | 264: 1485234176
+reading 8
+            | 265: 1490925568
+reading 8
+            | 266: 1496616960
+reading 8
+            | 267: 1502310400
+reading 8
+            | 268: 1508003840
+reading 8
+            | 269: 1513699328
+reading 8
+            | 270: 1519394816
+reading 8
+            | 271: 1525090304
+reading 8
+            | 272: 1530781696
+reading 8
+            | 273: 1536477184
+reading 8
+            | 274: 1542170624
+reading 8
+            | 275: 1547859968
+reading 8
+            | 276: 1553909760
+reading 8
+            | 277: 1559597056
+reading 8
+            | 278: 1565276160
+reading 8
+            | 279: 1570957312
+reading 8
+            | 280: 1576638464
+reading 8
+            | 281: 1582313472
+reading 8
+            | 282: 1587986432
+reading 8
+            | 283: 1593661440
+reading 8
+            | 284: 1599332352
+reading 8
+            | 285: 1605001216
+reading 8
+            | 286: 1610668032
+reading 8
+            | 287: 1616336896
+reading 8
+            | 288: 1622366208
+reading 8
+            | 289: 1628035072
+reading 8
+            | 290: 1633708032
+reading 8
+            | 291: 1639383040
+reading 8
+            | 292: 1645053952
+reading 8
+            | 293: 1650726912
+reading 8
+            | 294: 1656395776
+reading 8
+            | 295: 1662050304
+reading 8
+            | 296: 1667696640
+reading 8
+            | 297: 1673342976
+reading 8
+            | 298: 1678991360
+reading 8
+            | 299: 1684633600
+reading 8
+            | 300: 1690634240
+reading 8
+            | 301: 1696258048
+reading 8
+            | 302: 1701877760
+reading 8
+            | 303: 1707501568
+reading 8
+            | 304: 1713133568
+reading 8
+            | 305: 1718763520
+reading 8
+            | 306: 1724401664
+reading 8
+            | 307: 1730060288
+reading 8
+            | 308: 1735733248
+reading 8
+            | 309: 1741404160
+reading 8
+            | 310: 1747073024
+reading 8
+            | 311: 1752737792
+reading 8
+            | 312: 1758765056
+reading 8
+            | 313: 1764417536
+reading 8
+            | 314: 1770088448
+reading 8
+            | 315: 1775747072
+reading 8
+            | 316: 1781409792
+reading 8
+            | 317: 1787101184
+reading 8
+            | 318: 1792786432
+reading 8
+            | 319: 1798488064
+reading 8
+            | 320: 1804206080
+reading 8
+            | 321: 1809944576
+reading 8
+            | 322: 1815697408
+reading 8
+            | 323: 1821462528
+reading 8
+            | 324: 1827592192
+reading 8
+            | 325: 1833377792
+reading 8
+            | 326: 1839159296
+reading 8
+            | 327: 1844934656
+reading 8
+            | 328: 1850705920
+reading 8
+            | 329: 1856475136
+reading 8
+            | 330: 1862252544
+reading 8
+            | 331: 1868036096
+reading 8
+            | 332: 1873848320
+reading 8
+            | 333: 1879691264
+reading 8
+            | 334: 1885562880
+reading 8
+            | 335: 1891463168
+reading 8
+            | 336: 1897738240
+reading 8
+            | 337: 1903661056
+reading 8
+            | 338: 1909610496
+reading 8
+            | 339: 1915559936
+reading 8
+            | 340: 1921503232
+reading 8
+            | 341: 1927442432
+reading 8
+            | 342: 1933365248
+reading 8
+            | 343: 1939277824
+reading 8
+            | 344: 1945176064
+reading 8
+            | 345: 1951070208
+reading 8
+            | 346: 1956958208
+reading 8
+            | 347: 1962831872
+reading 8
+            | 348: 1969057792
+reading 8
+            | 349: 1974921216
+reading 8
+            | 350: 1980770304
+reading 8
+            | 351: 1986603008
+reading 8
+            | 352: 1992433664
+reading 8
+            | 353: 1998272512
+reading 8
+            | 354: 2004101120
+reading 8
+            | 355: 2009921536
+reading 8
+            | 356: 2015731712
+reading 8
+            | 357: 2021535744
+reading 8
+            | 358: 2027319296
+reading 8
+            | 359: 2033082368
+reading 8
+            | 360: 2039195648
+reading 8
+            | 361: 2044934144
+reading 8
+            | 362: 2050654208
+reading 8
+            | 363: 2056353792
+reading 8
+            | 364: 2062032896
+reading 8
+            | 365: 2067695616
+reading 8
+            | 366: 2073329664
+reading 8
+            | 367: 2078941184
+reading 8
+            | 368: 2084534272
+reading 8
+            | 369: 2090106880
+reading 8
+            | 370: 2095665152
+reading 8
+            | 371: 2101215232
+reading 8
+            | 372: 2107115520
+reading 8
+            | 373: 2112647168
+reading 8
+            | 374: 2118172672
+reading 8
+            | 375: 2123704320
+reading 8
+            | 376: 2129252352
+reading 8
+            | 377: 2134820864
+reading 8
+            | 378: 2140379136
+reading 8
+            | 379: 2145943552
+reading 8
+            | 380: 2151489536
+reading 8
+            | 381: 2157023232
+reading 8
+            | 382: 2162540544
+reading 8
+            | 383: 2168031232
+reading 8
+            | 384: 2173855744
+reading 8
+            | 385: 2179297280
+reading 8
+            | 386: 2184724480
+reading 8
+            | 387: 2190143488
+reading 8
+            | 388: 2195548160
+reading 8
+            | 389: 2200954880
+reading 8
+            | 390: 2206367744
+reading 8
+            | 391: 2211770368
+reading 8
+            | 392: 2217170944
+reading 8
+            | 393: 2222573568
+reading 8
+            | 394: 2227976192
+reading 8
+            | 395: 2233370624
+reading 8
+            | 396: 2239119360
+reading 8
+            | 397: 2244497408
+reading 8
+            | 398: 2249861120
+reading 8
+            | 399: 2255214592
+reading 8
+            | 400: 2260557824
+reading 8
+            | 401: 2265894912
+reading 8
+            | 402: 2271229952
+reading 8
+            | 403: 2276569088
+reading 8
+            | 404: 2281908224
+reading 8
+            | 405: 2287249408
+reading 8
+            | 406: 2292592640
+reading 8
+            | 407: 2297937920
+reading 8
+            | 408: 2303643648
+reading 8
+            | 409: 2308993024
+reading 8
+            | 410: 2314346496
+reading 8
+            | 411: 2319695872
+reading 8
+            | 412: 2325047296
+reading 8
+            | 413: 2330402816
+reading 8
+            | 414: 2335756288
+reading 8
+            | 415: 2341117952
+reading 8
+            | 416: 2346487808
+reading 8
+            | 417: 2351859712
+reading 8
+            | 418: 2357235712
+reading 8
+            | 419: 2362611712
+reading 8
+            | 420: 2368350208
+reading 8
+            | 421: 2373724160
+reading 8
+            | 422: 2379089920
+reading 8
+            | 423: 2384447488
+reading 8
+            | 424: 2389796864
+reading 8
+            | 425: 2395140096
+reading 8
+            | 426: 2400475136
+reading 8
+            | 427: 2405797888
+reading 8
+            | 428: 2411108352
+reading 8
+            | 429: 2416420864
+reading 8
+            | 430: 2421735424
+reading 8
+            | 431: 2427060224
+reading 8
+            | 432: 2432743424
+reading 8
+            | 433: 2438072320
+reading 8
+            | 434: 2443403264
+reading 8
+            | 435: 2448736256
+reading 8
+            | 436: 2454069248
+reading 8
+            | 437: 2459400192
+reading 8
+            | 438: 2464733184
+reading 8
+            | 439: 2470072320
+reading 8
+            | 440: 2475423744
+reading 8
+            | 441: 2480791552
+reading 8
+            | 442: 2486175744
+reading 8
+            | 443: 2491576320
+reading 8
+            | 444: 2497357824
+reading 8
+            | 445: 2502789120
+reading 8
+            | 446: 2508222464
+reading 8
+            | 447: 2513664000
+reading 8
+            | 448: 2519126016
+reading 8
+            | 449: 2524610560
+reading 8
+            | 450: 2530115584
+reading 8
+            | 451: 2535643136
+reading 8
+            | 452: 2541164544
+reading 8
+            | 453: 2546704384
+reading 8
+            | 454: 2552254464
+reading 8
+            | 455: 2557808640
+reading 8
+            | 456: 2563710976
+reading 8
+            | 457: 2569259008
+reading 8
+            | 458: 2574827520
+reading 8
+            | 459: 2580410368
+reading 8
+            | 460: 2586005504
+reading 8
+            | 461: 2591610880
+reading 8
+            | 462: 2597222400
+reading 8
+            | 463: 2602856448
+reading 8
+            | 464: 2608513024
+reading 8
+            | 465: 2614188032
+reading 8
+            | 466: 2619885568
+reading 8
+            | 467: 2625601536
+reading 8
+            | 468: 2631688192
+reading 8
+            | 469: 2637430784
+reading 8
+            | 470: 2643202048
+reading 8
+            | 471: 2648993792
+reading 8
+            | 472: 2654808064
+reading 8
+            | 473: 2660642816
+reading 8
+            | 474: 2666475520
+reading 8
+            | 475: 2672312320
+reading 8
+            | 476: 2678145024
+reading 8
+            | 477: 2683985920
+reading 8
+            | 478: 2689837056
+reading 8
+            | 479: 2695716864
+reading 8
+            | 480: 2701979648
+reading 8
+            | 481: 2707902464
+reading 8
+            | 482: 2713827328
+reading 8
+            | 483: 2719750144
+reading 8
+            | 484: 2725668864
+reading 8
+            | 485: 2731579392
+reading 8
+            | 486: 2737481728
+reading 8
+            | 487: 2743369728
+reading 8
+            | 488: 2749249536
+reading 8
+            | 489: 2755080192
+reading 8
+            | 490: 2760882176
+reading 8
+            | 491: 2766682112
+reading 8
+            | 492: 2772817920
+reading 8
+            | 493: 2778580992
+reading 8
+            | 494: 2784364544
+reading 8
+            | 495: 2790135808
+reading 8
+            | 496: 2795886592
+reading 8
+            | 497: 2801629184
+reading 8
+            | 498: 2807361536
+reading 8
+            | 499: 2813071360
+reading 8
+            | 500: 2818779136
+reading 8
+            | 501: 2824478720
+reading 8
+            | 502: 2830176256
+reading 8
+            | 503: 2835863552
+reading 8
+            | 504: 2841911296
+reading 8
+            | 505: 2847600640
+reading 8
+            | 506: 2853294080
+reading 8
+            | 507: 2858979328
+reading 8
+            | 508: 2864666624
+reading 8
+            | 509: 2870358016
+reading 8
+            | 510: 2876047360
+reading 8
+            | 511: 2881740800
+reading 8
+            | 512: 2887436288
+reading 8
+            | 513: 2893125632
+reading 8
+            | 514: 2898817024
+reading 8
+            | 515: 2904508416
+reading 8
+            | 516: 2910560256
+reading 8
+            | 517: 2916251648
+reading 8
+            | 518: 2921936896
+reading 8
+            | 519: 2927624192
+reading 8
+            | 520: 2933309440
+reading 8
+            | 521: 2938984448
+reading 8
+            | 522: 2944657408
+reading 8
+            | 523: 2950338560
+reading 8
+            | 524: 2956027904
+reading 8
+            | 525: 2961721344
+reading 8
+            | 526: 2967422976
+reading 8
+            | 527: 2973132800
+reading 8
+            | 528: 2979207168
+reading 8
+            | 529: 2984931328
+reading 8
+            | 530: 2990663680
+reading 8
+            | 531: 2996398080
+reading 8
+            | 532: 3002140672
+reading 8
+            | 533: 3007885312
+reading 8
+            | 534: 3013634048
+reading 8
+            | 535: 3019380736
+reading 8
+            | 536: 3025123328
+reading 8
+            | 537: 3030863872
+reading 8
+            | 538: 3036602368
+reading 8
+            | 539: 3042338816
+reading 8
+            | 540: 3048439808
+reading 8
+            | 541: 3054178304
+reading 8
+            | 542: 3059920896
+reading 8
+            | 543: 3065663488
+reading 8
+            | 544: 3071418368
+reading 8
+            | 545: 3077175296
+reading 8
+            | 546: 3082936320
+reading 8
+            | 547: 3088701440
+reading 8
+            | 548: 3094476800
+reading 8
+            | 549: 3100268544
+reading 8
+            | 550: 3106068480
+reading 8
+            | 551: 3111866368
+reading 8
+            | 552: 3118022656
+reading 8
+            | 553: 3123814400
+reading 8
+            | 554: 3129606144
+reading 8
+            | 555: 3135399936
+reading 8
+            | 556: 3141197824
+reading 8
+            | 557: 3147003904
+reading 8
+            | 558: 3152816128
+reading 8
+            | 559: 3158632448
+reading 8
+            | 560: 3164450816
+reading 8
+            | 561: 3170267136
+reading 8
+            | 562: 3176081408
+reading 8
+            | 563: 3181897728
+reading 8
+            | 564: 3188076544
+reading 8
+            | 565: 3193892864
+reading 8
+            | 566: 3199711232
+reading 8
+            | 567: 3205525504
+reading 8
+            | 568: 3211337728
+reading 8
+            | 569: 3217149952
+reading 8
+            | 570: 3222962176
+reading 8
+            | 571: 3228772352
+reading 8
+            | 572: 3234582528
+reading 8
+            | 573: 3240394752
+reading 8
+            | 574: 3246206976
+reading 8
+            | 575: 3252021248
+reading 8
+            | 576: 3258193920
+reading 8
+            | 577: 3264006144
+reading 8
+            | 578: 3269820416
+reading 8
+            | 579: 3275632640
+reading 8
+            | 580: 3281446912
+reading 8
+            | 581: 3287259136
+reading 8
+            | 582: 3293071360
+reading 8
+            | 583: 3298881536
+reading 8
+            | 584: 3304689664
+reading 8
+            | 585: 3310497792
+reading 8
+            | 586: 3316310016
+reading 8
+            | 587: 3322124288
+reading 8
+            | 588: 3328296960
+reading 8
+            | 589: 3334111232
+reading 8
+            | 590: 3339921408
+reading 8
+            | 591: 3345733632
+reading 8
+            | 592: 3351545856
+reading 8
+            | 593: 3357358080
+reading 8
+            | 594: 3363168256
+reading 8
+            | 595: 3368974336
+reading 8
+            | 596: 3374786560
+reading 8
+            | 597: 3380598784
+reading 8
+            | 598: 3386400768
+reading 8
+            | 599: 3392190464
+reading 8
+            | 600: 3398334464
+reading 8
+            | 601: 3404113920
+reading 8
+            | 602: 3409889280
+reading 8
+            | 603: 3415662592
+reading 8
+            | 604: 3421437952
+reading 8
+            | 605: 3427213312
+reading 8
+            | 606: 3432988672
+reading 8
+            | 607: 3438759936
+reading 8
+            | 608: 3444527104
+reading 8
+            | 609: 3450294272
+reading 8
+            | 610: 3456051200
+reading 8
+            | 611: 3461801984
+reading 8
+            | 612: 3467905024
+reading 8
+            | 613: 3473645568
+reading 8
+            | 614: 3479377920
+reading 8
+            | 615: 3485106176
+reading 8
+            | 616: 3490828288
+reading 8
+            | 617: 3496548352
+reading 8
+            | 618: 3502266368
+reading 8
+            | 619: 3507986432
+reading 8
+            | 620: 3513702400
+reading 8
+            | 621: 3519416320
+reading 8
+            | 622: 3525130240
+reading 8
+            | 623: 3530838016
+reading 8
+            | 624: 3536904192
+reading 8
+            | 625: 3542611968
+reading 8
+            | 626: 3548313600
+reading 8
+            | 627: 3554019328
+reading 8
+            | 628: 3559727104
+reading 8
+            | 629: 3565436928
+reading 8
+            | 630: 3571142656
+reading 8
+            | 631: 3576850432
+reading 8
+            | 632: 3582556160
+reading 8
+            | 633: 3588270080
+reading 8
+            | 634: 3593975808
+reading 8
+            | 635: 3599681536
+reading 8
+            | 636: 3605745664
+reading 8
+            | 637: 3611449344
+reading 8
+            | 638: 3617150976
+reading 8
+            | 639: 3622852608
+reading 8
+            | 640: 3628554240
+reading 8
+            | 641: 3634253824
+reading 8
+            | 642: 3639955456
+reading 8
+            | 643: 3645657088
+reading 8
+            | 644: 3651362816
+reading 8
+            | 645: 3657072640
+reading 8
+            | 646: 3662786560
+reading 8
+            | 647: 3668504576
+reading 8
+            | 648: 3674583040
+reading 8
+            | 649: 3680301056
+reading 8
+            | 650: 3686021120
+reading 8
+            | 651: 3691737088
+reading 8
+            | 652: 3697453056
+reading 8
+            | 653: 3703173120
+reading 8
+            | 654: 3708891136
+reading 8
+            | 655: 3714609152
+reading 8
+            | 656: 3720327168
+reading 8
+            | 657: 3726043136
+reading 8
+            | 658: 3731763200
+reading 8
+            | 659: 3737481216
+reading 8
+            | 660: 3743561728
+reading 8
+            | 661: 3749283840
+reading 8
+            | 662: 3755005952
+reading 8
+            | 663: 3760730112
+reading 8
+            | 664: 3766458368
+reading 8
+            | 665: 3772184576
+reading 8
+            | 666: 3777906688
+reading 8
+            | 667: 3783628800
+reading 8
+            | 668: 3789350912
+reading 8
+            | 669: 3795070976
+reading 8
+            | 670: 3800791040
+reading 8
+            | 671: 3806513152
+reading 8
+            | 672: 3812591616
+reading 8
+            | 673: 3818311680
+reading 8
+            | 674: 3824029696
+reading 8
+            | 675: 3829747712
+reading 8
+            | 676: 3835469824
+reading 8
+            | 677: 3841191936
+reading 8
+            | 678: 3846912000
+reading 8
+            | 679: 3852632064
+reading 8
+            | 680: 3858354176
+reading 8
+            | 681: 3864076288
+reading 8
+            | 682: 3869800448
+reading 8
+            | 683: 3875528704
+reading 8
+            | 684: 3881609216
+reading 8
+            | 685: 3887331328
+reading 8
+            | 686: 3893051392
+reading 8
+            | 687: 3898769408
+reading 8
+            | 688: 3904483328
+reading 8
+            | 689: 3910184960
+reading 8
+            | 690: 3915880448
+reading 8
+            | 691: 3921573888
+reading 8
+            | 692: 3927267328
+reading 8
+            | 693: 3932942336
+reading 8
+            | 694: 3938598912
+reading 8
+            | 695: 3944243200
+reading 8
+            | 696: 3950223360
+reading 8
+            | 697: 3955812352
+reading 8
+            | 698: 3961419776
+reading 8
+            | 699: 3967047680
+reading 8
+            | 700: 3972673536
+reading 8
+            | 701: 3978256384
+reading 8
+            | 702: 3983808512
+reading 8
+            | 703: 3989379072
+reading 8
+            | 704: 3994961920
+reading 8
+            | 705: 4000542720
+reading 8
+            | 706: 4006180864
+reading 8
+            | 707: 4011872256
+reading 8
+            | 708: 4017934336
+reading 8
+            | 709: 4023652352
+reading 8
+            | 710: 4029388800
+reading 8
+            | 711: 4035137536
+reading 8
+            | 712: 4040902656
+reading 8
+            | 713: 4046671872
+reading 8
+            | 714: 4052455424
+reading 8
+            | 715: 4058236928
+reading 8
+            | 716: 4064022528
+reading 8
+            | 717: 4069812224
+reading 8
+            | 718: 4075599872
+reading 8
+            | 719: 4081403904
+reading 8
+            | 720: 4087582720
+reading 8
+            | 721: 4093417472
+reading 8
+            | 722: 4099264512
+reading 8
+            | 723: 4105119744
+reading 8
+            | 724: 4110979072
+reading 8
+            | 725: 4116846592
+reading 8
+            | 726: 4122724352
+reading 8
+            | 727: 4128602112
+reading 8
+            | 728: 4134467584
+reading 8
+            | 729: 4140331008
+reading 8
+            | 730: 4146186240
+reading 8
+            | 731: 4152027136
+reading 8
+            | 732: 4158216192
+reading 8
+            | 733: 4164020224
+reading 8
+            | 734: 4169803776
+reading 8
+            | 735: 4175572992
+reading 8
+            | 736: 4181329920
+reading 8
+            | 737: 4187080704
+reading 8
+            | 738: 4192827392
+reading 8
+            | 739: 4198565888
+reading 8
+            | 740: 4204308480
+reading 8
+            | 741: 4210049024
+reading 8
+            | 742: 4215783424
+reading 8
+            | 743: 4221503488
+reading 8
+            | 744: 4227565568
+reading 8
+            | 745: 4233250816
+reading 8
+            | 746: 4238915584
+reading 8
+            | 747: 4244551680
+reading 8
+            | 748: 4250169344
+reading 8
+            | 749: 4255754240
+reading 8
+            | 750: 4261306368
+reading 8
+            | 751: 4266825728
+reading 8
+            | 752: 4272318464
+reading 8
+            | 753: 4277805056
+reading 8
+            | 754: 4283277312
+reading 8
+            | 755: 4288743424
+reading 8
+            | 756: 4294588416
+reading 8
+            | 757: 4300077056
+reading 8
+            | 758: 4305573888
+reading 8
+            | 759: 4311087104
+reading 8
+            | 760: 4316602368
+reading 8
+            | 761: 4322107392
+reading 8
+            | 762: 4327600128
+reading 8
+            | 763: 4333074432
+reading 8
+            | 764: 4338530304
+reading 8
+            | 765: 4343969792
+reading 8
+            | 766: 4349386752
+reading 8
+            | 767: 4354785280
+reading 8
+            | 768: 4360509440
+reading 8
+            | 769: 4365846528
+reading 8
+            | 770: 4371156992
+reading 8
+            | 771: 4376446976
+reading 8
+            | 772: 4381720576
+reading 8
+            | 773: 4386975744
+reading 8
+            | 774: 4392208384
+reading 8
+            | 775: 4397428736
+reading 8
+            | 776: 4402640896
+reading 8
+            | 777: 4407846912
+reading 8
+            | 778: 4413044736
+reading 8
+            | 779: 4418238464
+reading 8
+            | 780: 4423784448
+reading 8
+            | 781: 4428965888
+reading 8
+            | 782: 4434141184
+reading 8
+            | 783: 4439310336
+reading 8
+            | 784: 4444465152
+reading 8
+            | 785: 4449609728
+reading 8
+            | 786: 4454735872
+reading 8
+            | 787: 4459845632
+reading 8
+            | 788: 4464953344
+reading 8
+            | 789: 4470059008
+reading 8
+            | 790: 4475160576
+reading 8
+            | 791: 4480251904
+reading 8
+            | 792: 4485703680
+reading 8
+            | 793: 4490795008
+reading 8
+            | 794: 4495874048
+reading 8
+            | 795: 4500940800
+reading 8
+            | 796: 4506007552
+reading 8
+            | 797: 4511072256
+reading 8
+            | 798: 4516143104
+reading 8
+            | 799: 4521216000
+reading 8
+            | 800: 4526288896
+reading 8
+            | 801: 4531357696
+reading 8
+            | 802: 4536422400
+reading 8
+            | 803: 4541485056
+reading 8
+            | 804: 4546910208
+reading 8
+            | 805: 4551979008
+reading 8
+            | 806: 4557051904
+reading 8
+            | 807: 4562128896
+reading 8
+            | 808: 4567214080
+reading 8
+            | 809: 4572297216
+reading 8
+            | 810: 4577376256
+reading 8
+            | 811: 4582438912
+reading 8
+            | 812: 4587489280
+reading 8
+            | 813: 4592529408
+reading 8
+            | 814: 4597565440
+reading 8
+            | 815: 4602595328
+reading 8
+            | 816: 4607985664
+reading 8
+            | 817: 4613013504
+reading 8
+            | 818: 4618037248
+reading 8
+            | 819: 4623060992
+reading 8
+            | 820: 4628088832
+reading 8
+            | 821: 4633122816
+reading 8
+            | 822: 4638156800
+reading 8
+            | 823: 4643188736
+reading 8
+            | 824: 4648208384
+reading 8
+            | 825: 4653219840
+reading 8
+            | 826: 4658227200
+reading 8
+            | 827: 4663228416
+reading 8
+            | 828: 4668585984
+reading 8
+            | 829: 4673581056
+reading 8
+            | 830: 4678576128
+reading 8
+            | 831: 4683579392
+reading 8
+            | 832: 4688596992
+reading 8
+            | 833: 4693628928
+reading 8
+            | 834: 4698671104
+reading 8
+            | 835: 4703723520
+reading 8
+            | 836: 4708792320
+reading 8
+            | 837: 4713869312
+reading 8
+            | 838: 4718958592
+reading 8
+            | 839: 4724060160
+reading 8
+            | 840: 4729534464
+reading 8
+            | 841: 4734660608
+reading 8
+            | 842: 4739794944
+reading 8
+            | 843: 4744945664
+reading 8
+            | 844: 4750094336
+reading 8
+            | 845: 4755253248
+reading 8
+            | 846: 4760414208
+reading 8
+            | 847: 4765575168
+reading 8
+            | 848: 4770736128
+reading 8
+            | 849: 4775899136
+reading 8
+            | 850: 4781066240
+reading 8
+            | 851: 4786229248
+reading 8
+            | 852: 4791758848
+reading 8
+            | 853: 4796923904
+reading 8
+            | 854: 4802091008
+reading 8
+            | 855: 4807256064
+reading 8
+            | 856: 4812419072
+reading 8
+            | 857: 4817553408
+reading 8
+            | 858: 4822704128
+reading 8
+            | 859: 4827860992
+reading 8
+            | 860: 4832995328
+reading 8
+            | 861: 4838131712
+reading 8
+            | 862: 4843266048
+reading 8
+            | 863: 4848400384
+reading 8
+            | 864: 4853889024
+reading 8
+            | 865: 4859011072
+reading 8
+            | 866: 4864124928
+reading 8
+            | 867: 4869230592
+reading 8
+            | 868: 4874328064
+reading 8
+            | 869: 4879419392
+reading 8
+            | 870: 4884508672
+reading 8
+            | 871: 4889591808
+reading 8
+            | 872: 4894672896
+reading 8
+            | 873: 4899749888
+reading 8
+            | 874: 4904830976
+reading 8
+            | 875: 4909905920
+reading 8
+            | 876: 4915337216
+reading 8
+            | 877: 4920401920
+reading 8
+            | 878: 4925456384
+reading 8
+            | 879: 4930496512
+reading 8
+            | 880: 4935514112
+reading 8
+            | 881: 4940500992
+reading 8
+            | 882: 4945469440
+reading 8
+            | 883: 4950421504
+reading 8
+            | 884: 4955359232
+reading 8
+            | 885: 4960290816
+reading 8
+            | 886: 4965234688
+reading 8
+            | 887: 4970190848
+reading 8
+            | 888: 4975523840
+reading 8
+            | 889: 4980525056
+reading 8
+            | 890: 4985548800
+reading 8
+            | 891: 4990586880
+reading 8
+            | 892: 4995639296
+reading 8
+            | 893: 5000720384
+reading 8
+            | 894: 5005824000
+reading 8
+            | 895: 5010931712
+reading 8
+            | 896: 5016033280
+reading 8
+            | 897: 5021157376
+reading 8
+            | 898: 5026301952
+reading 8
+            | 899: 5031464960
+reading 8
+            | 900: 5036996608
+reading 8
+            | 901: 5042167808
+reading 8
+            | 902: 5047334912
+reading 8
+            | 903: 5052489728
+reading 8
+            | 904: 5057622016
+reading 8
+            | 905: 5062735872
+reading 8
+            | 906: 5067827200
+reading 8
+            | 907: 5072904192
+reading 8
+            | 908: 5077968896
+reading 8
+            | 909: 5083021312
+reading 8
+            | 910: 5088059392
+reading 8
+            | 911: 5093091328
+reading 8
+            | 912: 5098506240
+reading 8
+            | 913: 5103575040
+reading 8
+            | 914: 5108652032
+reading 8
+            | 915: 5113735168
+reading 8
+            | 916: 5118824448
+reading 8
+            | 917: 5123911680
+reading 8
+            | 918: 5129003008
+reading 8
+            | 919: 5134098432
+reading 8
+            | 920: 5139197952
+reading 8
+            | 921: 5144295424
+reading 8
+            | 922: 5149392896
+reading 8
+            | 923: 5154482176
+reading 8
+            | 924: 5159923712
+reading 8
+            | 925: 5164996608
+reading 8
+            | 926: 5170055168
+reading 8
+            | 927: 5175087104
+reading 8
+            | 928: 5180110848
+reading 8
+            | 929: 5185132544
+reading 8
+            | 930: 5190146048
+reading 8
+            | 931: 5195151360
+reading 8
+            | 932: 5200152576
+reading 8
+            | 933: 5205143552
+reading 8
+            | 934: 5210116096
+reading 8
+            | 935: 5215078400
+reading 8
+            | 936: 5220392960
+reading 8
+            | 937: 5225336832
+reading 8
+            | 938: 5230266368
+reading 8
+            | 939: 5235185664
+reading 8
+            | 940: 5240094720
+reading 8
+            | 941: 5244995584
+reading 8
+            | 942: 5249880064
+reading 8
+            | 943: 5254758400
+reading 8
+            | 944: 5259622400
+reading 8
+            | 945: 5264478208
+reading 8
+            | 946: 5269323776
+reading 8
+            | 947: 5274163200
+reading 8
+            | 948: 5279354880
+reading 8
+            | 949: 5284182016
+reading 8
+            | 950: 5289003008
+reading 8
+            | 951: 5293817856
+reading 8
+            | 952: 5298628608
+reading 8
+            | 953: 5303435264
+reading 8
+            | 954: 5308239872
+reading 8
+            | 955: 5313042432
+reading 8
+            | 956: 5317844992
+reading 8
+            | 957: 5322641408
+reading 8
+            | 958: 5327435776
+reading 8
+            | 959: 5332230144
+reading 8
+            | 960: 5337382912
+reading 8
+            | 961: 5342175232
+reading 8
+            | 962: 5346969600
+reading 8
+            | 963: 5351761920
+reading 8
+            | 964: 5356544000
+reading 8
+            | 965: 5361315840
+reading 8
+            | 966: 5366081536
+reading 8
+            | 967: 5370843136
+reading 8
+            | 968: 5375598592
+reading 8
+            | 969: 5380352000
+reading 8
+            | 970: 5385103360
+reading 8
+            | 971: 5389856768
+reading 8
+            | 972: 5394974720
+reading 8
+            | 973: 5399728128
+reading 8
+            | 974: 5404483584
+reading 8
+            | 975: 5409236992
+reading 8
+            | 976: 5413988352
+reading 8
+            | 977: 5418737664
+reading 8
+            | 978: 5423486976
+reading 8
+            | 979: 5428232192
+reading 8
+            | 980: 5432977408
+reading 8
+            | 981: 5437724672
+reading 8
+            | 982: 5442469888
+reading 8
+            | 983: 5447217152
+reading 8
+            | 984: 5452322816
+reading 8
+            | 985: 5457061888
+reading 8
+            | 986: 5461803008
+reading 8
+            | 987: 5466540032
+reading 8
+            | 988: 5471275008
+reading 8
+            | 989: 5476009984
+reading 8
+            | 990: 5480747008
+reading 8
+            | 991: 5485484032
+reading 8
+            | 992: 5490223104
+reading 8
+            | 993: 5494962176
+reading 8
+            | 994: 5499703296
+reading 8
+            | 995: 5504448512
+reading 8
+            | 996: 5509558272
+reading 8
+            | 997: 5514309632
+reading 8
+            | 998: 5519067136
+reading 8
+            | 999: 5523828736
+reading 8
+            | 1000: 5528594432
+reading 8
+            | 1001: 5533362176
+reading 8
+            | 1002: 5538131968
+reading 8
+            | 1003: 5542901760
+reading 8
+            | 1004: 5547671552
+reading 8
+            | 1005: 5552445440
+reading 8
+            | 1006: 5557219328
+reading 8
+            | 1007: 5561991168
+reading 8
+            | 1008: 5567127552
+reading 8
+            | 1009: 5571905536
+reading 8
+            | 1010: 5576689664
+reading 8
+            | 1011: 5581473792
+reading 8
+            | 1012: 5586262016
+reading 8
+            | 1013: 5591050240
+reading 8
+            | 1014: 5595844608
+reading 8
+            | 1015: 5600643072
+reading 8
+            | 1016: 5605439488
+reading 8
+            | 1017: 5610240000
+reading 8
+            | 1018: 5615042560
+reading 8
+            | 1019: 5619847168
+reading 8
+            | 1020: 5625016320
+reading 8
+            | 1021: 5629829120
+reading 8
+            | 1022: 5634646016
+reading 8
+            | 1023: 5639462912
+reading 8
+            | 1024: 5644277760
+reading 8
+            | 1025: 5649088512
+reading 8
+            | 1026: 5653897216
+reading 8
+            | 1027: 5658699776
+reading 8
+            | 1028: 5663502336
+reading 8
+            | 1029: 5668304896
+reading 8
+            | 1030: 5673107456
+reading 8
+            | 1031: 5677910016
+reading 8
+            | 1032: 5683073024
+reading 8
+            | 1033: 5687875584
+reading 8
+            | 1034: 5692676096
+reading 8
+            | 1035: 5697478656
+reading 8
+            | 1036: 5702285312
+reading 8
+            | 1037: 5707091968
+reading 8
+            | 1038: 5711898624
+reading 8
+            | 1039: 5716709376
+reading 8
+            | 1040: 5721524224
+reading 8
+            | 1041: 5726339072
+reading 8
+            | 1042: 5731158016
+reading 8
+            | 1043: 5735983104
+reading 8
+            | 1044: 5741170688
+reading 8
+            | 1045: 5746003968
+reading 8
+            | 1046: 5750841344
+reading 8
+            | 1047: 5755682816
+reading 8
+            | 1048: 5760526336
+reading 8
+            | 1049: 5765378048
+reading 8
+            | 1050: 5770235904
+reading 8
+            | 1051: 5775099904
+reading 8
+            | 1052: 5779974144
+reading 8
+            | 1053: 5784854528
+reading 8
+            | 1054: 5789739008
+reading 8
+            | 1055: 5794627584
+reading 8
+            | 1056: 5799882752
+reading 8
+            | 1057: 5804779520
+reading 8
+            | 1058: 5809674240
+reading 8
+            | 1059: 5814568960
+reading 8
+            | 1060: 5819465728
+reading 8
+            | 1061: 5824362496
+reading 8
+            | 1062: 5829263360
+reading 8
+            | 1063: 5834166272
+reading 8
+            | 1064: 5839067136
+reading 8
+            | 1065: 5843972096
+reading 8
+            | 1066: 5848877056
+reading 8
+            | 1067: 5853782016
+reading 8
+            | 1068: 5859047424
+reading 8
+            | 1069: 5863952384
+reading 8
+            | 1070: 5868855296
+reading 8
+            | 1071: 5873760256
+reading 8
+            | 1072: 5878667264
+reading 8
+            | 1073: 5883572224
+reading 8
+            | 1074: 5888479232
+reading 8
+            | 1075: 5893384192
+reading 8
+            | 1076: 5898285056
+reading 8
+            | 1077: 5903185920
+reading 8
+            | 1078: 5908080640
+reading 8
+            | 1079: 5912977408
+reading 8
+            | 1080: 5918234624
+reading 8
+            | 1081: 5923133440
+reading 8
+            | 1082: 5928036352
+reading 8
+            | 1083: 5932937216
+reading 8
+            | 1084: 5937838080
+reading 8
+            | 1085: 5942738944
+reading 8
+            | 1086: 5947637760
+reading 8
+            | 1087: 5952534528
+reading 8
+            | 1088: 5957429248
+reading 8
+            | 1089: 5962319872
+reading 8
+            | 1090: 5967212544
+reading 8
+            | 1091: 5972103168
+reading 8
+            | 1092: 5977352192
+reading 8
+            | 1093: 5982242816
+reading 8
+            | 1094: 5987127296
+reading 8
+            | 1095: 5992009728
+reading 8
+            | 1096: 5996888064
+reading 8
+            | 1097: 6001764352
+reading 8
+            | 1098: 6006638592
+reading 8
+            | 1099: 6011508736
+reading 8
+            | 1100: 6016372736
+reading 8
+            | 1101: 6021236736
+reading 8
+            | 1102: 6026096640
+reading 8
+            | 1103: 6030956544
+reading 8
+            | 1104: 6036174848
+reading 8
+            | 1105: 6041032704
+reading 8
+            | 1106: 6045892608
+reading 8
+            | 1107: 6050750464
+reading 8
+            | 1108: 6055602176
+reading 8
+            | 1109: 6060451840
+reading 8
+            | 1110: 6065297408
+reading 8
+            | 1111: 6070140928
+reading 8
+            | 1112: 6074984448
+reading 8
+            | 1113: 6079830016
+reading 8
+            | 1114: 6084679680
+reading 8
+            | 1115: 6089529344
+reading 8
+            | 1116: 6094739456
+reading 8
+            | 1117: 6099587072
+reading 8
+            | 1118: 6104436736
+reading 8
+            | 1119: 6109282304
+reading 8
+            | 1120: 6114131968
+reading 8
+            | 1121: 6118981632
+reading 8
+            | 1122: 6123835392
+reading 8
+            | 1123: 6128689152
+reading 8
+            | 1124: 6133540864
+reading 8
+            | 1125: 6138394624
+reading 8
+            | 1126: 6143248384
+reading 8
+            | 1127: 6148102144
+reading 8
+            | 1128: 6153316352
+reading 8
+            | 1129: 6158174208
+reading 8
+            | 1130: 6163034112
+reading 8
+            | 1131: 6167894016
+reading 8
+            | 1132: 6172753920
+reading 8
+            | 1133: 6177617920
+reading 8
+            | 1134: 6182486016
+reading 8
+            | 1135: 6187356160
+reading 8
+            | 1136: 6192228352
+reading 8
+            | 1137: 6197102592
+reading 8
+            | 1138: 6201976832
+reading 8
+            | 1139: 6206857216
+reading 8
+            | 1140: 6212102144
+reading 8
+            | 1141: 6216984576
+reading 8
+            | 1142: 6221869056
+reading 8
+            | 1143: 6226753536
+reading 8
+            | 1144: 6231642112
+reading 8
+            | 1145: 6236534784
+reading 8
+            | 1146: 6241427456
+reading 8
+            | 1147: 6246318080
+reading 8
+            | 1148: 6251212800
+reading 8
+            | 1149: 6256109568
+reading 8
+            | 1150: 6261012480
+reading 8
+            | 1151: 6265917440
+reading 8
+            | 1152: 6271184896
+reading 8
+            | 1153: 6276096000
+reading 8
+            | 1154: 6281009152
+reading 8
+            | 1155: 6285922304
+reading 8
+            | 1156: 6290837504
+reading 8
+            | 1157: 6295754752
+reading 8
+            | 1158: 6300669952
+reading 8
+            | 1159: 6305587200
+reading 8
+            | 1160: 6310506496
+reading 8
+            | 1161: 6315425792
+reading 8
+            | 1162: 6320347136
+reading 8
+            | 1163: 6325266432
+reading 8
+            | 1164: 6330546176
+reading 8
+            | 1165: 6335467520
+reading 8
+            | 1166: 6340384768
+reading 8
+            | 1167: 6345302016
+reading 8
+            | 1168: 6350217216
+reading 8
+            | 1169: 6355132416
+reading 8
+            | 1170: 6360043520
+reading 8
+            | 1171: 6364952576
+reading 8
+            | 1172: 6369859584
+reading 8
+            | 1173: 6374764544
+reading 8
+            | 1174: 6379663360
+reading 8
+            | 1175: 6384558080
+reading 8
+            | 1176: 6389815296
+reading 8
+            | 1177: 6394705920
+reading 8
+            | 1178: 6399594496
+reading 8
+            | 1179: 6404483072
+reading 8
+            | 1180: 6409369600
+reading 8
+            | 1181: 6414252032
+reading 8
+            | 1182: 6419132416
+reading 8
+            | 1183: 6424012800
+reading 8
+            | 1184: 6428891136
+reading 8
+            | 1185: 6433767424
+reading 8
+            | 1186: 6438643712
+reading 8
+            | 1187: 6443522048
+reading 8
+            | 1188: 6448756736
+reading 8
+            | 1189: 6453626880
+reading 8
+            | 1190: 6458497024
+reading 8
+            | 1191: 6463367168
+reading 8
+            | 1192: 6468237312
+reading 8
+            | 1193: 6473103360
+reading 8
+            | 1194: 6477973504
+reading 8
+            | 1195: 6482839552
+reading 8
+            | 1196: 6487705600
+reading 8
+            | 1197: 6492571648
+reading 8
+            | 1198: 6497433600
+reading 8
+            | 1199: 6502295552
+reading 8
+            | 1200: 6507520000
+reading 8
+            | 1201: 6512386048
+reading 8
+            | 1202: 6517256192
+reading 8
+            | 1203: 6522128384
+reading 8
+            | 1204: 6527002624
+reading 8
+            | 1205: 6531878912
+reading 8
+            | 1206: 6536753152
+reading 8
+            | 1207: 6541629440
+reading 8
+            | 1208: 6546511872
+reading 8
+            | 1209: 6551396352
+reading 8
+            | 1210: 6556280832
+reading 8
+            | 1211: 6561161216
+reading 8
+            | 1212: 6566395904
+reading 8
+            | 1213: 6571268096
+reading 8
+            | 1214: 6576144384
+reading 8
+            | 1215: 6581018624
+reading 8
+            | 1216: 6585896960
+reading 8
+            | 1217: 6590785536
+reading 8
+            | 1218: 6595682304
+reading 8
+            | 1219: 6600585216
+reading 8
+            | 1220: 6605484032
+reading 8
+            | 1221: 6610382848
+reading 8
+            | 1222: 6615283712
+reading 8
+            | 1223: 6620186624
+reading 8
+            | 1224: 6625454080
+reading 8
+            | 1225: 6630361088
+reading 8
+            | 1226: 6635268096
+reading 8
+            | 1227: 6640177152
+reading 8
+            | 1228: 6645088256
+reading 8
+            | 1229: 6649999360
+reading 8
+            | 1230: 6654912512
+reading 8
+            | 1231: 6659823616
+reading 8
+            | 1232: 6664736768
+reading 8
+            | 1233: 6669647872
+reading 8
+            | 1234: 6674550784
+reading 8
+            | 1235: 6679453696
+reading 8
+            | 1236: 6684710912
+reading 8
+            | 1237: 6689599488
+reading 8
+            | 1238: 6694488064
+reading 8
+            | 1239: 6699372544
+reading 8
+            | 1240: 6704261120
+reading 8
+            | 1241: 6709151744
+reading 8
+            | 1242: 6714046464
+reading 8
+            | 1243: 6718945280
+reading 8
+            | 1244: 6723846144
+reading 8
+            | 1245: 6728753152
+reading 8
+            | 1246: 6733664256
+reading 8
+            | 1247: 6738581504
+reading 8
+            | 1248: 6743863296
+reading 8
+            | 1249: 6748788736
+reading 8
+            | 1250: 6753716224
+reading 8
+            | 1251: 6758643712
+reading 8
+            | 1252: 6763577344
+reading 8
+            | 1253: 6768519168
+reading 8
+            | 1254: 6773467136
+reading 8
+            | 1255: 6778419200
+reading 8
+            | 1256: 6783379456
+reading 8
+            | 1257: 6788345856
+reading 8
+            | 1258: 6793322496
+reading 8
+            | 1259: 6798307328
+reading 8
+            | 1260: 6803662848
+reading 8
+            | 1261: 6808672256
+reading 8
+            | 1262: 6813691904
+reading 8
+            | 1263: 6818721792
+reading 8
+            | 1264: 6823755776
+reading 8
+            | 1265: 6828795904
+reading 8
+            | 1266: 6833838080
+reading 8
+            | 1267: 6838884352
+reading 8
+            | 1268: 6843932672
+reading 8
+            | 1269: 6848980992
+reading 8
+            | 1270: 6854031360
+reading 8
+            | 1271: 6859085824
+reading 8
+            | 1272: 6864508928
+reading 8
+            | 1273: 6869579776
+reading 8
+            | 1274: 6874652672
+reading 8
+            | 1275: 6879737856
+reading 8
+            | 1276: 6884827136
+reading 8
+            | 1277: 6889918464
+reading 8
+            | 1278: 6895011840
+reading 8
+            | 1279: 6900111360
+reading 8
+            | 1280: 6905214976
+reading 8
+            | 1281: 6910320640
+reading 8
+            | 1282: 6915432448
+reading 8
+            | 1283: 6920544256
+reading 8
+            | 1284: 6926012416
+reading 8
+            | 1285: 6931116032
+reading 8
+            | 1286: 6936219648
+reading 8
+            | 1287: 6941319168
+reading 8
+            | 1288: 6946418688
+reading 8
+            | 1289: 6951518208
+reading 8
+            | 1290: 6956615680
+reading 8
+            | 1291: 6961711104
+reading 8
+            | 1292: 6966804480
+reading 8
+            | 1293: 6971891712
+reading 8
+            | 1294: 6976978944
+reading 8
+            | 1295: 6982070272
+reading 8
+            | 1296: 6987520000
+reading 8
+            | 1297: 6992613376
+reading 8
+            | 1298: 6997700608
+reading 8
+            | 1299: 7002779648
+reading 8
+            | 1300: 7007854592
+reading 8
+            | 1301: 7012923392
+reading 8
+            | 1302: 7017986048
+reading 8
+            | 1303: 7023048704
+reading 8
+            | 1304: 7028119552
+reading 8
+            | 1305: 7033196544
+reading 8
+            | 1306: 7038279680
+reading 8
+            | 1307: 7043366912
+reading 8
+            | 1308: 7048824832
+reading 8
+            | 1309: 7053926400
+reading 8
+            | 1310: 7059027968
+reading 8
+            | 1311: 7064127488
+reading 8
+            | 1312: 7069229056
+reading 8
+            | 1313: 7074326528
+reading 8
+            | 1314: 7079419904
+reading 8
+            | 1315: 7084515328
+reading 8
+            | 1316: 7089604608
+reading 8
+            | 1317: 7094691840
+reading 8
+            | 1318: 7099781120
+reading 8
+            | 1319: 7104870400
+reading 8
+            | 1320: 7110316032
+reading 8
+            | 1321: 7115397120
+reading 8
+            | 1322: 7120476160
+reading 8
+            | 1323: 7125544960
+reading 8
+            | 1324: 7130609664
+reading 8
+            | 1325: 7135672320
+reading 8
+            | 1326: 7140739072
+reading 8
+            | 1327: 7145807872
+reading 8
+            | 1328: 7150880768
+reading 8
+            | 1329: 7155961856
+reading 8
+            | 1330: 7161044992
+reading 8
+            | 1331: 7166132224
+reading 8
+            | 1332: 7171577856
+reading 8
+            | 1333: 7176660992
+reading 8
+            | 1334: 7181746176
+reading 8
+            | 1335: 7186827264
+reading 8
+            | 1336: 7191902208
+reading 8
+            | 1337: 7196971008
+reading 8
+            | 1338: 7202039808
+reading 8
+            | 1339: 7207114752
+reading 8
+            | 1340: 7212197888
+reading 8
+            | 1341: 7217287168
+reading 8
+            | 1342: 7222392832
+reading 8
+            | 1343: 7227494400
+reading 8
+            | 1344: 7232964608
+reading 8
+            | 1345: 7238092800
+reading 8
+            | 1346: 7243227136
+reading 8
+            | 1347: 7248351232
+reading 8
+            | 1348: 7253467136
+reading 8
+            | 1349: 7258580992
+reading 8
+            | 1350: 7263688704
+reading 8
+            | 1351: 7268792320
+reading 8
+            | 1352: 7273891840
+reading 8
+            | 1353: 7278989312
+reading 8
+            | 1354: 7284092928
+reading 8
+            | 1355: 7289190400
+reading 8
+            | 1356: 7294658560
+reading 8
+            | 1357: 7299784704
+reading 8
+            | 1358: 7304929280
+reading 8
+            | 1359: 7310086144
+reading 8
+            | 1360: 7315243008
+reading 8
+            | 1361: 7320408064
+reading 8
+            | 1362: 7325564928
+reading 8
+            | 1363: 7330695168
+reading 8
+            | 1364: 7335815168
+reading 8
+            | 1365: 7340931072
+reading 8
+            | 1366: 7346040832
+reading 8
+            | 1367: 7351144448
+reading 8
+            | 1368: 7356600320
+reading 8
+            | 1369: 7361687552
+reading 8
+            | 1370: 7366766592
+reading 8
+            | 1371: 7371843584
+reading 8
+            | 1372: 7376918528
+reading 8
+            | 1373: 7381993472
+reading 8
+            | 1374: 7387070464
+reading 8
+            | 1375: 7392147456
+reading 8
+            | 1376: 7397226496
+reading 8
+            | 1377: 7402319872
+reading 8
+            | 1378: 7407425536
+reading 8
+            | 1379: 7412527104
+reading 8
+            | 1380: 7417980928
+reading 8
+            | 1381: 7423066112
+reading 8
+            | 1382: 7428145152
+reading 8
+            | 1383: 7433222144
+reading 8
+            | 1384: 7438299136
+reading 8
+            | 1385: 7443376128
+reading 8
+            | 1386: 7448449024
+reading 8
+            | 1387: 7453526016
+reading 8
+            | 1388: 7458607104
+reading 8
+            | 1389: 7463694336
+reading 8
+            | 1390: 7468773376
+reading 8
+            | 1391: 7473862656
+reading 8
+            | 1392: 7479336960
+reading 8
+            | 1393: 7484463104
+reading 8
+            | 1394: 7489589248
+reading 8
+            | 1395: 7494711296
+reading 8
+            | 1396: 7499837440
+reading 8
+            | 1397: 7504959488
+reading 8
+            | 1398: 7510067200
+reading 8
+            | 1399: 7515162624
+reading 8
+            | 1400: 7520256000
+reading 8
+            | 1401: 7525345280
+reading 8
+            | 1402: 7530430464
+reading 8
+            | 1403: 7535507456
+reading 8
+            | 1404: 7540932608
+reading 8
+            | 1405: 7545995264
+reading 8
+            | 1406: 7551066112
+reading 8
+            | 1407: 7556141056
+reading 8
+            | 1408: 7561236480
+reading 8
+            | 1409: 7566344192
+reading 8
+            | 1410: 7571443712
+reading 8
+            | 1411: 7576526848
+reading 8
+            | 1412: 7581605888
+reading 8
+            | 1413: 7586680832
+reading 8
+            | 1414: 7591749632
+reading 8
+            | 1415: 7596816384
+reading 8
+            | 1416: 7602249728
+reading 8
+            | 1417: 7607326720
+reading 8
+            | 1418: 7612411904
+reading 8
+            | 1419: 7617492992
+reading 8
+            | 1420: 7622567936
+reading 8
+            | 1421: 7627640832
+reading 8
+            | 1422: 7632719872
+reading 8
+            | 1423: 7637815296
+reading 8
+            | 1424: 7642927104
+reading 8
+            | 1425: 7648049152
+reading 8
+            | 1426: 7653173248
+reading 8
+            | 1427: 7658295296
+reading 8
+            | 1428: 7663775744
+reading 8
+            | 1429: 7668903936
+reading 8
+            | 1430: 7674054656
+reading 8
+            | 1431: 7679195136
+reading 8
+            | 1432: 7684317184
+reading 8
+            | 1433: 7689441280
+reading 8
+            | 1434: 7694559232
+reading 8
+            | 1435: 7699664896
+reading 8
+            | 1436: 7704760320
+reading 8
+            | 1437: 7709839360
+reading 8
+            | 1438: 7714914304
+reading 8
+            | 1439: 7719987200
+reading 8
+            | 1440: 7725414400
+reading 8
+            | 1441: 7730481152
+reading 8
+            | 1442: 7735545856
+reading 8
+            | 1443: 7740635136
+reading 8
+            | 1444: 7745751040
+reading 8
+            | 1445: 7750899712
+reading 8
+            | 1446: 7756072960
+reading 8
+            | 1447: 7761238016
+reading 8
+            | 1448: 7766384640
+reading 8
+            | 1449: 7771529216
+reading 8
+            | 1450: 7776690176
+reading 8
+            | 1451: 7781861376
+reading 8
+            | 1452: 7787399168
+reading 8
+            | 1453: 7792580608
+reading 8
+            | 1454: 7797770240
+reading 8
+            | 1455: 7802966016
+reading 8
+            | 1456: 7808178176
+reading 8
+            | 1457: 7813425152
+reading 8
+            | 1458: 7818690560
+reading 8
+            | 1459: 7823958016
+reading 8
+            | 1460: 7829213184
+reading 8
+            | 1461: 7834451968
+reading 8
+            | 1462: 7839666176
+reading 8
+            | 1463: 7844864000
+reading 8
+            | 1464: 7850414080
+reading 8
+            | 1465: 7855595520
+reading 8
+            | 1466: 7860774912
+reading 8
+            | 1467: 7865972736
+reading 8
+            | 1468: 7871201280
+reading 8
+            | 1469: 7876452352
+reading 8
+            | 1470: 7881732096
+reading 8
+            | 1471: 7887046656
+reading 8
+            | 1472: 7892391936
+reading 8
+            | 1473: 7897753600
+reading 8
+            | 1474: 7903131648
+reading 8
+            | 1475: 7908526080
+reading 8
+            | 1476: 7914287104
+reading 8
+            | 1477: 7919683584
+reading 8
+            | 1478: 7925073920
+reading 8
+            | 1479: 7930464256
+reading 8
+            | 1480: 7935852544
+reading 8
+            | 1481: 7941236736
+reading 8
+            | 1482: 7946620928
+reading 8
+            | 1483: 7952003072
+reading 8
+            | 1484: 7957385216
+reading 8
+            | 1485: 7962769408
+reading 8
+            | 1486: 7968163840
+reading 8
+            | 1487: 7973582848
+reading 8
+            | 1488: 7979382784
+reading 8
+            | 1489: 7984828416
+reading 8
+            | 1490: 7990274048
+reading 8
+            | 1491: 7995719680
+reading 8
+            | 1492: 8001173504
+reading 8
+            | 1493: 8006627328
+reading 8
+            | 1494: 8012079104
+reading 8
+            | 1495: 8017530880
+reading 8
+            | 1496: 8022982656
+reading 8
+            | 1497: 8028444672
+reading 8
+            | 1498: 8033916928
+reading 8
+            | 1499: 8039399424
+reading 8
+            | 1500: 8045256704
+reading 8
+            | 1501: 8050767872
+reading 8
+            | 1502: 8056289280
+reading 8
+            | 1503: 8061804544
+reading 8
+            | 1504: 8067309568
+reading 8
+            | 1505: 8072804352
+reading 8
+            | 1506: 8078288896
+reading 8
+            | 1507: 8083769344
+reading 8
+            | 1508: 8089262080
+reading 8
+            | 1509: 8094763008
+reading 8
+            | 1510: 8100259840
+reading 8
+            | 1511: 8105740288
+reading 8
+            | 1512: 8111566848
+reading 8
+            | 1513: 8117032960
+reading 8
+            | 1514: 8122513408
+reading 8
+            | 1515: 8128022528
+reading 8
+            | 1516: 8133541888
+reading 8
+            | 1517: 8139034624
+reading 8
+            | 1518: 8144504832
+reading 8
+            | 1519: 8149964800
+reading 8
+            | 1520: 8155416576
+reading 8
+            | 1521: 8160856064
+reading 8
+            | 1522: 8166279168
+reading 8
+            | 1523: 8171694080
+reading 8
+            | 1524: 8177481728
+reading 8
+            | 1525: 8182935552
+reading 8
+            | 1526: 8188401664
+reading 8
+            | 1527: 8193869824
+reading 8
+            | 1528: 8199315456
+reading 8
+            | 1529: 8204754944
+reading 8
+            | 1530: 8210190336
+reading 8
+            | 1531: 8215609344
+reading 8
+            | 1532: 8221020160
+reading 8
+            | 1533: 8226420736
+reading 8
+            | 1534: 8231817216
+reading 8
+            | 1535: 8237203456
+reading 8
+            | 1536: 8242946048
+reading 8
+            | 1537: 8248326144
+reading 8
+            | 1538: 8253708288
+reading 8
+            | 1539: 8259098624
+reading 8
+            | 1540: 8264499200
+reading 8
+            | 1541: 8269916160
+reading 8
+            | 1542: 8275331072
+reading 8
+            | 1543: 8280752128
+reading 8
+            | 1544: 8286183424
+reading 8
+            | 1545: 8291624960
+reading 8
+            | 1546: 8297072640
+reading 8
+            | 1547: 8302532608
+reading 8
+            | 1548: 8308363264
+reading 8
+            | 1549: 8313837568
+reading 8
+            | 1550: 8319287296
+reading 8
+            | 1551: 8324718592
+reading 8
+            | 1552: 8330147840
+reading 8
+            | 1553: 8335575040
+reading 8
+            | 1554: 8341000192
+reading 8
+            | 1555: 8346433536
+reading 8
+            | 1556: 8351870976
+reading 8
+            | 1557: 8357312512
+reading 8
+            | 1558: 8362758144
+reading 8
+            | 1559: 8368232448
+reading 8
+            | 1560: 8374069248
+reading 8
+            | 1561: 8379537408
+reading 8
+            | 1562: 8384989184
+reading 8
+            | 1563: 8390440960
+reading 8
+            | 1564: 8395894784
+reading 8
+            | 1565: 8401330176
+reading 8
+            | 1566: 8406753280
+reading 8
+            | 1567: 8412172288
+reading 8
+            | 1568: 8417589248
+reading 8
+            | 1569: 8423004160
+reading 8
+            | 1570: 8428417024
+reading 8
+            | 1571: 8433825792
+reading 8
+            | 1572: 8439584768
+reading 8
+            | 1573: 8444985344
+reading 8
+            | 1574: 8450394112
+reading 8
+            | 1575: 8455823360
+reading 8
+            | 1576: 8461271040
+reading 8
+            | 1577: 8466724864
+reading 8
+            | 1578: 8472178688
+reading 8
+            | 1579: 8477634560
+reading 8
+            | 1580: 8483090432
+reading 8
+            | 1581: 8488579072
+reading 8
+            | 1582: 8494073856
+reading 8
+            | 1583: 8499572736
+reading 8
+            | 1584: 8505446400
+reading 8
+            | 1585: 8510971904
+reading 8
+            | 1586: 8516491264
+reading 8
+            | 1587: 8521990144
+reading 8
+            | 1588: 8527474688
+reading 8
+            | 1589: 8532942848
+reading 8
+            | 1590: 8538396672
+reading 8
+            | 1591: 8543836160
+reading 8
+            | 1592: 8549253120
+reading 8
+            | 1593: 8554665984
+reading 8
+            | 1594: 8560087040
+reading 8
+            | 1595: 8565506048
+reading 8
+            | 1596: 8571283456
+reading 8
+            | 1597: 8576696320
+reading 8
+            | 1598: 8582111232
+reading 8
+            | 1599: 8587528192
+reading 8
+            | 1600: 8592947200
+reading 8
+            | 1601: 8598364160
+reading 8
+            | 1602: 8603779072
+reading 8
+            | 1603: 8609189888
+reading 8
+            | 1604: 8614596608
+reading 8
+            | 1605: 8619991040
+reading 8
+            | 1606: 8625377280
+reading 8
+            | 1607: 8630761472
+reading 8
+            | 1608: 8636512256
+reading 8
+            | 1609: 8641904640
+reading 8
+            | 1610: 8647299072
+reading 8
+            | 1611: 8652687360
+reading 8
+            | 1612: 8658069504
+reading 8
+            | 1613: 8663431168
+reading 8
+            | 1614: 8668782592
+reading 8
+            | 1615: 8674134016
+reading 8
+            | 1616: 8679485440
+reading 8
+            | 1617: 8684826624
+reading 8
+            | 1618: 8690132992
+reading 8
+            | 1619: 8695412736
+reading 8
+            | 1620: 8701040640
+reading 8
+            | 1621: 8706304000
+reading 8
+            | 1622: 8711571456
+reading 8
+            | 1623: 8716851200
+reading 8
+            | 1624: 8722137088
+reading 8
+            | 1625: 8727406592
+reading 8
+            | 1626: 8732665856
+reading 8
+            | 1627: 8737914880
+reading 8
+            | 1628: 8743163904
+reading 8
+            | 1629: 8748412928
+reading 8
+            | 1630: 8753659904
+reading 8
+            | 1631: 8758908928
+reading 8
+            | 1632: 8764526592
+reading 8
+            | 1633: 8769789952
+reading 8
+            | 1634: 8775053312
+reading 8
+            | 1635: 8780320768
+reading 8
+            | 1636: 8785580032
+reading 8
+            | 1637: 8790835200
+reading 8
+            | 1638: 8796110848
+reading 8
+            | 1639: 8801390592
+reading 8
+            | 1640: 8806682624
+reading 8
+            | 1641: 8811986944
+reading 8
+            | 1642: 8817287168
+reading 8
+            | 1643: 8822583296
+reading 8
+            | 1644: 8828243968
+reading 8
+            | 1645: 8833550336
+reading 8
+            | 1646: 8838854656
+reading 8
+            | 1647: 8844158976
+reading 8
+            | 1648: 8849463296
+reading 8
+            | 1649: 8854763520
+reading 8
+            | 1650: 8860057600
+reading 8
+            | 1651: 8865357824
+reading 8
+            | 1652: 8870658048
+reading 8
+            | 1653: 8875954176
+reading 8
+            | 1654: 8881242112
+reading 8
+            | 1655: 8886532096
+reading 8
+            | 1656: 8892190720
+reading 8
+            | 1657: 8897472512
+reading 8
+            | 1658: 8902744064
+reading 8
+            | 1659: 8908023808
+reading 8
+            | 1660: 8913313792
+reading 8
+            | 1661: 8918603776
+reading 8
+            | 1662: 8923897856
+reading 8
+            | 1663: 8929179648
+reading 8
+            | 1664: 8934461440
+reading 8
+            | 1665: 8939739136
+reading 8
+            | 1666: 8945022976
+reading 8
+            | 1667: 8950306816
+reading 8
+            | 1668: 8955947008
+reading 8
+            | 1669: 8961232896
+reading 8
+            | 1670: 8966518784
+reading 8
+            | 1671: 8971802624
+reading 8
+            | 1672: 8977082368
+reading 8
+            | 1673: 8982358016
+reading 8
+            | 1674: 8987627520
+reading 8
+            | 1675: 8992897024
+reading 8
+            | 1676: 8998164480
+reading 8
+            | 1677: 9003433984
+reading 8
+            | 1678: 9008713728
+reading 8
+            | 1679: 9013995520
+reading 8
+            | 1680: 9019633664
+reading 8
+            | 1681: 9024919552
+reading 8
+            | 1682: 9030211584
+reading 8
+            | 1683: 9035513856
+reading 8
+            | 1684: 9040830464
+reading 8
+            | 1685: 9046136832
+reading 8
+            | 1686: 9051435008
+reading 8
+            | 1687: 9056727040
+reading 8
+            | 1688: 9062006784
+reading 8
+            | 1689: 9067280384
+reading 8
+            | 1690: 9072551936
+reading 8
+            | 1691: 9077825536
+reading 8
+            | 1692: 9083463680
+reading 8
+            | 1693: 9088757760
+reading 8
+            | 1694: 9094062080
+reading 8
+            | 1695: 9099364352
+reading 8
+            | 1696: 9104664576
+reading 8
+            | 1697: 9109966848
+reading 8
+            | 1698: 9115275264
+reading 8
+            | 1699: 9120589824
+reading 8
+            | 1700: 9125902336
+reading 8
+            | 1701: 9131208704
+reading 8
+            | 1702: 9136498688
+reading 8
+            | 1703: 9141770240
+reading 8
+            | 1704: 9147406336
+reading 8
+            | 1705: 9152714752
+reading 8
+            | 1706: 9158041600
+reading 8
+            | 1707: 9163364352
+reading 8
+            | 1708: 9168672768
+reading 8
+            | 1709: 9173960704
+reading 8
+            | 1710: 9179238400
+reading 8
+            | 1711: 9184495616
+reading 8
+            | 1712: 9189730304
+reading 8
+            | 1713: 9194971136
+reading 8
+            | 1714: 9200214016
+reading 8
+            | 1715: 9205450752
+reading 8
+            | 1716: 9211041792
+reading 8
+            | 1717: 9216272384
+reading 8
+            | 1718: 9221502976
+reading 8
+            | 1719: 9226739712
+reading 8
+            | 1720: 9231986688
+reading 8
+            | 1721: 9237239808
+reading 8
+            | 1722: 9242501120
+reading 8
+            | 1723: 9247754240
+reading 8
+            | 1724: 9253007360
+reading 8
+            | 1725: 9258262528
+reading 8
+            | 1726: 9263519744
+reading 8
+            | 1727: 9268779008
+reading 8
+            | 1728: 9274411008
+reading 8
+            | 1729: 9279694848
+reading 8
+            | 1730: 9284986880
+reading 8
+            | 1731: 9290283008
+reading 8
+            | 1732: 9295577088
+reading 8
+            | 1733: 9300860928
+reading 8
+            | 1734: 9306140672
+reading 8
+            | 1735: 9311424512
+reading 8
+            | 1736: 9316706304
+reading 8
+            | 1737: 9321975808
+reading 8
+            | 1738: 9327233024
+reading 8
+            | 1739: 9332477952
+reading 8
+            | 1740: 9338077184
+reading 8
+            | 1741: 9343303680
+reading 8
+            | 1742: 9348526080
+reading 8
+            | 1743: 9353742336
+reading 8
+            | 1744: 9358962688
+reading 8
+            | 1745: 9364191232
+reading 8
+            | 1746: 9369427968
+reading 8
+            | 1747: 9374676992
+reading 8
+            | 1748: 9379938304
+reading 8
+            | 1749: 9385220096
+reading 8
+            | 1750: 9390524416
+reading 8
+            | 1751: 9395822592
+reading 8
+            | 1752: 9401468928
+reading 8
+            | 1753: 9406736384
+reading 8
+            | 1754: 9411958784
+reading 8
+            | 1755: 9417109504
+reading 8
+            | 1756: 9422221312
+reading 8
+            | 1757: 9427331072
+reading 8
+            | 1758: 9432430592
+reading 8
+            | 1759: 9437528064
+reading 8
+            | 1760: 9442623488
+reading 8
+            | 1761: 9447712768
+reading 8
+            | 1762: 9452800000
+reading 8
+            | 1763: 9457889280
+reading 8
+            | 1764: 9463336960
+reading 8
+            | 1765: 9468422144
+reading 8
+            | 1766: 9473509376
+reading 8
+            | 1767: 9478596608
+reading 8
+            | 1768: 9483681792
+reading 8
+            | 1769: 9488769024
+reading 8
+            | 1770: 9493860352
+reading 8
+            | 1771: 9498949632
+reading 8
+            | 1772: 9504040960
+reading 8
+            | 1773: 9509134336
+reading 8
+            | 1774: 9514225664
+reading 8
+            | 1775: 9519323136
+reading 8
+            | 1776: 9524781056
+reading 8
+            | 1777: 9529878528
+reading 8
+            | 1778: 9534976000
+reading 8
+            | 1779: 9540069376
+reading 8
+            | 1780: 9545164800
+reading 8
+            | 1781: 9550260224
+reading 8
+            | 1782: 9555353600
+reading 8
+            | 1783: 9560444928
+reading 8
+            | 1784: 9565536256
+reading 8
+            | 1785: 9570627584
+reading 8
+            | 1786: 9575718912
+reading 8
+            | 1787: 9580808192
+reading 8
+            | 1788: 9586257920
+reading 8
+            | 1789: 9591345152
+reading 8
+            | 1790: 9596430336
+reading 8
+            | 1791: 9601513472
+reading 8
+            | 1792: 9606594560
+reading 8
+            | 1793: 9611673600
+reading 8
+            | 1794: 9616750592
+reading 8
+            | 1795: 9621827584
+reading 8
+            | 1796: 9626900480
+reading 8
+            | 1797: 9631975424
+reading 8
+            | 1798: 9637046272
+reading 8
+            | 1799: 9642119168
+reading 8
+            | 1800: 9647552512
+reading 8
+            | 1801: 9652625408
+reading 8
+            | 1802: 9657702400
+reading 8
+            | 1803: 9662781440
+reading 8
+            | 1804: 9667858432
+reading 8
+            | 1805: 9672937472
+reading 8
+            | 1806: 9678012416
+reading 8
+            | 1807: 9683085312
+reading 8
+            | 1808: 9688158208
+reading 8
+            | 1809: 9693229056
+reading 8
+            | 1810: 9698295808
+reading 8
+            | 1811: 9703360512
+reading 8
+            | 1812: 9708783616
+reading 8
+            | 1813: 9713844224
+reading 8
+            | 1814: 9718896640
+reading 8
+            | 1815: 9723949056
+reading 8
+            | 1816: 9729001472
+reading 8
+            | 1817: 9734051840
+reading 8
+            | 1818: 9739098112
+reading 8
+            | 1819: 9744138240
+reading 8
+            | 1820: 9749180416
+reading 8
+            | 1821: 9754218496
+reading 8
+            | 1822: 9759254528
+reading 8
+            | 1823: 9764286464
+reading 8
+            | 1824: 9769676800
+reading 8
+            | 1825: 9774702592
+reading 8
+            | 1826: 9779726336
+reading 8
+            | 1827: 9784745984
+reading 8
+            | 1828: 9789763584
+reading 8
+            | 1829: 9794779136
+reading 8
+            | 1830: 9799790592
+reading 8
+            | 1831: 9804797952
+reading 8
+            | 1832: 9809803264
+reading 8
+            | 1833: 9814808576
+reading 8
+            | 1834: 9819809792
+reading 8
+            | 1835: 9824808960
+reading 8
+            | 1836: 9830170624
+reading 8
+            | 1837: 9835169792
+reading 8
+            | 1838: 9840168960
+reading 8
+            | 1839: 9845170176
+reading 8
+            | 1840: 9850169344
+reading 8
+            | 1841: 9855166464
+reading 8
+            | 1842: 9860167680
+reading 8
+            | 1843: 9865166848
+reading 8
+            | 1844: 9870166016
+reading 8
+            | 1845: 9875165184
+reading 8
+            | 1846: 9880164352
+reading 8
+            | 1847: 9885165568
+reading 8
+            | 1848: 9890529280
+reading 8
+            | 1849: 9895532544
+reading 8
+            | 1850: 9900535808
+reading 8
+            | 1851: 9905545216
+reading 8
+            | 1852: 9910552576
+reading 8
+            | 1853: 9915561984
+reading 8
+            | 1854: 9920573440
+reading 8
+            | 1855: 9925586944
+reading 8
+            | 1856: 9930598400
+reading 8
+            | 1857: 9935607808
+reading 8
+            | 1858: 9940615168
+reading 8
+            | 1859: 9945618432
+reading 8
+            | 1860: 9950973952
+reading 8
+            | 1861: 9955952640
+reading 8
+            | 1862: 9960916992
+reading 8
+            | 1863: 9965856768
+reading 8
+            | 1864: 9970769920
+reading 8
+            | 1865: 9975650304
+reading 8
+            | 1866: 9980497920
+reading 8
+            | 1867: 9985327104
+reading 8
+            | 1868: 9990144000
+reading 8
+            | 1869: 9994971136
+reading 8
+            | 1870: 9999806464
+reading 8
+            | 1871: 10004676608
+reading 8
+            | 1872: 10010009600
+reading 8
+            | 1873: 10015086592
+reading 8
+            | 1874: 10020202496
+reading 8
+            | 1875: 10025322496
+reading 8
+            | 1876: 10030434304
+reading 8
+            | 1877: 10035550208
+reading 8
+            | 1878: 10040657920
+reading 8
+            | 1879: 10045739008
+reading 8
+            | 1880: 10050818048
+reading 8
+            | 1881: 10055899136
+reading 8
+            | 1882: 10061021184
+reading 8
+            | 1883: 10066159616
+reading 8
+            | 1884: 10071707648
+reading 8
+            | 1885: 10076880896
+reading 8
+            | 1886: 10081992704
+reading 8
+            | 1887: 10087014400
+reading 8
+            | 1888: 10091927552
+reading 8
+            | 1889: 10096676864
+reading 8
+            | 1890: 10101260288
+reading 8
+            | 1891: 10105675776
+reading 8
+            | 1892: 10109882368
+reading 8
+            | 1893: 10114553856
+reading 8
+            | 1894: 10118965248
+reading 8
+            | 1895: 10123106304
+reading 8
+            | 1896: 10127370240
+reading 8
+            | 1897: 10131132416
+reading 8
+            | 1898: 10134755328
+reading 8
+            | 1899: 10138255360
+reading 8
+            | 1900: 10141671424
+reading 8
+            | 1901: 10145013760
+reading 8
+            | 1902: 10148302848
+reading 8
+            | 1903: 10151571456
+reading 8
+            | 1904: 10154969088
+reading 8
+            | 1905: 10158577664
+reading 8
+            | 1906: 10162276352
+reading 8
+            | 1907: 10165942272
+reading 8
+            | 1908: 10169935872
+reading 8
+            | 1909: 10173495296
+seeking 0
+reading 8
+  - Atom: trak (1896 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 19:38:37 (3641485117)
+      | Modification time: 2019-05-23 19:39:57 (3641485197)
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (1760 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 19:38:37 (3641485117)
+        | Modification time: 2019-05-23 19:39:57 (3641485197)
+        | Time Scale: 48000
+        | Duration: 3823820
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1936684398
+        | component manufacturer: 1634758764
+        | component flags: 268435456
+        | component flags mask: 66000
+        | component name: b'\x19Apple Sound Media Handler\x00\x00'
+reading 8
+      - Atom: minf (1660 bytes)
+reading 8
+        - Atom: smhd (16 bytes)
+reading 8
+          | balance: 0
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Alias Data Handler\x00\x00\x00'
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00\x00\x01'
+reading 8
+        - Atom: stbl (1540 bytes)
+reading 8
+          - Atom: stsd (140 bytes)
+reading 132
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x00rin24\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x05\x00\x10\xff\xff\x00\x00\xbb\x80\x00\x00\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x00\x0f\x00\x00\x00\x02\x00\x00\x00&wave\x00\x00\x00\x0cfrmain24\x00\x00\x00\nenda\x00\x01\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x18chan\x00\x00'...24 more bytes
+reading 8
+          - Atom: stts (24 bytes)
+reading 8
+            | number of entries : 1
+            | time-to-sample table:
+reading 8
+            | 3823820: 1
+reading 8
+          - Atom: stsc (40 bytes)
+reading 8
+            | number of entries : 2
+            | sample-to-chunk table:
+reading 12
+            | 1: 24024 - 1
+reading 12
+            | 160: 4004 - 1
+reading 8
+          - Atom: skip (12 bytes)
+unhandled thingie 12 skip
+seeking 4
+reading 8
+          - Atom: stsz (20 bytes)
+reading 12
+            | sample size : 1
+            | number of entries : 3823820
+reading 8
+          - Atom: co64 (1296 bytes)
+reading 8
+            | number of entries : 160
+            | chunk offset table:
+reading 8
+            | 0: 68902912
+reading 8
+            | 1: 136996864
+reading 8
+            | 2: 205295616
+reading 8
+            | 3: 273922048
+reading 8
+            | 4: 342315008
+reading 8
+            | 5: 408543232
+reading 8
+            | 6: 471046144
+reading 8
+            | 7: 534474752
+reading 8
+            | 8: 599072768
+reading 8
+            | 9: 666195968
+reading 8
+            | 10: 733679616
+reading 8
+            | 11: 800731136
+reading 8
+            | 12: 868059136
+reading 8
+            | 13: 935639040
+reading 8
+            | 14: 1003290624
+reading 8
+            | 15: 1071355904
+reading 8
+            | 16: 1140221952
+reading 8
+            | 17: 1209860096
+reading 8
+            | 18: 1278963712
+reading 8
+            | 19: 1347622912
+reading 8
+            | 20: 1416218624
+reading 8
+            | 21: 1484873728
+reading 8
+            | 22: 1553549312
+reading 8
+            | 23: 1622005760
+reading 8
+            | 24: 1690273792
+reading 8
+            | 25: 1758404608
+reading 8
+            | 26: 1827231744
+reading 8
+            | 27: 1897377792
+reading 8
+            | 28: 1968697344
+reading 8
+            | 29: 2038835200
+reading 8
+            | 30: 2106755072
+reading 8
+            | 31: 2173495296
+reading 8
+            | 32: 2238758912
+reading 8
+            | 33: 2303283200
+reading 8
+            | 34: 2367989760
+reading 8
+            | 35: 2432382976
+reading 8
+            | 36: 2496997376
+reading 8
+            | 37: 2563350528
+reading 8
+            | 38: 2631327744
+reading 8
+            | 39: 2701619200
+reading 8
+            | 40: 2772457472
+reading 8
+            | 41: 2841550848
+reading 8
+            | 42: 2910199808
+reading 8
+            | 43: 2978846720
+reading 8
+            | 44: 3048079360
+reading 8
+            | 45: 3117662208
+reading 8
+            | 46: 3187716096
+reading 8
+            | 47: 3257833472
+reading 8
+            | 48: 3327936512
+reading 8
+            | 49: 3397974016
+reading 8
+            | 50: 3467544576
+reading 8
+            | 51: 3536543744
+reading 8
+            | 52: 3605385216
+reading 8
+            | 53: 3674222592
+reading 8
+            | 54: 3743201280
+reading 8
+            | 55: 3812231168
+reading 8
+            | 56: 3881248768
+reading 8
+            | 57: 3949862912
+reading 8
+            | 58: 4017573888
+reading 8
+            | 59: 4087222272
+reading 8
+            | 60: 4157855744
+reading 8
+            | 61: 4227205120
+reading 8
+            | 62: 4294227968
+reading 8
+            | 63: 4360148992
+reading 8
+            | 64: 4423424000
+reading 8
+            | 65: 4485343232
+reading 8
+            | 66: 4546549760
+reading 8
+            | 67: 4607625216
+reading 8
+            | 68: 4668225536
+reading 8
+            | 69: 4729174016
+reading 8
+            | 70: 4791398400
+reading 8
+            | 71: 4853528576
+reading 8
+            | 72: 4914976768
+reading 8
+            | 73: 4975163392
+reading 8
+            | 74: 5036636160
+reading 8
+            | 75: 5098145792
+reading 8
+            | 76: 5159563264
+reading 8
+            | 77: 5220032512
+reading 8
+            | 78: 5278994432
+reading 8
+            | 79: 5337022464
+reading 8
+            | 80: 5394614272
+reading 8
+            | 81: 5451962368
+reading 8
+            | 82: 5509197824
+reading 8
+            | 83: 5566767104
+reading 8
+            | 84: 5624655872
+reading 8
+            | 85: 5682712576
+reading 8
+            | 86: 5740810240
+reading 8
+            | 87: 5799522304
+reading 8
+            | 88: 5858686976
+reading 8
+            | 89: 5917874176
+reading 8
+            | 90: 5976991744
+reading 8
+            | 91: 6035814400
+reading 8
+            | 92: 6094379008
+reading 8
+            | 93: 6152955904
+reading 8
+            | 94: 6211741696
+reading 8
+            | 95: 6270824448
+reading 8
+            | 96: 6330185728
+reading 8
+            | 97: 6389454848
+reading 8
+            | 98: 6448396288
+reading 8
+            | 99: 6507159552
+reading 8
+            | 100: 6566035456
+reading 8
+            | 101: 6625093632
+reading 8
+            | 102: 6684350464
+reading 8
+            | 103: 6743502848
+reading 8
+            | 104: 6803302400
+reading 8
+            | 105: 6864148480
+reading 8
+            | 106: 6925651968
+reading 8
+            | 107: 6987159552
+reading 8
+            | 108: 7048464384
+reading 8
+            | 109: 7109955584
+reading 8
+            | 110: 7171217408
+reading 8
+            | 111: 7232604160
+reading 8
+            | 112: 7294298112
+reading 8
+            | 113: 7356239872
+reading 8
+            | 114: 7417620480
+reading 8
+            | 115: 7478976512
+reading 8
+            | 116: 7540572160
+reading 8
+            | 117: 7601889280
+reading 8
+            | 118: 7663415296
+reading 8
+            | 119: 7725053952
+reading 8
+            | 120: 7787038720
+reading 8
+            | 121: 7850053632
+reading 8
+            | 122: 7913926656
+reading 8
+            | 123: 7979022336
+reading 8
+            | 124: 8044896256
+reading 8
+            | 125: 8111206400
+reading 8
+            | 126: 8177121280
+reading 8
+            | 127: 8242585600
+reading 8
+            | 128: 8308002816
+reading 8
+            | 129: 8373708800
+reading 8
+            | 130: 8439224320
+reading 8
+            | 131: 8505085952
+reading 8
+            | 132: 8570923008
+reading 8
+            | 133: 8636151808
+reading 8
+            | 134: 8700680192
+reading 8
+            | 135: 8764166144
+reading 8
+            | 136: 8827883520
+reading 8
+            | 137: 8891830272
+reading 8
+            | 138: 8955586560
+reading 8
+            | 139: 9019273216
+reading 8
+            | 140: 9083103232
+reading 8
+            | 141: 9147045888
+reading 8
+            | 142: 9210681344
+reading 8
+            | 143: 9274050560
+reading 8
+            | 144: 9337716736
+reading 8
+            | 145: 9401108480
+reading 8
+            | 146: 9462976512
+reading 8
+            | 147: 9524420608
+reading 8
+            | 148: 9585897472
+reading 8
+            | 149: 9647192064
+reading 8
+            | 150: 9708423168
+reading 8
+            | 151: 9769316352
+reading 8
+            | 152: 9829810176
+reading 8
+            | 153: 9890168832
+reading 8
+            | 154: 9950613504
+reading 8
+            | 155: 10009649152
+reading 8
+            | 156: 10071347200
+reading 8
+            | 157: 10127009792
+reading 8
+            | 158: 10169575424
+reading 8
+            | 159: 10177026048
+seeking 0
+reading 8
+  - Atom: trak (632 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 19:38:37 (3641485117)
+      | Modification time: 2019-05-23 19:39:57 (3641485197)
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (464 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 19:38:37 (3641485117)
+        | Modification time: 2019-05-23 19:39:57 (3641485197)
+        | Time Scale: 24000
+        | Duration: 1911910
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1953325924
+        | component manufacturer: 1634758764
+        | component flags: 268435457
+        | component flags mask: 66008
+        | component name: b'\x17Time Code Media Handler\x00\x00\x00\x00'
+reading 8
+      - Atom: minf (364 bytes)
+reading 8
+        - Atom: gmhd (88 bytes)
+unhandled thingie 88 gmhd
+seeking 80
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Alias Data Handler\x00\x00\x00'
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00\x00\x01'
+reading 8
+        - Atom: stbl (172 bytes)
+reading 8
+          - Atom: stsd (72 bytes)
+reading 64
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x008tmcd\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00]\xc0\x00\x00\x03\xe9\x18\x00\x00\x00\x00\x16name\x00\x08\x00\x00A064R5GE\x00\x00'
+reading 8
+          - Atom: stts (24 bytes)
+reading 8
+            | number of entries : 1
+            | time-to-sample table:
+reading 8
+            | 1: 1911910
+reading 8
+          - Atom: stsc (28 bytes)
+reading 8
+            | number of entries : 1
+            | sample-to-chunk table:
+reading 12
+            | 1: 1 - 1
+reading 8
+          - Atom: stsz (20 bytes)
+reading 12
+            | sample size : 4
+            | number of entries : 1
+reading 8
+          - Atom: stco (20 bytes)
+reading 12
+            | number of entries: 1
+            | chunk offset table: b'\x00\x1f\xff\xf0'
+reading 8
+    - Atom: udta (32 bytes)
+reading 8
+reading 16
+      | kgtt (16 bytes)    sourceTC    
+reading 8
+  - Atom: meta (436008 bytes)
+unhandled thingie 436008 meta
+seeking 436000
+reading 8
+  - Atom: udta (24 bytes)
+reading 8
+reading 4
+    | apmd (4 bytes) prod
+reading 8
+skip 0 length
+reading 8
+- Atom:      (2003395685 bytes)
+unhandled thingie 2003395685     
+seeking 2003395677

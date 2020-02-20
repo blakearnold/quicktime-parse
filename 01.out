@@ -1,0 +1,307 @@
+File: /Volumes/shared_tm/COPY_OF_OVERWRITTEN_CARD/A064R5GE/A064C001_190523_R5GE.mov (10181672960 bytes, 9710.0 MB)
+reading 8
+- Atom: ftyp (32 bytes)
+reading 8
+  | Brand: qt  , version: 537199360
+reading 16
+reading 8
+- Atom: wide (2097088 bytes)
+unhandled thingie 2097088 wide
+seeking 2097080
+reading 8
+- Atom: mdat (1 bytes)
+unhandled thingie 1 mdat
+64 bit header!
+reading 8
+seeking 10175381520
+reading 8
+- Atom: moov (463868 bytes)
+reading 8
+  - Atom: mvhd (108 bytes)
+reading 100
+    | Creation time: 2019-05-23 19:38:37 (3641485117)
+    | Modification time: 2019-05-23 19:39:57 (3641485197)
+    | Time Scale: 24000
+    | Duration: 1911910
+    | Preferred rate: 65536
+    | Preferred volume: 256
+    | preview time: 0
+    | preview duration: 0
+    | poster time: 0
+    | selection time: 0
+    | selection duration: 0
+    | current time: 0
+    | next track id: 4
+reading 8
+  - Atom: trak (25192 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 19:38:37 (3641485117)
+      | Modification time: 2019-05-23 19:39:57 (3641485197)
+reading 8
+    - Atom: tapt (68 bytes)
+unhandled thingie 68 tapt
+seeking 60
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (24988 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 19:38:37 (3641485117)
+        | Modification time: 2019-05-23 19:39:57 (3641485197)
+        | Time Scale: 24000
+        | Duration: 1911910
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1986618469
+        | component manufacturer: 1634758764
+        | component flags: 268435456
+        | component flags mask: 66003
+        | component name: b'\x19Apple Vid'...18 more bytes
+reading 8
+      - Atom: minf (24888 bytes)
+reading 8
+        - Atom: vmhd (20 bytes)
+reading 12
+          | graphics mode: 64
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Ali'...18 more bytes
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00'...2 more bytes
+reading 8
+        - Atom: stbl (24764 bytes)
+reading 8
+          - Atom: stsd (1736 bytes)
+reading 1728
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x06\xb8ap4h\x00\x00'...1710 more bytes
+reading 8
+          - Atom: stts (24 bytes)
+reading 16
+            | number of entries: 1
+            | time-to-sample table: b'\x00\x00\x07v\x00\x00\x03\xe9'
+reading 8
+          - Atom: stsc (40 bytes)
+reading 32
+            | number of entries: 2
+            | sample-to-chunk table: b'\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00'...14 more bytes
+reading 8
+          - Atom: stsz (7660 bytes)
+reading 7652
+            | sample size: 0
+            | number of entries: 1910
+            | sample size table: b'\x00T\xa0\x00\x00T\xa8\x00\x00T'...7630 more bytes
+reading 8
+          - Atom: co64 (15296 bytes)
+unhandled thingie 15296 co64
+seeking 15288
+reading 8
+  - Atom: trak (1896 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 19:38:37 (3641485117)
+      | Modification time: 2019-05-23 19:39:57 (3641485197)
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (1760 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 19:38:37 (3641485117)
+        | Modification time: 2019-05-23 19:39:57 (3641485197)
+        | Time Scale: 48000
+        | Duration: 3823820
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1936684398
+        | component manufacturer: 1634758764
+        | component flags: 268435456
+        | component flags mask: 66000
+        | component name: b'\x19Apple Sou'...18 more bytes
+reading 8
+      - Atom: minf (1660 bytes)
+reading 8
+        - Atom: smhd (16 bytes)
+reading 8
+          | balance: 0
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Ali'...18 more bytes
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00'...2 more bytes
+reading 8
+        - Atom: stbl (1540 bytes)
+reading 8
+          - Atom: stsd (140 bytes)
+reading 132
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x00rin24\x00\x00'...114 more bytes
+reading 8
+          - Atom: stts (24 bytes)
+reading 16
+            | number of entries: 1
+            | time-to-sample table: b'\x00:X\xcc\x00\x00\x00\x01'
+reading 8
+          - Atom: stsc (40 bytes)
+reading 32
+            | number of entries: 2
+            | sample-to-chunk table: b'\x00\x00\x00\x01\x00\x00]\xd8\x00\x00'...14 more bytes
+reading 8
+          - Atom: skip (12 bytes)
+unhandled thingie 12 skip
+seeking 4
+reading 8
+          - Atom: stsz (20 bytes)
+reading 12
+            | sample size: 1
+            | number of entries: 3823820
+            | sample size table: b''
+reading 8
+          - Atom: co64 (1296 bytes)
+unhandled thingie 1296 co64
+seeking 1288
+reading 8
+  - Atom: trak (632 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 19:38:37 (3641485117)
+      | Modification time: 2019-05-23 19:39:57 (3641485197)
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (464 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 19:38:37 (3641485117)
+        | Modification time: 2019-05-23 19:39:57 (3641485197)
+        | Time Scale: 24000
+        | Duration: 1911910
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1953325924
+        | component manufacturer: 1634758764
+        | component flags: 268435457
+        | component flags mask: 66008
+        | component name: b'\x17Time Code'...18 more bytes
+reading 8
+      - Atom: minf (364 bytes)
+reading 8
+        - Atom: gmhd (88 bytes)
+unhandled thingie 88 gmhd
+seeking 80
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Ali'...18 more bytes
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00'...2 more bytes
+reading 8
+        - Atom: stbl (172 bytes)
+reading 8
+          - Atom: stsd (72 bytes)
+reading 64
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x008tmcd\x00\x00'...46 more bytes
+reading 8
+          - Atom: stts (24 bytes)
+reading 16
+            | number of entries: 1
+            | time-to-sample table: b'\x00\x00\x00\x01\x00\x1d,f'
+reading 8
+          - Atom: stsc (28 bytes)
+reading 20
+            | number of entries: 1
+            | sample-to-chunk table: b'\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00'...2 more bytes
+reading 8
+          - Atom: stsz (20 bytes)
+reading 12
+            | sample size: 4
+            | number of entries: 1
+            | sample size table: b''
+reading 8
+          - Atom: stco (20 bytes)
+reading 12
+            | number of entries: 1
+            | chunk offset table: b'\x00\x1f\xff\xf0'
+reading 8
+    - Atom: udta (32 bytes)
+reading 8
+reading 16
+      | kgtt (16 bytes)
+reading 8
+  - Atom: meta (436008 bytes)
+unhandled thingie 436008 meta
+seeking 436000
+reading 8
+  - Atom: udta (24 bytes)
+reading 8
+reading 4
+    | apmd (4 bytes)
+reading 8
+reading 8
+    |  8ì (8 bytes)
+reading 8
+- Atom:      (0 bytes)
+unhandled thingie 0     
+seeking 3730428

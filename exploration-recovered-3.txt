@@ -1,0 +1,314 @@
+blakearnold@Blakes-MacBook-Pro ~/p/quicktime-parse> python3 parse.py /Volumes/Samsung_T5/RECOVERED_FILES/A062R5GE/A062C003_190523_R5GE.mov 
+
+mdat = 8+8+50333745168=50,333,745,184 bytes
+
+50,333,745,184 bytes / 10283273 duration = 4,894.72 byte/duration
+
+
+
+File: /Volumes/Samsung_T5/RECOVERED_FILES/A062R5GE/A062C003_190523_R5GE.mov (50340036608 bytes, 48008.0 MB)
+reading 8
+- Atom: ftyp (32 bytes)
+reading 8
+  | Brand: qt  , version: 537199360
+reading 16
+reading 8
+- Atom: wide (2097088 bytes)
+unhandled thingie 2097088 wide
+seeking 2097080
+reading 8
+- Atom: mdat (1 bytes)
+unhandled thingie 1 mdat
+64 bit header!
+reading 8
+seeking 50333745168
+reading 8
+- Atom: moov (569800 bytes)
+reading 8
+  - Atom: mvhd (108 bytes)
+reading 100
+    | Creation time: 2019-05-23 17:23:39 (3641477019)
+    | Modification time: 2019-05-23 17:30:47 (3641477447)
+    | Time Scale: 24000
+    | Duration: 10283273
+    | Preferred rate: 65536
+    | Preferred volume: 256
+    | preview time: 0
+    | preview duration: 0
+    | poster time: 0
+    | selection time: 0
+    | selection duration: 0
+    | current time: 0
+    | next track id: 4
+reading 8
+  - Atom: trak (125548 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 17:23:39 (3641477019)
+      | Modification time: 2019-05-23 17:30:47 (3641477447)
+reading 8
+    - Atom: tapt (68 bytes)
+unhandled thingie 68 tapt
+seeking 60
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (125344 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 17:23:39 (3641477019)
+        | Modification time: 2019-05-23 17:30:47 (3641477447)
+        | Time Scale: 24000
+        | Duration: 10283273
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1986618469
+        | component manufacturer: 1634758764
+        | component flags: 268435456
+        | component flags mask: 66003
+        | component name: b'\x19Apple Video Media Handler\x00\x00'
+reading 8
+      - Atom: minf (125244 bytes)
+reading 8
+        - Atom: vmhd (20 bytes)
+reading 12
+          | graphics mode: 64
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Alias Data Handler\x00\x00\x00'
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00\x00\x01'
+reading 8
+        - Atom: stbl (125120 bytes)
+reading 8
+          - Atom: stsd (1736 bytes)
+reading 1728
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x06\xb8ap4h\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00appl\x00\x00\x00\x00\x00\x00\x02\x00\x0f\x00\x08p\x00H\x00\x00\x00H\x00\x00\x00\x00\x00\x00\x00\x01\x11Apple ProRes 4444\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18\xff\xff\x00\x00\x00\nfiel\x01\x00\x00\x00\x00\x12'...1620 more bytes
+reading 8
+          - Atom: stts (24 bytes)
+reading 16
+            | number of entries: 1
+            | time-to-sample table: b'\x00\x00(!\x00\x00\x03\xe9'
+reading 8
+          - Atom: stsc (40 bytes)
+reading 32
+            | number of entries: 2
+            | sample-to-chunk table: b'\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00( \x00\x00\x00\x01\x00\x00\x00\x01'
+reading 8
+          - Atom: stsz (41112 bytes)
+reading 41104
+            | sample size: 0
+            | number of entries: 10273
+            | sample size table: b'\x00E\x90\x00\x00E\xa8\x00\x00E\xb0\x00\x00E\xc8\x00\x00E\xc0\x00\x00E\xd8\x00\x00E\xb8\x00\x00E\xb8\x00\x00E\xc8\x00\x00E\xd0\x00\x00E\xd0\x00\x00E\xc0\x00\x00E\xc0\x00\x00E\xb8\x00\x00E\xd0\x00\x00E\xc8\x00\x00E\xc8\x00\x00E\xc8\x00\x00E\xb8\x00\x00E\xb8\x00\x00E\xb8\x00\x00E\xc0\x00\x00E\xc0\x00\x00E\xb0\x00\x00E\xb8\x00'...40992 more bytes
+reading 8
+          - Atom: co64 (82200 bytes)
+unhandled thingie 82200 co64
+seeking 82192
+reading 8
+  - Atom: trak (7472 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 17:23:39 (3641477019)
+      | Modification time: 2019-05-23 17:30:47 (3641477447)
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (7336 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 17:23:39 (3641477019)
+        | Modification time: 2019-05-23 17:30:47 (3641477447)
+        | Time Scale: 48000
+        | Duration: 20566546
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1936684398
+        | component manufacturer: 1634758764
+        | component flags: 268435456
+        | component flags mask: 66000
+        | component name: b'\x19Apple Sound Media Handler\x00\x00'
+reading 8
+      - Atom: minf (7236 bytes)
+reading 8
+        - Atom: smhd (16 bytes)
+reading 8
+          | balance: 0
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Alias Data Handler\x00\x00\x00'
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00\x00\x01'
+reading 8
+        - Atom: stbl (7116 bytes)
+reading 8
+          - Atom: stsd (140 bytes)
+reading 132
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x00rin24\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x05\x00\x10\xff\xff\x00\x00\xbb\x80\x00\x00\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x00\x0f\x00\x00\x00\x02\x00\x00\x00&wave\x00\x00\x00\x0cfrmain24\x00\x00\x00\nenda\x00\x01\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x18chan\x00\x00'...24 more bytes
+reading 8
+          - Atom: stts (24 bytes)
+reading 16
+            | number of entries: 1
+            | time-to-sample table: b'\x019\xd2\x12\x00\x00\x00\x01'
+reading 8
+          - Atom: stsc (40 bytes)
+reading 32
+            | number of entries: 2
+            | sample-to-chunk table: b'\x00\x00\x00\x01\x00\x00]\xd8\x00\x00\x00\x01\x00\x00\x03Y\x00\x00\x07\xd2\x00\x00\x00\x01'
+reading 8
+          - Atom: skip (12 bytes)
+unhandled thingie 12 skip
+seeking 4
+reading 8
+          - Atom: stsz (20 bytes)
+reading 12
+            | sample size: 1
+            | number of entries: 20566546
+            | sample size table: b''
+reading 8
+          - Atom: co64 (6872 bytes)
+unhandled thingie 6872 co64
+seeking 6864
+reading 8
+  - Atom: trak (632 bytes)
+reading 8
+    - Atom: tkhd (92 bytes)
+reading 84
+      | Creation time: 2019-05-23 17:23:39 (3641477019)
+      | Modification time: 2019-05-23 17:30:47 (3641477447)
+reading 8
+    - Atom: edts (36 bytes)
+unhandled thingie 36 edts
+seeking 28
+reading 8
+    - Atom: mdia (464 bytes)
+reading 8
+      - Atom: mdhd (32 bytes)
+reading 24
+        | Version: 0
+        | Creation time: 2019-05-23 17:23:39 (3641477019)
+        | Modification time: 2019-05-23 17:30:47 (3641477447)
+        | Time Scale: 24000
+        | Duration: 10283273
+        | Language: 0
+        | Quality: 0
+reading 8
+      - Atom: hdlr (60 bytes)
+reading 52
+        | Component type: 1835560050
+        | component subtype: 1953325924
+        | component manufacturer: 1634758764
+        | component flags: 268435457
+        | component flags mask: 66008
+        | component name: b'\x17Time Code Media Handler\x00\x00\x00\x00'
+reading 8
+      - Atom: minf (364 bytes)
+reading 8
+        - Atom: gmhd (88 bytes)
+unhandled thingie 88 gmhd
+seeking 80
+reading 8
+        - Atom: hdlr (60 bytes)
+reading 52
+          | Component type: 1684565106
+          | component subtype: 1634494835
+          | component manufacturer: 1634758764
+          | component flags: 268435457
+          | component flags mask: 66026
+          | component name: b'\x18Apple Alias Data Handler\x00\x00\x00'
+reading 8
+        - Atom: dinf (36 bytes)
+reading 8
+          - Atom: dref (28 bytes)
+reading 20
+            | number of entries: 1
+            | data references: b'\x00\x00\x00\x0calis\x00\x00\x00\x01'
+reading 8
+        - Atom: stbl (172 bytes)
+reading 8
+          - Atom: stsd (72 bytes)
+reading 64
+            | number of entries: 1
+            | sample description table: b'\x00\x00\x008tmcd\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00]\xc0\x00\x00\x03\xe9\x18\x00\x00\x00\x00\x16name\x00\x08\x00\x00A062R5GE\x00\x00'
+reading 8
+          - Atom: stts (24 bytes)
+reading 16
+            | number of entries: 1
+            | time-to-sample table: b'\x00\x00\x00\x01\x00\x9c\xe9\t'
+reading 8
+          - Atom: stsc (28 bytes)
+reading 20
+            | number of entries: 1
+            | sample-to-chunk table: b'\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x01'
+reading 8
+          - Atom: stsz (20 bytes)
+reading 12
+            | sample size: 4
+            | number of entries: 1
+            | sample size table: b''
+reading 8
+          - Atom: stco (20 bytes)
+reading 12
+            | number of entries: 1
+            | chunk offset table: b'\x00\x1f\xff\xf0'
+reading 8
+    - Atom: udta (32 bytes)
+reading 8
+reading 16
+      | kgtt (16 bytes)
+reading 8
+  - Atom: meta (436008 bytes)
+unhandled thingie 436008 meta
+seeking 436000
+reading 8
+  - Atom: udta (24 bytes)
+reading 8
+reading 4
+    | apmd (4 bytes)
+reading 8
+skip 0 length
+reading 8
+- Atom:  (2003395685 bytes)
+unhandled thingie 2003395685 
+seeking 2003395677

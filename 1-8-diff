@@ -1,0 +1,155 @@
+blakearnold@Blakes-MacBook-Pro ~/p/quicktime-parse> diff 01.out 08.out 
+1c1
+< File: /Volumes/shared_tm/COPY_OF_OVERWRITTEN_CARD/A064R5GE/A064C001_190523_R5GE.mov (10181672960 bytes, 9710.0 MB)
+---
+> File: /Volumes/shared_tm/COPY_OF_OVERWRITTEN_CARD/A064R5GE/A064C008_190523_R5GE.mov (45048922112 bytes, 42962.0 MB)
+16c16
+< seeking 10175381520
+---
+> seeking 45042630672
+18c18
+< - Atom: moov (463868 bytes)
+---
+> - Atom: moov (560180 bytes)
+22,23c22,23
+<     | Creation time: 2019-05-23 19:38:37 (3641485117)
+<     | Modification time: 2019-05-23 19:39:57 (3641485197)
+---
+>     | Creation time: 2019-05-23 20:40:55 (3641488855)
+>     | Modification time: 2019-05-23 20:47:32 (3641489252)
+25c25
+<     | Duration: 1911910
+---
+>     | Duration: 9523514
+36c36
+<   - Atom: trak (25192 bytes)
+---
+>   - Atom: trak (116440 bytes)
+40,41c40,41
+<       | Creation time: 2019-05-23 19:38:37 (3641485117)
+<       | Modification time: 2019-05-23 19:39:57 (3641485197)
+---
+>       | Creation time: 2019-05-23 20:40:55 (3641488855)
+>       | Modification time: 2019-05-23 20:47:32 (3641489252)
+51c51
+<     - Atom: mdia (24988 bytes)
+---
+>     - Atom: mdia (116236 bytes)
+56,57c56,57
+<         | Creation time: 2019-05-23 19:38:37 (3641485117)
+<         | Modification time: 2019-05-23 19:39:57 (3641485197)
+---
+>         | Creation time: 2019-05-23 20:40:55 (3641488855)
+>         | Modification time: 2019-05-23 20:47:32 (3641489252)
+59c59
+<         | Duration: 1911910
+---
+>         | Duration: 9523514
+72c72
+<       - Atom: minf (24888 bytes)
+---
+>       - Atom: minf (116136 bytes)
+94c94
+<         - Atom: stbl (24764 bytes)
+---
+>         - Atom: stbl (116012 bytes)
+104c104
+<             | time-to-sample table: b'\x00\x00\x07v\x00\x00\x03\xe9'
+---
+>             | time-to-sample table: b'\x00\x00%*\x00\x00\x03\xe9'
+111,112c111,112
+<           - Atom: stsz (7660 bytes)
+< reading 7652
+---
+>           - Atom: stsz (38076 bytes)
+> reading 38068
+114,115c114,115
+<             | number of entries: 1910
+<             | sample size table: b'\x00T\xa0\x00\x00T\xa8\x00\x00T'...7630 more bytes
+---
+>             | number of entries: 9514
+>             | sample size table: b'\x00H \x00\x00H\x18\x00\x00H'...38046 more bytes
+117,119c117,119
+<           - Atom: co64 (15296 bytes)
+< unhandled thingie 15296 co64
+< seeking 15288
+---
+>           - Atom: co64 (76128 bytes)
+> unhandled thingie 76128 co64
+> seeking 76120
+121c121
+<   - Atom: trak (1896 bytes)
+---
+>   - Atom: trak (6960 bytes)
+125,126c125,126
+<       | Creation time: 2019-05-23 19:38:37 (3641485117)
+<       | Modification time: 2019-05-23 19:39:57 (3641485197)
+---
+>       | Creation time: 2019-05-23 20:40:55 (3641488855)
+>       | Modification time: 2019-05-23 20:47:32 (3641489252)
+132c132
+<     - Atom: mdia (1760 bytes)
+---
+>     - Atom: mdia (6824 bytes)
+137,138c137,138
+<         | Creation time: 2019-05-23 19:38:37 (3641485117)
+<         | Modification time: 2019-05-23 19:39:57 (3641485197)
+---
+>         | Creation time: 2019-05-23 20:40:55 (3641488855)
+>         | Modification time: 2019-05-23 20:47:32 (3641489252)
+140c140
+<         | Duration: 3823820
+---
+>         | Duration: 19047028
+153c153
+<       - Atom: minf (1660 bytes)
+---
+>       - Atom: minf (6724 bytes)
+175c175
+<         - Atom: stbl (1540 bytes)
+---
+>         - Atom: stbl (6604 bytes)
+185c185
+<             | time-to-sample table: b'\x00:X\xcc\x00\x00\x00\x01'
+---
+>             | time-to-sample table: b'\x01"\xa2t\x00\x00\x00\x01'
+199c199
+<             | number of entries: 3823820
+---
+>             | number of entries: 19047028
+202,204c202,204
+<           - Atom: co64 (1296 bytes)
+< unhandled thingie 1296 co64
+< seeking 1288
+---
+>           - Atom: co64 (6360 bytes)
+> unhandled thingie 6360 co64
+> seeking 6352
+210,211c210,211
+<       | Creation time: 2019-05-23 19:38:37 (3641485117)
+<       | Modification time: 2019-05-23 19:39:57 (3641485197)
+---
+>       | Creation time: 2019-05-23 20:40:55 (3641488855)
+>       | Modification time: 2019-05-23 20:47:32 (3641489252)
+222,223c222,223
+<         | Creation time: 2019-05-23 19:38:37 (3641485117)
+<         | Modification time: 2019-05-23 19:39:57 (3641485197)
+---
+>         | Creation time: 2019-05-23 20:40:55 (3641488855)
+>         | Modification time: 2019-05-23 20:47:32 (3641489252)
+225c225
+<         | Duration: 1911910
+---
+>         | Duration: 9523514
+270c270
+<             | time-to-sample table: b'\x00\x00\x00\x01\x00\x1d,f'
+---
+>             | time-to-sample table: b'\x00\x00\x00\x01\x00\x91Q:'
+303c303
+<     | 8ì (8 bytes)
+---
+>     | 7sÌ (8 bytes)
+307c307
+< seeking 3730428
+---
+> seeking 3634116
